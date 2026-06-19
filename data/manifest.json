@@ -1,1 +1,6 @@
-{ "_comment": "Auto-maintained fallback list of dev data files. Empty until real sessions arrive.", "files": [] }
+{
+  "_comment": "Auto-maintained fallback list of dev data files.",
+  "files": [
+    "abhinavvelaga-ups.json"
+  ]
+}
