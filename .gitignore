@@ -1,0 +1,6 @@
+﻿install-config.json
+agent-tracker-output.json
+agent-tracker-adobe.log
+active-sessions.json
+*.token
+.env

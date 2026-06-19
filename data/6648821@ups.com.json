@@ -1,0 +1,14 @@
+{
+  "developer_id": "6648821@ups.com",
+  "developer_name": "Marcus Lee",
+  "pod_name": "SCD-2",
+  "dev_role": "Dev",
+  "sessions": [
+    { "session_id": "c1", "session_type": "story",   "story_id": "377621", "agent_name": "CTS Backend CodeGen Agent", "framework": "java,spring-boot", "lines_added": 410, "files": 8, "duration_seconds": 720, "regeneration_count": 3, "timestamp": "2026-06-14T10:00:00Z" },
+    { "session_id": "c2", "session_type": "story",   "story_id": "377624", "agent_name": "CTS Data Modeller Agent", "framework": "sql", "lines_added": 180, "files": 3, "duration_seconds": 400, "regeneration_count": 0, "timestamp": "2026-06-15T11:30:00Z" },
+    { "session_id": "c3", "session_type": "story",   "story_id": "377632", "agent_name": "CTS Integration Wiring Agent", "framework": "java,spring-boot", "lines_added": 75, "files": 2, "duration_seconds": 260, "regeneration_count": 1, "timestamp": "2026-06-16T14:00:00Z" },
+    { "session_id": "c4", "session_type": "general", "story_id": null,     "agent_name": "Default Chat", "framework": "java", "lines_added": 25, "files": 1, "duration_seconds": 120, "regeneration_count": 0, "timestamp": "2026-06-17T17:20:00Z" },
+    { "session_id": "c5", "session_type": "general", "story_id": null,     "agent_name": "Default Chat", "framework": "unknown", "lines_added": 0, "files": 0, "duration_seconds": 20, "regeneration_count": 0, "timestamp": "2026-06-18T09:00:00Z" },
+    { "session_id": "c6", "session_type": "story",   "story_id": "377640", "agent_name": "CTS Test Writer Agent", "framework": "java", "lines_added": 130, "files": 4, "duration_seconds": 350, "regeneration_count": 0, "timestamp": "2026-06-18T13:15:00Z" }
+  ]
+}

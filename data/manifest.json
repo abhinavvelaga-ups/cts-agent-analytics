@@ -1,0 +1,8 @@
+{
+  "_comment": "Optional fallback list of dev data files. The dashboard tries the GitHub API first (auto-discovers every data/*.json). This manifest is only used when the API is unavailable, e.g. opening the file locally. Each machine's tracker keeps this updated; you may also edit by hand.",
+  "files": [
+    "9390014@ups.com.json",
+    "7055046@ups.com.json",
+    "6648821@ups.com.json"
+  ]
+}

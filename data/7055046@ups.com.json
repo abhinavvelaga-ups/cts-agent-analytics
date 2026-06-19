@@ -1,0 +1,12 @@
+{
+  "developer_id": "7055046@ups.com",
+  "developer_name": "Priya Nair",
+  "pod_name": "UFH-5",
+  "dev_role": "QA",
+  "sessions": [
+    { "session_id": "b1", "session_type": "story",   "story_id": "377615", "agent_name": "CTS QA Test Case Agent", "framework": "ts,playwright", "lines_added": 140, "files": 3, "duration_seconds": 360, "regeneration_count": 0, "timestamp": "2026-06-15T13:00:00Z" },
+    { "session_id": "b2", "session_type": "story",   "story_id": "377616", "agent_name": "CTS QA Selenium Agent", "framework": "python", "lines_added": 95, "files": 2, "duration_seconds": 300, "regeneration_count": 1, "timestamp": "2026-06-16T15:30:00Z" },
+    { "session_id": "b3", "session_type": "general", "story_id": null,     "agent_name": "Default Chat", "framework": "unknown", "lines_added": 0, "files": 0, "duration_seconds": 45, "regeneration_count": 0, "timestamp": "2026-06-17T09:10:00Z" },
+    { "session_id": "b4", "session_type": "story",   "story_id": "377619", "agent_name": "CTS QA Validation Agent", "framework": "ts,angular", "lines_added": 60, "files": 1, "duration_seconds": 220, "regeneration_count": 0, "timestamp": "2026-06-18T16:00:00Z" }
+  ]
+}

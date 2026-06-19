@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>CTS Agent Usage — Developer Analytics</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div class="app">
+    <!-- ───────── Header ───────── -->
+    <header class="topbar">
+      <div class="brand">
+        <div class="brand-mark">CTS</div>
+        <div class="brand-text">
+          <h1>Agent Usage Analytics</h1>
+          <p>AI adoption across all developers &amp; pods</p>
+        </div>
+      </div>
+      <div class="topbar-actions">
+        <div class="updated" id="lastUpdated">Loading…</div>
+        <button id="refreshBtn" class="btn-refresh" title="Reload data">↻ Refresh</button>
+      </div>
+    </header>
+
+    <!-- ───────── Filters ───────── -->
+    <section class="filters" id="filters">
+      <div class="filter">
+        <label>Pod</label>
+        <select id="podFilter"><option value="">All pods</option></select>
+      </div>
+      <div class="filter">
+        <label>Role</label>
+        <select id="roleFilter"><option value="">All roles</option></select>
+      </div>
+      <div class="filter">
+        <label>Developer</label>
+        <select id="devFilter"><option value="">All developers</option></select>
+      </div>
+      <div class="filter">
+        <label>Session type</label>
+        <select id="typeFilter">
+          <option value="">All sessions</option>
+          <option value="story">Story</option>
+          <option value="general">General</option>
+        </select>
+      </div>
+      <div class="filter grow">
+        <label>Search</label>
+        <input id="searchInput" type="text" placeholder="Search dev, story, agent…" />
+      </div>
+    </section>
+
+    <!-- ───────── KPI cards ───────── -->
+    <section class="kpis" id="kpis"></section>
+
+    <!-- ───────── Charts ───────── -->
+    <section class="grid-2">
+      <div class="card">
+        <div class="card-head"><h2>Sessions per developer</h2><span class="hint">story vs general</span></div>
+        <div class="bars" id="devBars"></div>
+      </div>
+      <div class="card">
+        <div class="card-head"><h2>Sessions by pod</h2><span class="hint">total</span></div>
+        <div class="bars" id="podBars"></div>
+      </div>
+    </section>
+
+    <section class="grid-2">
+      <div class="card">
+        <div class="card-head"><h2>Story vs General</h2><span class="hint">total = story + general</span></div>
+        <div class="donut-wrap">
+          <div class="donut" id="typeDonut"></div>
+          <div class="donut-legend" id="typeLegend"></div>
+        </div>
+      </div>
+      <div class="card">
+        <div class="card-head"><h2>Top agents used</h2><span class="hint">by sessions</span></div>
+        <div class="bars" id="agentBars"></div>
+      </div>
+    </section>
+
+    <!-- ───────── Developer table ───────── -->
+    <section class="card">
+      <div class="card-head"><h2>Developer breakdown</h2><span class="hint" id="devCount"></span></div>
+      <div class="table-wrap">
+        <table class="data-table" id="devTable">
+          <thead>
+            <tr>
+              <th data-sort="name">Developer</th>
+              <th data-sort="pod">Pod</th>
+              <th data-sort="role">Role</th>
+              <th data-sort="total" class="num">Total</th>
+              <th data-sort="story" class="num">Story</th>
+              <th data-sort="general" class="num">General</th>
+              <th data-sort="stories" class="num">Stories</th>
+              <th data-sort="lines" class="num">Lines</th>
+            </tr>
+          </thead>
+          <tbody id="devTableBody"></tbody>
+        </table>
+      </div>
+    </section>
+
+    <!-- ───────── Stories developed ───────── -->
+    <section class="card">
+      <div class="card-head"><h2>User stories developed</h2><span class="hint" id="storyCount"></span></div>
+      <div class="table-wrap">
+        <table class="data-table" id="storyTable">
+          <thead>
+            <tr>
+              <th data-sort="story">Story ID</th>
+              <th data-sort="dev">Developer</th>
+              <th data-sort="pod">Pod</th>
+              <th data-sort="agent">Agent</th>
+              <th data-sort="framework">Stack</th>
+              <th data-sort="date">Date</th>
+            </tr>
+          </thead>
+          <tbody id="storyTableBody"></tbody>
+        </table>
+      </div>
+    </section>
+
+    <footer class="foot">
+      <span>CTS Agent Analytics · self-hosted on GitHub Pages · no Adobe, no Power BI</span>
+      <span class="foot-credit">Developer — Abhinav Velaga</span>
+    </footer>
+  </div>
+
+  <!-- config first, then logic -->
+  <script src="config.js"></script>
+  <script src="dashboard.js"></script>
+</body>
+</html>
