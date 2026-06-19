@@ -1,9 +1,1 @@
-{
-  "_comment": "Auto-maintained fallback list of dev data files.",
-  "files": [
-    "6648821@ups.com.json",
-    "7055046@ups.com.json",
-    "9390014@ups.com.json",
-    "abhinavvelaga-ups.json"
-  ]
-}
+{ "_comment": "Auto-maintained fallback list of dev data files. Empty until real sessions arrive.", "files": [] }
