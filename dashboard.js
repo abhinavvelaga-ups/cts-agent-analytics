@@ -286,29 +286,35 @@
   }
 
   function unlock() {
-    $("loginGate").style.display = "none";
+    const g = $("loginGate");
+    g.style.display = "none";
+    g.remove();                  // fully remove so it can never overlay
     $("appRoot").hidden = false;
     wire();
     init();
+  }
+
+  async function tryUnlock() {
+    const entered = $("loginPwd").value;
+    const h = await sha256(entered);
+    if (h === PASSWORD_HASH) {
+      sessionStorage.setItem(SESSION_KEY, PASSWORD_HASH);
+      unlock();
+    } else {
+      $("loginError").hidden = false;
+      $("loginPwd").value = "";
+      $("loginPwd").focus();
+    }
   }
 
   function setupGate() {
     // Already unlocked this browser session?
     if (sessionStorage.getItem(SESSION_KEY) === PASSWORD_HASH) { unlock(); return; }
     const form = $("loginForm");
-    form.addEventListener("submit", async (e) => {
-      e.preventDefault();
-      const entered = $("loginPwd").value;
-      const h = await sha256(entered);
-      if (h === PASSWORD_HASH) {
-        sessionStorage.setItem(SESSION_KEY, PASSWORD_HASH);
-        unlock();
-      } else {
-        $("loginError").hidden = false;
-        $("loginPwd").value = "";
-        $("loginPwd").focus();
-      }
-    });
+    // Stop the native GET submit that would reload the page and lose state.
+    form.addEventListener("submit", (e) => { e.preventDefault(); tryUnlock(); return false; });
+    $("loginBtn").addEventListener("click", (e) => { e.preventDefault(); tryUnlock(); });
+    $("loginPwd").addEventListener("keydown", (e) => { if (e.key === "Enter") { e.preventDefault(); tryUnlock(); } });
     $("loginPwd").focus();
   }
 
