@@ -236,7 +236,12 @@
 
   // ── 5. Filter population & wiring ──
   function populateFilters() {
-    const pods = [...new Set(SESSIONS.map((s) => s.pod_name))].sort();
+    // Canonical pod list — the dashboard always shows these, in this order.
+    // Any unexpected pod value found in data is appended after them.
+    const POD_ORDER = ["UFH-1", "UFH-2", "UFH-3", "UFH-4", "UFH-5", "Apollo", "other Team"];
+    const dataPods = new Set(SESSIONS.map((s) => s.pod_name));
+    const extraPods = [...dataPods].filter((p) => p && !POD_ORDER.includes(p)).sort();
+    const pods = [...POD_ORDER, ...extraPods];
     const roles = [...new Set(SESSIONS.map((s) => s.dev_role))].sort();
     const devs = [...new Map(SESSIONS.map((s) => [s.developer_id, s.developer_name])).entries()].sort((a, b) => a[1].localeCompare(b[1]));
     $("podFilter").innerHTML = `<option value="">All pods</option>` + pods.map((p) => `<option value="${esc(p)}">${esc(p)}</option>`).join("");
