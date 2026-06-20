@@ -242,7 +242,11 @@
     const dataPods = new Set(SESSIONS.map((s) => s.pod_name));
     const extraPods = [...dataPods].filter((p) => p && !POD_ORDER.includes(p)).sort();
     const pods = [...POD_ORDER, ...extraPods];
-    const roles = [...new Set(SESSIONS.map((s) => s.dev_role))].sort();
+    // Canonical role list — always show Dev and QA, plus any other value in data.
+    const ROLE_ORDER = ["Dev", "QA"];
+    const dataRoles = new Set(SESSIONS.map((s) => s.dev_role));
+    const extraRoles = [...dataRoles].filter((r) => r && !ROLE_ORDER.includes(r)).sort();
+    const roles = [...ROLE_ORDER, ...extraRoles];
     const devs = [...new Map(SESSIONS.map((s) => [s.developer_id, s.developer_name])).entries()].sort((a, b) => a[1].localeCompare(b[1]));
     $("podFilter").innerHTML = `<option value="">All pods</option>` + pods.map((p) => `<option value="${esc(p)}">${esc(p)}</option>`).join("");
     $("roleFilter").innerHTML = `<option value="">All roles</option>` + roles.map((r) => `<option value="${esc(r)}">${esc(r)}</option>`).join("");
@@ -269,5 +273,44 @@
       : "No data files found — check config.js / data folder";
   }
 
-  document.addEventListener("DOMContentLoaded", () => { wire(); init(); });
+  // ── 7. Password gate ──
+  // SHA-256 of the access password. Plaintext is NOT stored. This is a casual
+  // view-gate for a static site (a determined viewer can bypass client-side
+  // checks) — it stops accidental/unauthorized casual access, not a nation-state.
+  const PASSWORD_HASH = "31f1b83bbd722b0649f33335ca58f0d823a46358d13613bf3b4191a58f7933b8";
+  const SESSION_KEY = "cts-dash-unlocked";
+
+  async function sha256(text) {
+    const buf = await crypto.subtle.digest("SHA-256", new TextEncoder().encode(text));
+    return [...new Uint8Array(buf)].map((b) => b.toString(16).padStart(2, "0")).join("");
+  }
+
+  function unlock() {
+    $("loginGate").style.display = "none";
+    $("appRoot").hidden = false;
+    wire();
+    init();
+  }
+
+  function setupGate() {
+    // Already unlocked this browser session?
+    if (sessionStorage.getItem(SESSION_KEY) === PASSWORD_HASH) { unlock(); return; }
+    const form = $("loginForm");
+    form.addEventListener("submit", async (e) => {
+      e.preventDefault();
+      const entered = $("loginPwd").value;
+      const h = await sha256(entered);
+      if (h === PASSWORD_HASH) {
+        sessionStorage.setItem(SESSION_KEY, PASSWORD_HASH);
+        unlock();
+      } else {
+        $("loginError").hidden = false;
+        $("loginPwd").value = "";
+        $("loginPwd").focus();
+      }
+    });
+    $("loginPwd").focus();
+  }
+
+  document.addEventListener("DOMContentLoaded", setupGate);
 })();
