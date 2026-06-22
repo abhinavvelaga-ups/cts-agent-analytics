@@ -33,10 +33,10 @@
       "session_type": "general",
       "story_id": null,
       "agent_name": "Default Chat",
-      "framework": "ps,markdown",
-      "lines_added": 0,
-      "files": 0,
-      "duration_seconds": 240,
+      "framework": "ps,js,markdown",
+      "lines_added": 230,
+      "files": 5,
+      "duration_seconds": 1500,
       "regeneration_count": 0,
       "timestamp": "2026-06-22T11:28:27.862Z"
     }
