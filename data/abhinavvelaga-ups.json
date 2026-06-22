@@ -39,6 +39,18 @@
       "duration_seconds": 1100,
       "regeneration_count": 0,
       "timestamp": "2026-06-22T11:28:27.862Z"
+    },
+    {
+      "session_id": "bebdc9ad-6b2a-45e9-b347-5426dc4ac3e8",
+      "session_type": "general",
+      "story_id": null,
+      "agent_name": "Default Chat",
+      "framework": "powershell",
+      "lines_added": 0,
+      "files": 0,
+      "duration_seconds": 0,
+      "regeneration_count": 0,
+      "timestamp": "2026-06-22T22:54:07.281Z"
     }
   ]
 }
