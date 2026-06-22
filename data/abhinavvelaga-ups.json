@@ -34,9 +34,9 @@
       "story_id": null,
       "agent_name": "Default Chat",
       "framework": "ps",
-      "lines_added": 35,
-      "files": 2,
-      "duration_seconds": 600,
+      "lines_added": 90,
+      "files": 3,
+      "duration_seconds": 700,
       "regeneration_count": 0,
       "timestamp": "2026-06-22T11:28:27.862Z"
     }
