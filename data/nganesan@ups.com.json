@@ -8,7 +8,7 @@
       "session_id": "bc29e8ca-b7b1-451f-b868-93094424d334",
       "session_type": "general",
       "story_id": null,
-      "event_type": "session_start",
+      "event_type": "task_complete",
       "agent_name": "CTS QA Selenium Agent Generic",
       "framework": "unknown",
       "lines_added": 0,
