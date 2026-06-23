@@ -58,9 +58,9 @@
       "story_id": "gff_digital_IQA-architecture",
       "agent_name": "CTS Architecture Agent",
       "framework": "csharp,python,ts,angular",
-      "lines_added": 0,
-      "files": 0,
-      "duration_seconds": 0,
+      "lines_added": 735,
+      "files": 1,
+      "duration_seconds": 420,
       "regeneration_count": 0,
       "timestamp": "2026-06-23T20:21:46.278Z"
     }
