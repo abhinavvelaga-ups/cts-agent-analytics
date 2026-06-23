@@ -27,6 +27,18 @@
       "duration_seconds": 0,
       "regeneration_count": 0,
       "timestamp": "2026-06-23T00:09:24.164Z"
+    },
+    {
+      "session_id": "1845d3e3-cd7a-46b4-8909-09750bc88ccd",
+      "session_type": "general",
+      "story_id": null,
+      "agent_name": "CTS Architecture Agent",
+      "framework": "csharp",
+      "lines_added": 560,
+      "files": 1,
+      "duration_seconds": 420,
+      "regeneration_count": 0,
+      "timestamp": "2026-06-23T00:15:25.635Z"
     }
   ]
 }
