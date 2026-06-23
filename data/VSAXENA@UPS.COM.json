@@ -39,6 +39,18 @@
       "duration_seconds": 420,
       "regeneration_count": 0,
       "timestamp": "2026-06-23T00:15:25.635Z"
+    },
+    {
+      "session_id": "311d9f52-fb8d-468a-bbba-f68292a9dca5",
+      "session_type": "general",
+      "story_id": null,
+      "agent_name": "CTS BRE Extraction Agent",
+      "framework": "csharp",
+      "lines_added": 0,
+      "files": 0,
+      "duration_seconds": 0,
+      "regeneration_count": 0,
+      "timestamp": "2026-06-23T00:17:13.375Z"
     }
   ]
 }
