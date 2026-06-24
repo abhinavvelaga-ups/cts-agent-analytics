@@ -1,0 +1,40 @@
+name: Deploy dashboard to GitHub Pages
+
+# Replaces the default "deploy from branch" Pages pipeline, which rebuilt on
+# EVERY push (including the frequent data/*.json usage commits) and reported
+# superseded overlapping deploys as failed runs (noisy ❌ emails). With an
+# explicit concurrency group + cancel-in-progress, a newer push cleanly
+# cancels an in-flight deploy and the latest commit always wins.
+
+on:
+  push:
+    branches: [ main ]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# Only one Pages deploy at a time; a newer one supersedes the older as a
+# clean cancellation (grey), not a failure.
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/configure-pages@v5
+      - name: Upload site (repo root)
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: '.'
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
