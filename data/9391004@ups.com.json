@@ -71,13 +71,13 @@
     },
     {
       "session_id": "e207f034-e012-4bbf-8102-88c752d11b75",
-      "session_type": "general",
-      "story_id": null,
-      "event_type": "session_start",
+      "session_type": "story",
+      "story_id": "7290930",
+      "event_type": "task_complete",
       "agent_name": "GitHub Copilot",
       "framework": "unknown",
-      "lines_added": 0,
-      "files": 0,
+      "lines_added": 9,
+      "files": 4,
       "duration_seconds": 0,
       "regeneration_count": 0,
       "timestamp": "2026-06-24T16:57:55.835Z"
