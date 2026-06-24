@@ -1,0 +1,21 @@
+{
+  "developer_id": "CW000013498@ups.com",
+  "developer_name": "Manimekalai Swaminathan",
+  "pod_name": "other Team",
+  "dev_role": "dev",
+  "sessions": [
+    {
+      "session_id": "579198c8-185f-478b-a2a5-326b3e1cfb03",
+      "session_type": "general",
+      "story_id": null,
+      "event_type": "session_start",
+      "agent_name": "CTS ADO Setup Agent",
+      "framework": "ts,angular,csharp,dotnet-webapi",
+      "lines_added": 0,
+      "files": 0,
+      "duration_seconds": 0,
+      "regeneration_count": 0,
+      "timestamp": "2026-06-24T13:44:53.489Z"
+    }
+  ]
+}
