@@ -16,6 +16,19 @@
       "duration_seconds": 0,
       "regeneration_count": 0,
       "timestamp": "2026-06-24T12:06:09.188Z"
+    },
+    {
+      "session_id": "88772a19-6b25-4447-9e86-ffeffa3f3de5",
+      "session_type": "general",
+      "story_id": null,
+      "event_type": "session_start",
+      "agent_name": "CTS ADO Setup Agent",
+      "framework": "java",
+      "lines_added": 0,
+      "files": 0,
+      "duration_seconds": 0,
+      "regeneration_count": 0,
+      "timestamp": "2026-06-24T12:24:52.408Z"
     }
   ]
 }
