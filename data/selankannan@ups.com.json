@@ -1,0 +1,21 @@
+{
+  "developer_id": "selankannan@ups.com",
+  "developer_name": "Soundarya Elankannan",
+  "pod_name": "other Team",
+  "dev_role": "DEV",
+  "sessions": [
+    {
+      "session_id": "c047dac7-d7ce-4c3e-99ef-7229e434a65a",
+      "session_type": "general",
+      "story_id": null,
+      "event_type": "session_start",
+      "agent_name": "CTS ADO Setup Agent",
+      "framework": "unknown",
+      "lines_added": 0,
+      "files": 0,
+      "duration_seconds": 0,
+      "regeneration_count": 0,
+      "timestamp": "2026-06-24T12:06:09.188Z"
+    }
+  ]
+}
