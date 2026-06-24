@@ -8,12 +8,12 @@
       "session_id": "4f02e9d8-96e3-4d64-9c2b-12c4f4c82e4a",
       "session_type": "general",
       "story_id": "unknown",
-      "event_type": "session_start",
+      "event_type": "task_complete",
       "agent_name": "CTS Architecture Agent",
       "framework": "java,ts,angular",
-      "lines_added": 0,
-      "files": 0,
-      "duration_seconds": 0,
+      "lines_added": 232,
+      "files": 1,
+      "duration_seconds": 540,
       "regeneration_count": 0,
       "timestamp": "2026-06-24T12:21:40.719Z"
     }
