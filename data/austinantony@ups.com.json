@@ -1,0 +1,21 @@
+{
+  "developer_id": "austinantony@ups.com",
+  "developer_name": "Austin Antony",
+  "pod_name": "other Team",
+  "dev_role": "Dev",
+  "sessions": [
+    {
+      "session_id": "4f02e9d8-96e3-4d64-9c2b-12c4f4c82e4a",
+      "session_type": "general",
+      "story_id": "unknown",
+      "event_type": "session_start",
+      "agent_name": "CTS Architecture Agent",
+      "framework": "java,ts,angular",
+      "lines_added": 0,
+      "files": 0,
+      "duration_seconds": 0,
+      "regeneration_count": 0,
+      "timestamp": "2026-06-24T12:21:40.719Z"
+    }
+  ]
+}
