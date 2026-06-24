@@ -70,9 +70,9 @@
       "story_id": null,
       "agent_name": "CTS Architecture Agent",
       "framework": "csharp,ts,angular,python",
-      "lines_added": 0,
-      "files": 0,
-      "duration_seconds": 0,
+      "lines_added": 920,
+      "files": 1,
+      "duration_seconds": 300,
       "regeneration_count": 0,
       "timestamp": "2026-06-24T13:59:46.847Z"
     }
