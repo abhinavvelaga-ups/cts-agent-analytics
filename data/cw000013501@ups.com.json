@@ -1,0 +1,21 @@
+{
+  "developer_id": "cw000013501@ups.com",
+  "developer_name": "Ramkishore",
+  "pod_name": "other Team",
+  "dev_role": "Dev",
+  "sessions": [
+    {
+      "session_id": "fecf80e1-a0cc-4abb-8553-68a99315238f",
+      "session_type": "general",
+      "story_id": null,
+      "event_type": "session_start",
+      "agent_name": "Default Chat",
+      "framework": "unknown",
+      "lines_added": 0,
+      "files": 0,
+      "duration_seconds": 0,
+      "regeneration_count": 0,
+      "timestamp": "2026-06-24T12:25:53.472Z"
+    }
+  ]
+}
