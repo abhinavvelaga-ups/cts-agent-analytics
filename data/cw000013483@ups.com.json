@@ -1,0 +1,21 @@
+{
+  "developer_id": "cw000013483@ups.com",
+  "developer_name": "Ratna Kumari Pilli",
+  "pod_name": "other Team",
+  "dev_role": "Dev",
+  "sessions": [
+    {
+      "session_id": "a8454d97-7b13-4d5c-8418-62ab2fa6c0f4",
+      "session_type": "general",
+      "story_id": null,
+      "event_type": "session_start",
+      "agent_name": "CTS ADO Setup Agent",
+      "framework": "csharp,ts,angular",
+      "lines_added": 0,
+      "files": 0,
+      "duration_seconds": 0,
+      "regeneration_count": 0,
+      "timestamp": "2026-06-24T13:45:44.482Z"
+    }
+  ]
+}
