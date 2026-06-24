@@ -1,0 +1,20 @@
+{
+  "developer_id": "9390014@ups.com",
+  "developer_name": "ABHINAV VELAGA",
+  "pod_name": "UFH-5",
+  "dev_role": "Dev",
+  "sessions": [
+    {
+      "session_id": "81c741ac-cd31-4753-bd3b-b64ceb26a16d",
+      "session_type": "general",
+      "story_id": null,
+      "agent_name": "Default Chat",
+      "framework": "python,csharp,angular",
+      "lines_added": 0,
+      "files": 0,
+      "duration_seconds": 0,
+      "regeneration_count": 0,
+      "timestamp": "2026-06-24T14:04:56.496Z"
+    }
+  ]
+}
