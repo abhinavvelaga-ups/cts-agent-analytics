@@ -16,6 +16,19 @@
       "duration_seconds": 120,
       "regeneration_count": 0,
       "timestamp": "2026-06-24T14:46:59.564Z"
+    },
+    {
+      "session_id": "9d851937-0bd0-4d06-8c8b-5439a2df696b",
+      "session_type": "story",
+      "story_id": "7260572",
+      "event_type": "session_start",
+      "agent_name": "CTS Backend CodeGen Agent",
+      "framework": "csharp,ts,angular",
+      "lines_added": 0,
+      "files": 0,
+      "duration_seconds": 0,
+      "regeneration_count": 0,
+      "timestamp": "2026-06-24T14:55:20.462Z"
     }
   ]
 }
