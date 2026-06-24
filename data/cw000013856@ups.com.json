@@ -125,12 +125,12 @@
       "session_id": "c83be8a6-ca7a-443a-aa18-5966959f3d70",
       "session_type": "general",
       "story_id": null,
-      "event_type": "session_start",
+      "event_type": "task_complete",
       "agent_name": "CTS Codebase Audit Agent",
       "framework": "csharp,dotnet-webapi,ts,angular",
       "lines_added": 0,
       "files": 0,
-      "duration_seconds": 0,
+      "duration_seconds": 120,
       "regeneration_count": 0,
       "timestamp": "2026-06-24T19:43:19.305Z"
     }
