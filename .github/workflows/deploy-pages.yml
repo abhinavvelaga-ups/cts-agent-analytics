@@ -9,6 +9,13 @@ name: Deploy dashboard to GitHub Pages
 on:
   push:
     branches: [ main ]
+    # The dashboard loads usage data at runtime via the GitHub API, so the
+    # frequent data/*.json usage commits do NOT need a site rebuild. Only
+    # redeploy when the actual site files change — this stops the constant
+    # cancel/redeploy churn (and the noisy failure emails) from data pushes.
+    paths-ignore:
+      - 'data/**'
+      - '.github/workflows/sync-to-azure.yml'
   workflow_dispatch:
 
 permissions:
