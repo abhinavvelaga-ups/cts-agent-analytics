@@ -1,0 +1,58 @@
+name: Sync data to Azure blob
+
+# Mirrors the per-developer usage files (data/*.json) into the private Azure
+# blob container that backs the Azure dashboard. Because every teammate's
+# tracker reliably pushes to GitHub, mirroring GitHub -> Azure keeps the two
+# dashboards in lock-step even when a machine cannot reach the blob endpoint.
+
+on:
+  push:
+    branches: [ main ]
+    paths: [ 'data/**' ]
+  schedule:
+    - cron: '*/30 * * * *'   # safety-net resync every 30 minutes
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: sync-data-to-azure
+  cancel-in-progress: false
+
+jobs:
+  mirror:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Mirror data/*.json to Azure blob
+        env:
+          BLOB_BASE_URL: https://ctsanalyticsups.blob.core.windows.net
+          BLOB_CONTAINER: tracker-data
+          BLOB_SAS: ${{ secrets.BLOB_SAS }}
+        run: |
+          set -uo pipefail
+          if [ -z "${BLOB_SAS:-}" ]; then
+            echo "::error::BLOB_SAS secret is not set"; exit 1
+          fi
+          shopt -s nullglob
+          ok=0; fail=0
+          for f in data/*.json; do
+            name="$(basename "$f")"
+            # URL-encode '@' (the only special char in our developer ids)
+            enc="$(printf '%s' "$name" | sed 's/@/%40/g')"
+            url="${BLOB_BASE_URL}/${BLOB_CONTAINER}/${enc}?${BLOB_SAS}"
+            code="$(curl -sS -o /dev/null -w '%{http_code}' -X PUT \
+              -H 'x-ms-blob-type: BlockBlob' \
+              -H 'Content-Type: application/json' \
+              --data-binary @"$f" "$url" || echo 000)"
+            if [ "$code" = "201" ] || [ "$code" = "200" ]; then
+              echo "OK   $name -> $code"; ok=$((ok+1))
+            else
+              echo "::warning::PUT $name failed ($code)"; fail=$((fail+1))
+            fi
+          done
+          echo "Mirrored: $ok ok, $fail failed."
+          # Fail the run only if nothing synced at all.
+          if [ "$ok" -eq 0 ]; then exit 1; fi
