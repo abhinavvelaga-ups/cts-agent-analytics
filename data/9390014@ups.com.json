@@ -10,9 +10,9 @@
       "story_id": null,
       "agent_name": "Default Chat",
       "framework": "python,csharp,angular",
-      "lines_added": 0,
-      "files": 0,
-      "duration_seconds": 0,
+      "lines_added": 760,
+      "files": 8,
+      "duration_seconds": 5,
       "regeneration_count": 0,
       "timestamp": "2026-06-24T14:04:56.496Z"
     }
