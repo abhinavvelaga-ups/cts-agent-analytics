@@ -42,6 +42,19 @@
       "duration_seconds": 0,
       "regeneration_count": 0,
       "timestamp": "2026-06-25T07:35:34.054Z"
+    },
+    {
+      "session_id": "83347584-a8e5-49b8-9aff-de4ad406a54e",
+      "session_type": "story",
+      "story_id": "https://dev.azure.com/UPSProd4/P4AG_Customer%20Visibility/_git/symphony-gld-microservices",
+      "event_type": "task_complete",
+      "agent_name": "CTS ADO Setup Agent",
+      "framework": "unknown",
+      "lines_added": 18,
+      "files": 1,
+      "duration_seconds": 185,
+      "regeneration_count": 0,
+      "timestamp": "2026-06-25T07:43:54.152Z"
     }
   ]
 }
