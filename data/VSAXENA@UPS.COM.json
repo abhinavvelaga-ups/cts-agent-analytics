@@ -83,8 +83,8 @@
       "agent_name": "CTS Architecture Agent",
       "framework": "csharp,ts,angular,python",
       "lines_added": 0,
-      "files": 0,
-      "duration_seconds": 15,
+      "files": 2,
+      "duration_seconds": 45,
       "regeneration_count": 2,
       "timestamp": "2026-06-25T15:41:17.635Z"
     }
