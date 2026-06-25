@@ -1,0 +1,21 @@
+{
+  "developer_id": "CW000013558@ups.com",
+  "developer_name": "Gowtham M",
+  "pod_name": "other Team",
+  "dev_role": "Dev",
+  "sessions": [
+    {
+      "session_id": "e698ae81-a3d0-4706-a768-54bdcb97182f",
+      "session_type": "general",
+      "story_id": null,
+      "event_type": "session_start",
+      "agent_name": "CTS Frontend Builder Agent",
+      "framework": "unknown",
+      "lines_added": 0,
+      "files": 0,
+      "duration_seconds": 0,
+      "regeneration_count": 0,
+      "timestamp": "2026-06-25T06:40:41.846Z"
+    }
+  ]
+}
