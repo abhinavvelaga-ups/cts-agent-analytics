@@ -8,12 +8,12 @@
       "session_id": "5528c3db-c0ad-4b3d-9ba4-7fd7112fb440",
       "session_type": "general",
       "story_id": null,
-      "event_type": "session_start",
+      "event_type": "task_complete",
       "agent_name": "CTS Code Review QA Agent",
       "framework": "unknown",
-      "lines_added": 0,
-      "files": 0,
-      "duration_seconds": 0,
+      "lines_added": 126,
+      "files": 1,
+      "duration_seconds": 62,
       "regeneration_count": 0,
       "timestamp": "2026-06-25T08:22:44.690Z"
     }
