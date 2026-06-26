@@ -146,6 +146,19 @@
       "duration_seconds": 25,
       "regeneration_count": 0,
       "timestamp": "2026-06-25T08:27:55.470Z"
+    },
+    {
+      "session_id": "1ea76596-c709-40c3-88a3-6f9633429b6c",
+      "session_type": "general",
+      "story_id": null,
+      "event_type": "session_start",
+      "agent_name": "CTS Backend CodeGen Agent",
+      "framework": "java",
+      "lines_added": 0,
+      "files": 0,
+      "duration_seconds": 0,
+      "regeneration_count": 0,
+      "timestamp": "2026-06-26T14:22:35.092Z"
     }
   ]
 }
