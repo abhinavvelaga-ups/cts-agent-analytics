@@ -76,6 +76,19 @@
       "duration_seconds": 0,
       "regeneration_count": 0,
       "timestamp": "2026-06-26T15:09:45.033Z"
+    },
+    {
+      "session_id": "cbe0a290-2f89-414c-ba68-82c2fe63049f",
+      "session_type": "story",
+      "story_id": "https://dev.azure.com/UPSProd4/P4AG_GFF_Digital/_git/gff_digital_IQA",
+      "event_type": "session_start",
+      "agent_name": "CTS ADO Setup Agent",
+      "framework": "unknown",
+      "lines_added": 0,
+      "files": 0,
+      "duration_seconds": 0,
+      "regeneration_count": 0,
+      "timestamp": "2026-06-26T15:16:02.481Z"
     }
   ]
 }
