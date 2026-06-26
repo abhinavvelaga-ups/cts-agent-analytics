@@ -177,12 +177,12 @@
       "session_id": "cc07a0ac-6130-4766-afc8-32a3f22edded",
       "session_type": "story",
       "story_id": "EditPrice_BugFix",
-      "event_type": "session_start",
+      "event_type": "task_complete",
       "agent_name": "CTS ADO Setup Agent",
       "framework": "csharp",
-      "lines_added": 0,
-      "files": 0,
-      "duration_seconds": 0,
+      "lines_added": 15,
+      "files": 1,
+      "duration_seconds": 420,
       "regeneration_count": 0,
       "timestamp": "2026-06-26T15:35:38.795Z"
     }
