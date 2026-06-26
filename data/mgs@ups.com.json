@@ -21,12 +21,12 @@
       "session_id": "bad1060b-0b98-4f6c-92e9-6046736c4f15",
       "session_type": "story",
       "story_id": "https://dev.azure.com/UPSProd4/P02AGit_IMS/_git/auth0-terraform-app/pullrequest/872183",
-      "event_type": "session_start",
+      "event_type": "task_complete",
       "agent_name": "CTS ADO Setup Agent",
       "framework": "ts,angular",
       "lines_added": 0,
       "files": 0,
-      "duration_seconds": 0,
+      "duration_seconds": 20,
       "regeneration_count": 0,
       "timestamp": "2026-06-26T05:38:00.470Z"
     }
