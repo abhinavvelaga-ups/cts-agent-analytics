@@ -55,6 +55,19 @@
       "duration_seconds": 0,
       "regeneration_count": 0,
       "timestamp": "2026-06-26T11:21:09.951Z"
+    },
+    {
+      "session_id": "3f1fa9e1-c9ee-48af-8617-e01603031f16",
+      "session_type": "story",
+      "story_id": "7020309",
+      "event_type": "session_start",
+      "agent_name": "18-qa-playwright-agent",
+      "framework": "js,playwright",
+      "lines_added": 0,
+      "files": 0,
+      "duration_seconds": 0,
+      "regeneration_count": 0,
+      "timestamp": "2026-06-26T11:23:40.091Z"
     }
   ]
 }
