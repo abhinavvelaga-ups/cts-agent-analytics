@@ -32,12 +32,12 @@
       "session_id": "c18fd515-aafa-4abc-a61a-ae539dfe162b",
       "session_type": "general",
       "story_id": null,
-      "event_type": "session_start",
+      "event_type": "task_complete",
       "agent_name": "Default Chat",
       "framework": "powershell",
-      "lines_added": 0,
-      "files": 0,
-      "duration_seconds": 0,
+      "lines_added": 120,
+      "files": 6,
+      "duration_seconds": 1200,
       "regeneration_count": 0,
       "timestamp": "2026-06-26T16:29:12.179Z"
     }
