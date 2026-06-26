@@ -151,12 +151,12 @@
       "session_id": "5aa3e764-c1c0-40c3-b354-55b184d4c4c4",
       "session_type": "story",
       "story_id": "EditPrice_BugFix",
-      "event_type": "session_start",
+      "event_type": "task_complete",
       "agent_name": "CTS ADO Setup Agent",
       "framework": "csharp",
-      "lines_added": 0,
-      "files": 0,
-      "duration_seconds": 0,
+      "lines_added": 10,
+      "files": 1,
+      "duration_seconds": 120,
       "regeneration_count": 0,
       "timestamp": "2026-06-26T05:24:20.090Z"
     }
