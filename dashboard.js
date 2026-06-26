@@ -1,5 +1,5 @@
 /* ═══════════════════════════════════════════════════════════════
-   CTS Agent Usage Dashboard — pure vanilla JS, no dependencies.
+   SCS Agent Usage Dashboard — pure vanilla JS, no dependencies.
    Loads every developer's data/*.json, aggregates, and renders.
    ═══════════════════════════════════════════════════════════════ */
 (function () {
