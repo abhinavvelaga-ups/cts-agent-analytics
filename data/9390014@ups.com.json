@@ -96,12 +96,12 @@
       "session_id": "c645d765-ec37-4a23-a6fa-424dcfeb9d55",
       "session_type": "general",
       "story_id": null,
-      "event_type": "session_start",
+      "event_type": "task_complete",
       "agent_name": "Default Chat",
       "framework": "python,fastapi",
-      "lines_added": 0,
-      "files": 0,
-      "duration_seconds": 0,
+      "lines_added": 2400,
+      "files": 36,
+      "duration_seconds": 1500,
       "regeneration_count": 0,
       "timestamp": "2026-06-28T00:10:10.699Z"
     }
