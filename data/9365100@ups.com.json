@@ -29,6 +29,19 @@
       "duration_seconds": 15,
       "regeneration_count": 0,
       "timestamp": "2026-06-29T13:57:51.620Z"
+    },
+    {
+      "session_id": "8540ae0c-0494-4a7b-9a11-59dad2298cb9",
+      "session_type": "general",
+      "story_id": null,
+      "event_type": "session_start",
+      "agent_name": "SCS ADO Setup Agent",
+      "framework": "terraform",
+      "lines_added": 0,
+      "files": 0,
+      "duration_seconds": 0,
+      "regeneration_count": 0,
+      "timestamp": "2026-06-29T13:59:42.692Z"
     }
   ]
 }
