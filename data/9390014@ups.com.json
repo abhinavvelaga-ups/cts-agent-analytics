@@ -136,9 +136,9 @@
       "story_id": null,
       "agent_name": "Default Chat",
       "framework": "python,langgraph,dotnet,angular",
-      "lines_added": 0,
-      "files": 0,
-      "duration_seconds": 0,
+      "lines_added": 520,
+      "files": 1,
+      "duration_seconds": 420,
       "regeneration_count": 0,
       "timestamp": "2026-06-29T14:04:07.976Z"
     }
