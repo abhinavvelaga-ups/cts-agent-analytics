@@ -86,12 +86,12 @@
       "session_id": "f0ff3326-9e71-40e6-b687-a296165a7b24",
       "session_type": "general",
       "story_id": null,
-      "event_type": "session_start",
+      "event_type": "task_complete",
       "agent_name": "SCS ADO Setup Agent",
       "framework": "unknown",
-      "lines_added": 0,
-      "files": 0,
-      "duration_seconds": 0,
+      "lines_added": 2,
+      "files": 1,
+      "duration_seconds": 95,
       "regeneration_count": 0,
       "timestamp": "2026-06-29T07:29:59.861Z"
     }
