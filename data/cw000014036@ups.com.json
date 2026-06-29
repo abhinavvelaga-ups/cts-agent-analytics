@@ -8,12 +8,12 @@
       "session_id": "35f5aeb9-f2c4-40f4-9cab-6868787d4c8f",
       "session_type": "general",
       "story_id": null,
-      "event_type": "session_start",
+      "event_type": "task_complete",
       "agent_name": "SCS ADO Setup Agent",
       "framework": "unknown",
       "lines_added": 0,
       "files": 0,
-      "duration_seconds": 0,
+      "duration_seconds": 25,
       "regeneration_count": 0,
       "timestamp": "2026-06-29T13:22:59.273Z"
     }
