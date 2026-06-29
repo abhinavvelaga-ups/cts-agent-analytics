@@ -1,0 +1,21 @@
+{
+  "developer_id": "cw000013711@ups.com",
+  "developer_name": "Jainendra Pal",
+  "pod_name": "other Team",
+  "dev_role": "Dev",
+  "sessions": [
+    {
+      "session_id": "f53c29ee-665f-4131-9f40-37394a8e2d49",
+      "session_type": "general",
+      "story_id": null,
+      "event_type": "session_start",
+      "agent_name": "SCS ADO Setup Agent",
+      "framework": "js",
+      "lines_added": 0,
+      "files": 0,
+      "duration_seconds": 0,
+      "regeneration_count": 0,
+      "timestamp": "2026-06-29T09:05:39.879Z"
+    }
+  ]
+}
