@@ -8,12 +8,12 @@
       "session_id": "4a4e94eb-a29f-46d9-8da7-ce5da756ed13",
       "session_type": "general",
       "story_id": null,
-      "event_type": "session_start",
+      "event_type": "task_complete",
       "agent_name": "SCS ADO Setup Agent",
       "framework": "terraform",
       "lines_added": 0,
       "files": 0,
-      "duration_seconds": 0,
+      "duration_seconds": 45,
       "regeneration_count": 0,
       "timestamp": "2026-06-29T13:53:31.112Z"
     }
