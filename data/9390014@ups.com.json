@@ -167,6 +167,19 @@
       "duration_seconds": 0,
       "regeneration_count": 0,
       "timestamp": "2026-06-29T21:05:01.850Z"
+    },
+    {
+      "session_id": "38adab72-cd26-4712-b1f5-c44e4f3c879a",
+      "session_type": "general",
+      "story_id": null,
+      "event_type": "task_complete",
+      "agent_name": "📄 Feature Analysis (PDF)",
+      "framework": "unknown",
+      "lines_added": 0,
+      "files": 15,
+      "duration_seconds": 0,
+      "regeneration_count": 0,
+      "timestamp": "2026-06-29T23:15:19.367Z"
     }
   ]
 }
