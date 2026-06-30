@@ -260,12 +260,12 @@
       "session_id": "caadda7d-65fe-4207-a0bb-f1d8317b3b98",
       "session_type": "general",
       "story_id": null,
-      "event_type": "session_start",
+      "event_type": "task_complete",
       "agent_name": "Default Chat",
-      "framework": "unknown",
-      "lines_added": 0,
-      "files": 0,
-      "duration_seconds": 0,
+      "framework": "html,javascript",
+      "lines_added": 620,
+      "files": 2,
+      "duration_seconds": 300,
       "regeneration_count": 0,
       "timestamp": "2026-06-30T23:10:42.978Z"
     }
