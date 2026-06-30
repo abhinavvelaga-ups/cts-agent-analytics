@@ -180,6 +180,18 @@
       "duration_seconds": 0,
       "regeneration_count": 0,
       "timestamp": "2026-06-29T23:15:19.367Z"
+    },
+    {
+      "session_id": "b08c8643-8d27-454e-9e98-5d75f8317a90",
+      "session_type": "general",
+      "story_id": null,
+      "agent_name": "Default Chat",
+      "framework": "unknown",
+      "lines_added": 0,
+      "files": 0,
+      "duration_seconds": 0,
+      "regeneration_count": 0,
+      "timestamp": "2026-06-30T12:29:53.836Z"
     }
   ]
 }
