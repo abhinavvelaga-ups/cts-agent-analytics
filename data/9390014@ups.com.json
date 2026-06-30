@@ -135,11 +135,11 @@
       "session_type": "general",
       "story_id": null,
       "agent_name": "Default Chat",
-      "framework": "html,css,javascript",
-      "lines_added": 180,
-      "files": 1,
-      "duration_seconds": 600,
-      "regeneration_count": 3,
+      "framework": "latex,python",
+      "lines_added": 0,
+      "files": 0,
+      "duration_seconds": 0,
+      "regeneration_count": 0,
       "timestamp": "2026-06-29T14:04:07.976Z"
     },
     {
