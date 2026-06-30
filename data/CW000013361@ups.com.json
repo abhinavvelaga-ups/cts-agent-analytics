@@ -1,0 +1,21 @@
+{
+  "developer_id": "CW000013361@ups.com",
+  "developer_name": "Abirami C",
+  "pod_name": "GAC SDS",
+  "dev_role": "Dev",
+  "sessions": [
+    {
+      "session_id": "ed00f8dd-259e-45a5-a96a-ba81135aeff2",
+      "session_type": "general",
+      "story_id": null,
+      "event_type": "session_start",
+      "agent_name": "Default Chat",
+      "framework": "csharp,ssis,access",
+      "lines_added": 0,
+      "files": 0,
+      "duration_seconds": 0,
+      "regeneration_count": 0,
+      "timestamp": "2026-06-30T08:41:15.367Z"
+    }
+  ]
+}
