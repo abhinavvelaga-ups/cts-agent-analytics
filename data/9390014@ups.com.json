@@ -263,10 +263,10 @@
       "event_type": "task_complete",
       "agent_name": "Default Chat",
       "framework": "html,javascript,python",
-      "lines_added": 180,
+      "lines_added": 650,
       "files": 3,
-      "duration_seconds": 420,
-      "regeneration_count": 2,
+      "duration_seconds": 540,
+      "regeneration_count": 4,
       "timestamp": "2026-06-30T23:10:42.978Z"
     }
   ]
