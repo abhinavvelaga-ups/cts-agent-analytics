@@ -262,11 +262,11 @@
       "story_id": null,
       "event_type": "task_complete",
       "agent_name": "Default Chat",
-      "framework": "html,javascript",
-      "lines_added": 620,
-      "files": 2,
-      "duration_seconds": 300,
-      "regeneration_count": 0,
+      "framework": "html,javascript,python",
+      "lines_added": 700,
+      "files": 4,
+      "duration_seconds": 600,
+      "regeneration_count": 2,
       "timestamp": "2026-06-30T23:10:42.978Z"
     }
   ]
