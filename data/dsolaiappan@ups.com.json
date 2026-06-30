@@ -24,10 +24,10 @@
       "event_type": "task_complete",
       "agent_name": "Default Chat",
       "framework": "unknown",
-      "lines_added": 28,
-      "files": 2,
-      "duration_seconds": 94,
-      "regeneration_count": 10,
+      "lines_added": 0,
+      "files": 1,
+      "duration_seconds": 18,
+      "regeneration_count": 12,
       "timestamp": "2026-06-30T06:58:13.665Z"
     }
   ]
