@@ -45,14 +45,14 @@
     },
     {
       "session_id": "6b1231da-a9f9-4650-95c6-2429c243c42b",
-      "session_type": "general",
-      "story_id": null,
-      "event_type": "session_start",
+      "session_type": "story",
+      "story_id": "716602",
+      "event_type": "task_complete",
       "agent_name": "CTS QA Test Case Agent",
       "framework": "ts,angular",
-      "lines_added": 0,
-      "files": 0,
-      "duration_seconds": 0,
+      "lines_added": 155,
+      "files": 2,
+      "duration_seconds": 75,
       "regeneration_count": 0,
       "timestamp": "2026-06-30T12:35:24.663Z"
     }
