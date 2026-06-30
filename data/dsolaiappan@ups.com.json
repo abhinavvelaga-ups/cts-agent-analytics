@@ -50,10 +50,10 @@
       "event_type": "task_complete",
       "agent_name": "Default Chat",
       "framework": "unknown",
-      "lines_added": 0,
+      "lines_added": 30,
       "files": 1,
-      "duration_seconds": 15,
-      "regeneration_count": 0,
+      "duration_seconds": 45,
+      "regeneration_count": 1,
       "timestamp": "2026-06-30T11:13:03.039Z"
     }
   ]
