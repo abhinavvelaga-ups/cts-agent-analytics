@@ -99,12 +99,12 @@
       "session_id": "e13b4a2f-a692-4e2b-87a9-c34cd4d5a1fc",
       "session_type": "general",
       "story_id": null,
-      "event_type": "session_start",
+      "event_type": "task_complete",
       "agent_name": "CTS ADO Setup Agent",
       "framework": "csharp,ts,angular",
-      "lines_added": 0,
-      "files": 0,
-      "duration_seconds": 0,
+      "lines_added": 52,
+      "files": 1,
+      "duration_seconds": 38,
       "regeneration_count": 0,
       "timestamp": "2026-06-30T06:50:54.801Z"
     }
