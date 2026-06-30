@@ -172,11 +172,11 @@
       "session_id": "38adab72-cd26-4712-b1f5-c44e4f3c879a",
       "session_type": "general",
       "story_id": null,
-      "event_type": "session_start",
+      "event_type": "task_complete",
       "agent_name": "📄 Feature Analysis (PDF)",
       "framework": "angular,ts",
       "lines_added": 0,
-      "files": 0,
+      "files": 6,
       "duration_seconds": 0,
       "regeneration_count": 0,
       "timestamp": "2026-06-29T23:15:19.367Z"
