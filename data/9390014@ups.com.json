@@ -222,12 +222,12 @@
       "session_id": "eaa4004c-81c9-43c6-854b-f0f825a560c8",
       "session_type": "general",
       "story_id": null,
-      "event_type": "session_start",
+      "event_type": "task_complete",
       "agent_name": "Default Chat",
       "framework": "csharp,dotnet-webapi",
-      "lines_added": 0,
-      "files": 0,
-      "duration_seconds": 0,
+      "lines_added": 340,
+      "files": 6,
+      "duration_seconds": 300,
       "regeneration_count": 0,
       "timestamp": "2026-06-30T16:06:34.380Z"
     }
