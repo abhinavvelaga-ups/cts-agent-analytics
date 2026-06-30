@@ -49,11 +49,11 @@
       "story_id": null,
       "event_type": "task_complete",
       "agent_name": "Default Chat",
-      "framework": "unknown",
-      "lines_added": 30,
-      "files": 1,
-      "duration_seconds": 45,
-      "regeneration_count": 1,
+      "framework": "powershell",
+      "lines_added": 200,
+      "files": 3,
+      "duration_seconds": 120,
+      "regeneration_count": 2,
       "timestamp": "2026-06-30T11:13:03.039Z"
     }
   ]
