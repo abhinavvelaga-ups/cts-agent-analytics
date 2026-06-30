@@ -263,9 +263,9 @@
       "event_type": "task_complete",
       "agent_name": "Default Chat",
       "framework": "html,javascript,python",
-      "lines_added": 700,
-      "files": 4,
-      "duration_seconds": 600,
+      "lines_added": 180,
+      "files": 3,
+      "duration_seconds": 420,
       "regeneration_count": 2,
       "timestamp": "2026-06-30T23:10:42.978Z"
     }
