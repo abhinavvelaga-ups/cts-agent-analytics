@@ -186,10 +186,10 @@
       "session_type": "general",
       "story_id": null,
       "agent_name": "Default Chat",
-      "framework": "unknown",
+      "framework": "python",
       "lines_added": 0,
       "files": 0,
-      "duration_seconds": 0,
+      "duration_seconds": 90,
       "regeneration_count": 0,
       "timestamp": "2026-06-30T12:29:53.836Z"
     }
