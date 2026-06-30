@@ -136,10 +136,10 @@
       "story_id": null,
       "agent_name": "Default Chat",
       "framework": "html,css,javascript",
-      "lines_added": 70,
+      "lines_added": 75,
       "files": 1,
       "duration_seconds": 420,
-      "regeneration_count": 1,
+      "regeneration_count": 2,
       "timestamp": "2026-06-29T14:04:07.976Z"
     },
     {
