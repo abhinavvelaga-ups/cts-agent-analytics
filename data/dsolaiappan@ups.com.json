@@ -55,6 +55,19 @@
       "duration_seconds": 120,
       "regeneration_count": 2,
       "timestamp": "2026-06-30T11:13:03.039Z"
+    },
+    {
+      "session_id": "0aa288d1-9e92-498a-a340-81233898f744",
+      "session_type": "general",
+      "story_id": null,
+      "event_type": "session_start",
+      "agent_name": "GitHub Copilot",
+      "framework": "unknown",
+      "lines_added": 0,
+      "files": 0,
+      "duration_seconds": 0,
+      "regeneration_count": 0,
+      "timestamp": "2026-06-30T12:56:38.265Z"
     }
   ]
 }
