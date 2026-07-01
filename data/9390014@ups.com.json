@@ -340,10 +340,10 @@
       "story_id": null,
       "event_type": "task_complete",
       "agent_name": "Default Chat",
-      "framework": "csharp,dotnet-webapi",
-      "lines_added": 35,
-      "files": 1,
-      "duration_seconds": 420,
+      "framework": "csharp,dotnet-webapi,js",
+      "lines_added": 0,
+      "files": 5,
+      "duration_seconds": 300,
       "regeneration_count": 0,
       "timestamp": "2026-07-01T21:40:24.043Z"
     }
