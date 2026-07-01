@@ -1,0 +1,21 @@
+{
+  "developer_id": "asivasamy@ups.com",
+  "developer_name": "Abinaya Sivasamy",
+  "pod_name": "ECS",
+  "dev_role": "Dev",
+  "sessions": [
+    {
+      "session_id": "b93d3f9c-5f07-4d3b-8a02-204ef912f003",
+      "session_type": "general",
+      "story_id": null,
+      "event_type": "session_start",
+      "agent_name": "SCS ADO Setup Agent",
+      "framework": "java,ts,angular",
+      "lines_added": 0,
+      "files": 0,
+      "duration_seconds": 0,
+      "regeneration_count": 0,
+      "timestamp": "2026-07-01T11:56:39.474Z"
+    }
+  ]
+}
