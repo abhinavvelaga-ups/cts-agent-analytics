@@ -42,6 +42,19 @@
       "duration_seconds": 0,
       "regeneration_count": 0,
       "timestamp": "2026-07-01T12:46:21.162Z"
+    },
+    {
+      "session_id": "4081a920-033b-4fd8-a69e-90b80cf7bce3",
+      "session_type": "story",
+      "story_id": "https://dev.azure.com/UPSProd4/P4AG_Global_Brokerage/_boards/board/t/EuropeFnAEurCas/Stories?System.IterationPath=P4AG_Global_Brokerage%5CUTG%20PI%5CEuropeFnAEurCas%5CEurCas%20Phase6%5CEurCas%20Phase6%20Sprint%204",
+      "event_type": "session_start",
+      "agent_name": "SCS Backend CodeGen Agent",
+      "framework": "java,spring-boot",
+      "lines_added": 0,
+      "files": 0,
+      "duration_seconds": 0,
+      "regeneration_count": 0,
+      "timestamp": "2026-07-01T12:56:22.326Z"
     }
   ]
 }
