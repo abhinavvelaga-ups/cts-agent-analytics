@@ -21,12 +21,12 @@
       "session_id": "746ac938-09c2-4ffb-95ff-2db4eed28eee",
       "session_type": "story",
       "story_id": "https://dev.azure.com/UPSProd4/P18AGit_GAC_SDS/_workitems/edit/7118608",
-      "event_type": "session_start",
+      "event_type": "task_complete",
       "agent_name": "SCS Backend CodeGen Agent",
       "framework": "csharp,dotnet-webapi",
-      "lines_added": 0,
-      "files": 0,
-      "duration_seconds": 0,
+      "lines_added": 103,
+      "files": 1,
+      "duration_seconds": 95,
       "regeneration_count": 0,
       "timestamp": "2026-07-01T10:06:27.267Z"
     }
