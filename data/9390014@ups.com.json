@@ -338,12 +338,12 @@
       "session_id": "302bb823-9a58-49ed-bd8f-179b1050f02e",
       "session_type": "general",
       "story_id": null,
-      "event_type": "session_start",
+      "event_type": "task_complete",
       "agent_name": "Default Chat",
-      "framework": "unknown",
-      "lines_added": 0,
-      "files": 0,
-      "duration_seconds": 0,
+      "framework": "csharp,dotnet-webapi",
+      "lines_added": 35,
+      "files": 1,
+      "duration_seconds": 420,
       "regeneration_count": 0,
       "timestamp": "2026-07-01T21:40:24.043Z"
     }
