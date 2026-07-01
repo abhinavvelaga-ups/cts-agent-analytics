@@ -1,0 +1,21 @@
+{
+  "developer_id": "jkinakar@ups.com",
+  "developer_name": "Jay Kinarkar",
+  "pod_name": "ECS",
+  "dev_role": "Dev",
+  "sessions": [
+    {
+      "session_id": "f168e206-c96a-45d0-aa32-32efd28b84e2",
+      "session_type": "general",
+      "story_id": null,
+      "event_type": "session_start",
+      "agent_name": "SCS ADO Setup Agent",
+      "framework": "unknown",
+      "lines_added": 0,
+      "files": 0,
+      "duration_seconds": 0,
+      "regeneration_count": 0,
+      "timestamp": "2026-07-01T11:56:21.742Z"
+    }
+  ]
+}
