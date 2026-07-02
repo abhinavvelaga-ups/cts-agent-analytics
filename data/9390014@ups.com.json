@@ -442,8 +442,8 @@
       "agent_name": "SCS Code Review QA Agent",
       "framework": "csharp,dotnet-webapi,python",
       "lines_added": 0,
-      "files": 0,
-      "duration_seconds": 0,
+      "files": 4,
+      "duration_seconds": 210,
       "regeneration_count": 0,
       "timestamp": "2026-07-02T13:55:28.471Z"
     }
