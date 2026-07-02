@@ -60,12 +60,12 @@
       "session_id": "6fcf0ad7-2264-4cd6-972a-d40a2d37d646",
       "session_type": "general",
       "story_id": null,
-      "event_type": "session_start",
+      "event_type": "task_complete",
       "agent_name": "SCS DevOps Config Agent",
       "framework": "java,spring-boot",
-      "lines_added": 0,
-      "files": 0,
-      "duration_seconds": 0,
+      "lines_added": 85,
+      "files": 4,
+      "duration_seconds": 120,
       "regeneration_count": 0,
       "timestamp": "2026-07-02T11:32:46.778Z"
     }
