@@ -1,0 +1,21 @@
+{
+  "developer_id": "CW000012964@UPS.COM",
+  "developer_name": "SRINATH KARUNAKARAN",
+  "pod_name": "other Team",
+  "dev_role": "Dev",
+  "sessions": [
+    {
+      "session_id": "68d17b5a-1c92-423d-8306-62e39d8bab82",
+      "session_type": "general",
+      "story_id": null,
+      "event_type": "session_start",
+      "agent_name": "CTS ADO Setup Agent",
+      "framework": "csharp",
+      "lines_added": 0,
+      "files": 0,
+      "duration_seconds": 0,
+      "regeneration_count": 0,
+      "timestamp": "2026-07-02T10:21:43.367Z"
+    }
+  ]
+}
