@@ -250,6 +250,19 @@
       "duration_seconds": 25,
       "regeneration_count": 0,
       "timestamp": "2026-07-02T13:07:17.139Z"
+    },
+    {
+      "session_id": "e1e74793-c012-4ab6-9620-435b4ecd17d9",
+      "session_type": "story",
+      "story_id": "4443635",
+      "event_type": "session_start",
+      "agent_name": "SCS QA Test Case Agent",
+      "framework": "unknown",
+      "lines_added": 0,
+      "files": 0,
+      "duration_seconds": 0,
+      "regeneration_count": 0,
+      "timestamp": "2026-07-02T13:10:32.060Z"
     }
   ]
 }
