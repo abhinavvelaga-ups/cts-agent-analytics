@@ -410,6 +410,18 @@
       "duration_seconds": 0,
       "regeneration_count": 0,
       "timestamp": "2026-07-02T13:23:31.308Z"
+    },
+    {
+      "session_id": "6f78ea0d-0e71-49fc-b3a5-1e3646a01262",
+      "session_type": "story",
+      "story_id": "7331355",
+      "agent_name": "SCS Backend CodeGen Agent",
+      "framework": "csharp,dotnet-webapi",
+      "lines_added": 0,
+      "files": 0,
+      "duration_seconds": 0,
+      "regeneration_count": 0,
+      "timestamp": "2026-07-02T13:35:02.939Z"
     }
   ]
 }
