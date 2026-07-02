@@ -434,6 +434,18 @@
       "duration_seconds": 0,
       "regeneration_count": 0,
       "timestamp": "2026-07-02T13:42:36.249Z"
+    },
+    {
+      "session_id": "4da8b074-30be-4de1-b21a-30e0165f1e4b",
+      "session_type": "story",
+      "story_id": "7331355",
+      "agent_name": "SCS Code Review QA Agent",
+      "framework": "csharp,dotnet-webapi,python",
+      "lines_added": 0,
+      "files": 0,
+      "duration_seconds": 0,
+      "regeneration_count": 0,
+      "timestamp": "2026-07-02T13:55:28.471Z"
     }
   ]
 }
