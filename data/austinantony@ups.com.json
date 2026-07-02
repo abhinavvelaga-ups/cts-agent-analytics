@@ -68,6 +68,19 @@
       "duration_seconds": 95,
       "regeneration_count": 0,
       "timestamp": "2026-06-30T12:26:52.364Z"
+    },
+    {
+      "session_id": "f824c81b-d7c6-46a3-b33b-52c19744839e",
+      "session_type": "story",
+      "story_id": "general",
+      "event_type": "session_start",
+      "agent_name": "CTS Architecture Agent",
+      "framework": "java,ts,angular",
+      "lines_added": 0,
+      "files": 0,
+      "duration_seconds": 0,
+      "regeneration_count": 0,
+      "timestamp": "2026-07-02T07:41:16.825Z"
     }
   ]
 }
