@@ -452,10 +452,10 @@
       "session_type": "story",
       "story_id": "7365256",
       "agent_name": "Default Chat",
-      "framework": "unknown",
-      "lines_added": 0,
-      "files": 0,
-      "duration_seconds": 0,
+      "framework": "python,csharp,dotnet-webapi",
+      "lines_added": 150,
+      "files": 1,
+      "duration_seconds": 900,
       "regeneration_count": 0,
       "timestamp": "2026-07-02T15:07:00.659Z"
     }
