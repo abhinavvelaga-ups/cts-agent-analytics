@@ -351,13 +351,13 @@
       "session_id": "f77d1e80-4bc4-43b0-999a-761dc7422bd6",
       "session_type": "general",
       "story_id": null,
-      "event_type": "session_start",
+      "event_type": "task_complete",
       "agent_name": "Default Chat",
       "framework": "python",
-      "lines_added": 0,
-      "files": 0,
-      "duration_seconds": 0,
-      "regeneration_count": 0,
+      "lines_added": 380,
+      "files": 7,
+      "duration_seconds": 900,
+      "regeneration_count": 1,
       "timestamp": "2026-07-02T00:07:41.794Z"
     }
   ]
