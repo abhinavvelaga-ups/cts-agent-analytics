@@ -21,12 +21,12 @@
       "session_id": "f78d401c-fa27-4a08-b19f-5d37fc12d462",
       "session_type": "story",
       "story_id": "https://dev.azure.com/UPSProd4/P4AG_GeNeSIS/_workitems/edit/7329056/",
-      "event_type": "task_complete",
+      "event_type": "session_start",
       "agent_name": "SCS Backend CodeGen Agent",
       "framework": "java,spring-boot",
       "lines_added": 0,
       "files": 0,
-      "duration_seconds": 30,
+      "duration_seconds": 0,
       "regeneration_count": 0,
       "timestamp": "2026-07-02T08:37:24.220Z"
     }
