@@ -36,11 +36,11 @@
       "story_id": null,
       "event_type": "task_complete",
       "agent_name": "Default Chat",
-      "framework": "unknown",
-      "lines_added": 3,
+      "framework": "csharp,dotnet-webapi",
+      "lines_added": 2,
       "files": 1,
-      "duration_seconds": 95,
-      "regeneration_count": 0,
+      "duration_seconds": 140,
+      "regeneration_count": 1,
       "timestamp": "2026-07-03T07:24:05.632Z"
     }
   ]
