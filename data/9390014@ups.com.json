@@ -514,12 +514,12 @@
       "session_id": "b9637e0c-f044-4867-a7e8-2b7c7a268c75",
       "session_type": "general",
       "story_id": null,
-      "event_type": "session_start",
+      "event_type": "task_complete",
       "agent_name": "Default Chat",
-      "framework": "unknown",
-      "lines_added": 0,
-      "files": 0,
-      "duration_seconds": 0,
+      "framework": "js",
+      "lines_added": 55,
+      "files": 5,
+      "duration_seconds": 240,
       "regeneration_count": 0,
       "timestamp": "2026-07-03T12:34:34.121Z"
     }
