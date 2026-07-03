@@ -530,9 +530,9 @@
       "event_type": "task_complete",
       "agent_name": "Default Chat",
       "framework": "js,powershell",
-      "lines_added": 160,
+      "lines_added": 30,
       "files": 4,
-      "duration_seconds": 540,
+      "duration_seconds": 960,
       "regeneration_count": 0,
       "timestamp": "2026-07-03T15:18:22.361Z"
     }
