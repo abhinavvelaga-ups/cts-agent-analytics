@@ -491,10 +491,10 @@
       "event_type": "task_complete",
       "agent_name": "Default Chat",
       "framework": "js",
-      "lines_added": 127,
-      "files": 2,
+      "lines_added": 181,
+      "files": 5,
       "duration_seconds": 300,
-      "regeneration_count": 4,
+      "regeneration_count": 5,
       "timestamp": "2026-07-02T23:05:11.436Z"
     }
   ]
