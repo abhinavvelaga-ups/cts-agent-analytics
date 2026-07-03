@@ -99,12 +99,12 @@
       "session_id": "d5a79aed-8b70-4349-bc0e-56fbcc9e6104",
       "session_type": "general",
       "story_id": null,
-      "event_type": "session_start",
+      "event_type": "task_complete",
       "agent_name": "Default Chat",
-      "framework": "ts,angular,csharp,dotnet-webapi",
-      "lines_added": 0,
-      "files": 0,
-      "duration_seconds": 0,
+      "framework": "csharp,dotnet-webapi",
+      "lines_added": 220,
+      "files": 3,
+      "duration_seconds": 240,
       "regeneration_count": 0,
       "timestamp": "2026-07-03T07:47:43.190Z"
     }
