@@ -517,10 +517,10 @@
       "event_type": "task_complete",
       "agent_name": "Default Chat",
       "framework": "js",
-      "lines_added": 0,
-      "files": 0,
-      "duration_seconds": 90,
-      "regeneration_count": 0,
+      "lines_added": 374,
+      "files": 3,
+      "duration_seconds": 420,
+      "regeneration_count": 1,
       "timestamp": "2026-07-03T12:34:34.121Z"
     },
     {
