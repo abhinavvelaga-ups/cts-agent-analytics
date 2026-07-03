@@ -114,7 +114,7 @@
       "story_id": null,
       "event_type": "session_start",
       "agent_name": "Default Chat",
-      "framework": "csharp,dotnet-webapi,ts,angular",
+      "framework": "csharp,dotnet-webapi",
       "lines_added": 0,
       "files": 0,
       "duration_seconds": 0,
