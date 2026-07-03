@@ -86,12 +86,12 @@
       "session_id": "28429583-357a-4621-a7aa-ab9105ade928",
       "session_type": "general",
       "story_id": null,
-      "event_type": "session_start",
+      "event_type": "task_complete",
       "agent_name": "SCS Architecture Agent",
       "framework": "java,spring-boot",
-      "lines_added": 0,
-      "files": 0,
-      "duration_seconds": 0,
+      "lines_added": 620,
+      "files": 6,
+      "duration_seconds": 180,
       "regeneration_count": 0,
       "timestamp": "2026-07-03T09:34:34.208Z"
     }
