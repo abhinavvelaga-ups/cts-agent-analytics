@@ -153,10 +153,10 @@
       "story_id": null,
       "event_type": "task_complete",
       "agent_name": "Default Chat",
-      "framework": "csharp,dotnet-webapi,ts,angular",
-      "lines_added": 0,
-      "files": 18,
-      "duration_seconds": 180,
+      "framework": "csharp,dotnet-webapi",
+      "lines_added": 78,
+      "files": 1,
+      "duration_seconds": 240,
       "regeneration_count": 0,
       "timestamp": "2026-07-05T12:22:45.301Z"
     }
