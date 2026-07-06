@@ -60,7 +60,7 @@
       "session_id": "f12677c2-9f33-402e-b91a-c68747ee2a8c",
       "session_type": "story",
       "story_id": "7371126",
-      "event_type": "session_start",
+      "event_type": "task_failed",
       "agent_name": "SCS Frontend Builder Agent",
       "framework": "unknown",
       "lines_added": 0,
