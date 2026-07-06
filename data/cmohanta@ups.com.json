@@ -123,8 +123,8 @@
     },
     {
       "session_id": "57d9226f-7031-4249-a33c-5b663c43e59f",
-      "session_type": "general",
-      "story_id": null,
+      "session_type": "story",
+      "story_id": "7362642",
       "event_type": "session_start",
       "agent_name": "Copilot Coding Agent",
       "framework": "unknown",
