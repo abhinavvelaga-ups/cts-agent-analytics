@@ -37,10 +37,10 @@
       "event_type": "task_complete",
       "agent_name": "Default Chat",
       "framework": "python",
-      "lines_added": 210,
-      "files": 2,
-      "duration_seconds": 120,
-      "regeneration_count": 0,
+      "lines_added": 80,
+      "files": 1,
+      "duration_seconds": 60,
+      "regeneration_count": 1,
       "timestamp": "2026-07-06T15:49:47.509Z"
     }
   ]
