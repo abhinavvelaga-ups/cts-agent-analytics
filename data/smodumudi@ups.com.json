@@ -136,9 +136,9 @@
     },
     {
       "session_id": "ff89492b-c3e4-4d9d-8539-9b2acf37269c",
-      "session_type": "general",
-      "story_id": null,
-      "event_type": "session_start",
+      "session_type": "story",
+      "story_id": "7371126",
+      "event_type": "task_failed",
       "agent_name": "Default Chat",
       "framework": "java,ts,angular",
       "lines_added": 0,
