@@ -561,6 +561,19 @@
       "duration_seconds": 0,
       "regeneration_count": 0,
       "timestamp": "2026-07-06T11:44:50.334Z"
+    },
+    {
+      "session_id": "aa7e24d7-0bca-462e-b669-e032615c8d50",
+      "session_type": "story",
+      "story_id": "7344636",
+      "event_type": "task_complete",
+      "agent_name": "Default Chat",
+      "framework": "powershell,markdown",
+      "lines_added": 90,
+      "files": 4,
+      "duration_seconds": 900,
+      "regeneration_count": 0,
+      "timestamp": "2026-07-06T11:46:28.552Z"
     }
   ]
 }
