@@ -605,12 +605,12 @@
       "session_id": "795dca59-a8a5-4f7c-b79b-0c87607617e2",
       "session_type": "general",
       "story_id": null,
-      "event_type": "session_start",
+      "event_type": "task_complete",
       "agent_name": "Default Chat",
       "framework": "js,netlify",
-      "lines_added": 0,
-      "files": 0,
-      "duration_seconds": 0,
+      "lines_added": 190,
+      "files": 5,
+      "duration_seconds": 900,
       "regeneration_count": 0,
       "timestamp": "2026-07-06T17:58:01.276Z"
     }
