@@ -71,9 +71,9 @@
     },
     {
       "session_id": "e5c6c6bf-905a-435c-9355-cc2be6528f79",
-      "session_type": "general",
-      "story_id": null,
-      "event_type": "session_start",
+      "session_type": "story",
+      "story_id": "7371126",
+      "event_type": "task_failed",
       "agent_name": "Default Chat",
       "framework": "java,spring-boot,ts,angular",
       "lines_added": 0,
