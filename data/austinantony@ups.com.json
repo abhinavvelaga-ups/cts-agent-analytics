@@ -190,12 +190,12 @@
       "session_id": "653f1016-0783-4bda-a2a9-8cf1b6b530aa",
       "session_type": "story",
       "story_id": "7374680",
-      "event_type": "task_complete",
+      "event_type": "session_start",
       "agent_name": "CTS ADO Setup Agent",
       "framework": "java,ts,angular",
       "lines_added": 0,
       "files": 0,
-      "duration_seconds": 10,
+      "duration_seconds": 0,
       "regeneration_count": 0,
       "timestamp": "2026-07-06T11:04:20.762Z"
     }
