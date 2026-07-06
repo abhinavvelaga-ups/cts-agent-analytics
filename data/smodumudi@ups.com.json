@@ -151,12 +151,12 @@
       "session_id": "fbd8c068-e6c8-493e-969b-8147d8a2a9cb",
       "session_type": "story",
       "story_id": "7371126",
-      "event_type": "task_complete",
+      "event_type": "session_start",
       "agent_name": "SCS ADO Setup Agent",
       "framework": "ts,angular,java,spring-boot",
       "lines_added": 0,
-      "files": 1,
-      "duration_seconds": 180,
+      "files": 0,
+      "duration_seconds": 0,
       "regeneration_count": 0,
       "timestamp": "2026-07-06T08:37:45.797Z"
     }
