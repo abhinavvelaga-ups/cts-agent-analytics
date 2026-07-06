@@ -419,6 +419,19 @@
       "duration_seconds": 0,
       "regeneration_count": 0,
       "timestamp": "2026-07-06T07:49:45.060Z"
+    },
+    {
+      "session_id": "181f89ce-4227-4e81-8535-ea77485d5baf",
+      "session_type": "story",
+      "story_id": "7344636",
+      "event_type": "session_start",
+      "agent_name": "CTS ADO Setup Agent",
+      "framework": "ts,angular",
+      "lines_added": 0,
+      "files": 0,
+      "duration_seconds": 0,
+      "regeneration_count": 0,
+      "timestamp": "2026-07-06T08:26:05.906Z"
     }
   ]
 }
