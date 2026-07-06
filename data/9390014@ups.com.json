@@ -657,12 +657,12 @@
       "session_id": "a219457a-243e-4b73-97de-5921ee06e98a",
       "session_type": "general",
       "story_id": null,
-      "event_type": "session_start",
+      "event_type": "task_complete",
       "agent_name": "Default Chat",
       "framework": "js,netlify",
-      "lines_added": 0,
-      "files": 0,
-      "duration_seconds": 0,
+      "lines_added": 400,
+      "files": 5,
+      "duration_seconds": 600,
       "regeneration_count": 0,
       "timestamp": "2026-07-06T19:05:39.942Z"
     }
