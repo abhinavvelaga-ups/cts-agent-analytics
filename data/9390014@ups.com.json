@@ -660,9 +660,9 @@
       "event_type": "task_complete",
       "agent_name": "Default Chat",
       "framework": "js,netlify",
-      "lines_added": 400,
-      "files": 5,
-      "duration_seconds": 600,
+      "lines_added": 160,
+      "files": 4,
+      "duration_seconds": 540,
       "regeneration_count": 0,
       "timestamp": "2026-07-06T19:05:39.942Z"
     }
