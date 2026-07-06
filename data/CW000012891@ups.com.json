@@ -107,6 +107,19 @@
       "duration_seconds": 2100,
       "regeneration_count": 0,
       "timestamp": "2026-07-06T06:51:25.264Z"
+    },
+    {
+      "session_id": "97149221-ee38-4c6e-a802-b8549b48f413",
+      "session_type": "story",
+      "story_id": "density-calc-shipment-total",
+      "event_type": "session_start",
+      "agent_name": "Default Chat",
+      "framework": "csharp,dotnet-webapi",
+      "lines_added": 0,
+      "files": 0,
+      "duration_seconds": 0,
+      "regeneration_count": 0,
+      "timestamp": "2026-07-06T10:02:13.438Z"
     }
   ]
 }
