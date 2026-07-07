@@ -151,12 +151,12 @@
       "session_id": "a153e30e-b18c-46c3-806d-78c973369c0f",
       "session_type": "story",
       "story_id": "7344870",
-      "event_type": "session_start",
+      "event_type": "task_complete",
       "agent_name": "SCS ADO Setup Agent",
       "framework": "csharp,dotnet-webapi",
       "lines_added": 0,
       "files": 0,
-      "duration_seconds": 0,
+      "duration_seconds": 5,
       "regeneration_count": 0,
       "timestamp": "2026-07-07T12:08:37.550Z"
     }
