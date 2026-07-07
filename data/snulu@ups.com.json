@@ -372,12 +372,12 @@
       "session_id": "412dac49-e617-41da-8ced-75d23c67f2b6",
       "session_type": "general",
       "story_id": null,
-      "event_type": "session_start",
+      "event_type": "task_complete",
       "agent_name": "Default Chat",
       "framework": "js,playwright",
-      "lines_added": 0,
-      "files": 0,
-      "duration_seconds": 0,
+      "lines_added": 96,
+      "files": 1,
+      "duration_seconds": 45,
       "regeneration_count": 0,
       "timestamp": "2026-07-07T13:12:31.977Z"
     }
