@@ -129,8 +129,8 @@
       "agent_name": "Default Chat",
       "framework": "java,spring-boot",
       "lines_added": 0,
-      "files": 1,
-      "duration_seconds": 35,
+      "files": 0,
+      "duration_seconds": 15,
       "regeneration_count": 0,
       "timestamp": "2026-07-06T06:49:48.307Z"
     }
