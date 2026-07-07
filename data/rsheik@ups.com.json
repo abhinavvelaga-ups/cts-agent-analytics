@@ -138,12 +138,12 @@
       "session_id": "2751a050-06e8-44b9-94f5-d2821778c2a3",
       "session_type": "story",
       "story_id": "7344870",
-      "event_type": "session_start",
+      "event_type": "task_complete",
       "agent_name": "SCS ADO Setup Agent",
       "framework": "csharp,dotnet",
-      "lines_added": 0,
-      "files": 0,
-      "duration_seconds": 0,
+      "lines_added": 100,
+      "files": 5,
+      "duration_seconds": 320,
       "regeneration_count": 0,
       "timestamp": "2026-07-07T11:40:52.911Z"
     }
