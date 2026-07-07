@@ -120,6 +120,19 @@
       "duration_seconds": 45,
       "regeneration_count": 0,
       "timestamp": "2026-07-06T10:02:13.438Z"
+    },
+    {
+      "session_id": "05834980-74b3-4f5d-95f2-376cfd086ce9",
+      "session_type": "story",
+      "story_id": "7344945_Density-Calculation-Shipment-Total",
+      "event_type": "session_start",
+      "agent_name": "SCS ADO Setup Agent",
+      "framework": "csharp",
+      "lines_added": 0,
+      "files": 0,
+      "duration_seconds": 0,
+      "regeneration_count": 0,
+      "timestamp": "2026-07-07T06:02:16.778Z"
     }
   ]
 }
