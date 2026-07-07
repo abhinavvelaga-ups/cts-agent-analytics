@@ -68,6 +68,19 @@
       "duration_seconds": 120,
       "regeneration_count": 0,
       "timestamp": "2026-06-30T10:19:17.146Z"
+    },
+    {
+      "session_id": "ce43c735-3b61-4671-a005-ac6566d1aa09",
+      "session_type": "story",
+      "story_id": "https://dev.azure.com/UPSProd4/P4AG_Customer_Visibility/_workitems/edit/7369067",
+      "event_type": "session_start",
+      "agent_name": "CTS BRE Extraction Agent",
+      "framework": "ts,angular",
+      "lines_added": 0,
+      "files": 0,
+      "duration_seconds": 0,
+      "regeneration_count": 0,
+      "timestamp": "2026-07-07T16:53:11.957Z"
     }
   ]
 }
