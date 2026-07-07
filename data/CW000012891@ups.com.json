@@ -255,12 +255,12 @@
       "session_id": "c6220309-c082-4857-a861-e8cb28c86833",
       "session_type": "story",
       "story_id": "7344945",
-      "event_type": "session_start",
+      "event_type": "task_complete",
       "agent_name": "SCS ADO Setup Agent",
       "framework": "csharp,ts",
       "lines_added": 0,
       "files": 0,
-      "duration_seconds": 0,
+      "duration_seconds": 30,
       "regeneration_count": 0,
       "timestamp": "2026-07-07T09:25:05.581Z"
     }
