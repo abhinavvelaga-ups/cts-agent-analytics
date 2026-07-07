@@ -242,12 +242,12 @@
       "session_id": "5d29b1a0-5124-46c6-9b97-1eaeb7b28018",
       "session_type": "story",
       "story_id": "7344945",
-      "event_type": "session_start",
+      "event_type": "task_complete",
       "agent_name": "SCS ADO Setup Agent",
       "framework": "csharp,ts",
       "lines_added": 0,
       "files": 0,
-      "duration_seconds": 0,
+      "duration_seconds": 120,
       "regeneration_count": 0,
       "timestamp": "2026-07-07T08:57:28.609Z"
     }
