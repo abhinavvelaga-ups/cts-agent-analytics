@@ -1,7 +1,7 @@
 {
   "developer_id": "cw000013592@ups.com",
-  "developer_name": "Vamsidhar Bhoomireddy",
-  "pod_name": "UFH-1",
+  "developer_name": "vamsidhar bhoomireddy",
+  "pod_name": "VNR POD 1",
   "dev_role": "Dev",
   "sessions": [
     {
@@ -55,6 +55,19 @@
       "duration_seconds": 8,
       "regeneration_count": 0,
       "timestamp": "2026-07-07T05:35:48.907Z"
+    },
+    {
+      "session_id": "1dfed810-791a-46fe-a856-747e917e8438",
+      "session_type": "general",
+      "story_id": null,
+      "event_type": "session_start",
+      "agent_name": "Default Chat",
+      "framework": "ts,angular",
+      "lines_added": 0,
+      "files": 0,
+      "duration_seconds": 0,
+      "regeneration_count": 0,
+      "timestamp": "2026-07-07T13:12:17.707Z"
     }
   ]
 }
