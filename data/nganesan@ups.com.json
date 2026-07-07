@@ -50,9 +50,9 @@
       "event_type": "task_complete",
       "agent_name": "Default Chat",
       "framework": "html,css,js",
-      "lines_added": 760,
+      "lines_added": 960,
       "files": 1,
-      "duration_seconds": 600,
+      "duration_seconds": 720,
       "regeneration_count": 0,
       "timestamp": "2026-07-02T19:47:17.793Z"
     }
