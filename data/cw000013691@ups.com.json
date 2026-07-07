@@ -128,9 +128,9 @@
       "event_type": "task_complete",
       "agent_name": "Default Chat",
       "framework": "java,spring-boot",
-      "lines_added": 140,
-      "files": 1,
-      "duration_seconds": 30,
+      "lines_added": 155,
+      "files": 2,
+      "duration_seconds": 25,
       "regeneration_count": 0,
       "timestamp": "2026-07-06T06:49:48.307Z"
     }
