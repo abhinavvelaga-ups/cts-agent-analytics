@@ -359,12 +359,12 @@
       "session_id": "f7abcf5b-8342-4170-b0d0-061c038729a3",
       "session_type": "general",
       "story_id": null,
-      "event_type": "session_start",
+      "event_type": "task_complete",
       "agent_name": "Default Chat",
       "framework": "js,playwright",
       "lines_added": 0,
-      "files": 0,
-      "duration_seconds": 0,
+      "files": 1,
+      "duration_seconds": 20,
       "regeneration_count": 0,
       "timestamp": "2026-07-07T10:13:49.188Z"
     }
