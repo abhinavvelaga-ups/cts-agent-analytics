@@ -203,12 +203,12 @@
       "session_id": "4fe7f735-da0c-4113-ab1f-0c091f728596",
       "session_type": "story",
       "story_id": "7344870",
-      "event_type": "session_start",
+      "event_type": "task_complete",
       "agent_name": "Default Chat",
       "framework": "ts,angular",
-      "lines_added": 0,
-      "files": 0,
-      "duration_seconds": 0,
+      "lines_added": 20,
+      "files": 2,
+      "duration_seconds": 210,
       "regeneration_count": 0,
       "timestamp": "2026-07-08T08:56:53.115Z"
     }
