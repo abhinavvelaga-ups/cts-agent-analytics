@@ -489,12 +489,12 @@
       "session_id": "0d05dc86-ade6-4361-868a-7a9ad257dfb1",
       "session_type": "general",
       "story_id": null,
-      "event_type": "session_start",
+      "event_type": "task_complete",
       "agent_name": "Default Chat",
       "framework": "ts,playwright",
-      "lines_added": 0,
-      "files": 0,
-      "duration_seconds": 0,
+      "lines_added": 260,
+      "files": 2,
+      "duration_seconds": 65,
       "regeneration_count": 0,
       "timestamp": "2026-07-08T12:10:27.033Z"
     }
