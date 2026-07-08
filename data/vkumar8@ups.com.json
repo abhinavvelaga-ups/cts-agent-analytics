@@ -203,12 +203,12 @@
       "session_id": "5115fa0c-57b4-4311-8833-36ad20a72283",
       "session_type": "general",
       "story_id": null,
-      "event_type": "session_start",
+      "event_type": "task_complete",
       "agent_name": "SCS Test Writer Agent",
       "framework": "ts,angular",
-      "lines_added": 0,
-      "files": 0,
-      "duration_seconds": 0,
+      "lines_added": 1800,
+      "files": 21,
+      "duration_seconds": 3600,
       "regeneration_count": 0,
       "timestamp": "2026-07-08T13:42:33.184Z"
     }
