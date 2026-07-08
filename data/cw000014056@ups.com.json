@@ -75,10 +75,10 @@
       "story_id": null,
       "event_type": "task_complete",
       "agent_name": "Default Chat",
-      "framework": "ts,angular",
+      "framework": "ts,angular,sql",
       "lines_added": 0,
       "files": 0,
-      "duration_seconds": 30,
+      "duration_seconds": 40,
       "regeneration_count": 0,
       "timestamp": "2026-07-08T15:49:34.448Z"
     }
