@@ -159,6 +159,19 @@
       "duration_seconds": 40,
       "regeneration_count": 0,
       "timestamp": "2026-07-08T12:47:50.452Z"
+    },
+    {
+      "session_id": "2d16d212-fbc1-462f-ae5c-a1633ee7fa99",
+      "session_type": "general",
+      "story_id": null,
+      "event_type": "session_start",
+      "agent_name": "SCS Test Writer Agent",
+      "framework": "ts,angular",
+      "lines_added": 0,
+      "files": 0,
+      "duration_seconds": 0,
+      "regeneration_count": 0,
+      "timestamp": "2026-07-08T12:53:21.453Z"
     }
   ]
 }
