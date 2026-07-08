@@ -1,6 +1,6 @@
 {
   "developer_id": "mgudur@ups.com",
-  "developer_name": "mgudur@ups.com",
+  "developer_name": "Gudur Manideep",
   "pod_name": "UFH-Dev-3",
   "dev_role": "Dev",
   "sessions": [
@@ -16,6 +16,19 @@
       "duration_seconds": 150,
       "regeneration_count": 1,
       "timestamp": "2026-07-01T13:57:53.211Z"
+    },
+    {
+      "session_id": "4caf3171-7f2d-4163-9fd6-27299541e88b",
+      "session_type": "general",
+      "story_id": null,
+      "event_type": "session_start",
+      "agent_name": "Default Chat",
+      "framework": "ts,angular",
+      "lines_added": 0,
+      "files": 0,
+      "duration_seconds": 0,
+      "regeneration_count": 0,
+      "timestamp": "2026-07-08T08:35:10.309Z"
     }
   ]
 }
