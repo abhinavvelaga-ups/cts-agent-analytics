@@ -294,13 +294,13 @@
       "session_id": "46ce49d2-6f50-4181-96c4-c832a74342ad",
       "session_type": "general",
       "story_id": null,
-      "event_type": "task_complete",
+      "event_type": "session_start",
       "agent_name": "Default Chat",
       "framework": "csharp,dotnet-webapi,angular",
-      "lines_added": 4,
-      "files": 1,
-      "duration_seconds": 55,
-      "regeneration_count": 1,
+      "lines_added": 0,
+      "files": 0,
+      "duration_seconds": 0,
+      "regeneration_count": 0,
       "timestamp": "2026-07-08T12:54:40.793Z"
     }
   ]
