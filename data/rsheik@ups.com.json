@@ -216,12 +216,12 @@
       "session_id": "3503d94a-f537-4578-b7af-e17f27a824d3",
       "session_type": "story",
       "story_id": "7344870",
-      "event_type": "session_start",
+      "event_type": "task_complete",
       "agent_name": "Default Chat",
       "framework": "csharp,dotnet",
       "lines_added": 0,
       "files": 0,
-      "duration_seconds": 0,
+      "duration_seconds": 180,
       "regeneration_count": 0,
       "timestamp": "2026-07-08T09:19:15.199Z"
     }
