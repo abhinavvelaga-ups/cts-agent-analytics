@@ -1,0 +1,21 @@
+{
+  "developer_id": "rajkumarmani@ups.com",
+  "developer_name": "Rajkumar Mani",
+  "pod_name": "OPT_ENA_Global-Trade-and-Customs-Compliance_Mewtwo",
+  "dev_role": "Dev",
+  "sessions": [
+    {
+      "session_id": "470038bc-36b8-46d2-b011-b86cde680752",
+      "session_type": "general",
+      "story_id": null,
+      "event_type": "session_start",
+      "agent_name": "Default Chat",
+      "framework": "ts,angular",
+      "lines_added": 0,
+      "files": 0,
+      "duration_seconds": 0,
+      "regeneration_count": 0,
+      "timestamp": "2026-07-09T10:33:17.638Z"
+    }
+  ]
+}
