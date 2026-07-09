@@ -198,6 +198,19 @@
       "duration_seconds": 120,
       "regeneration_count": 0,
       "timestamp": "2026-07-08T14:52:08.675Z"
+    },
+    {
+      "session_id": "eac5f53d-ffa6-49ca-97af-bff986a40c21",
+      "session_type": "general",
+      "story_id": null,
+      "event_type": "session_start",
+      "agent_name": "SCS Documentation Agent",
+      "framework": "java,spring-boot",
+      "lines_added": 0,
+      "files": 0,
+      "duration_seconds": 0,
+      "regeneration_count": 0,
+      "timestamp": "2026-07-09T09:33:23.537Z"
     }
   ]
 }
