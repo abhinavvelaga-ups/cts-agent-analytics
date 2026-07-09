@@ -601,6 +601,19 @@
       "duration_seconds": 180,
       "regeneration_count": 0,
       "timestamp": "2026-07-09T12:16:06.201Z"
+    },
+    {
+      "session_id": "560a4aa0-ce5d-4f4e-9aff-492855f33f09",
+      "session_type": "general",
+      "story_id": null,
+      "event_type": "session_start",
+      "agent_name": "SCS Frontend Builder Agent",
+      "framework": "ts,angular",
+      "lines_added": 0,
+      "files": 0,
+      "duration_seconds": 0,
+      "regeneration_count": 0,
+      "timestamp": "2026-07-09T13:13:53.471Z"
     }
   ]
 }
