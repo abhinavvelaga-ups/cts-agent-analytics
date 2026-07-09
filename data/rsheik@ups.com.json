@@ -333,12 +333,12 @@
       "session_id": "909fe527-30c9-47b5-a9e0-92cd09aabf4a",
       "session_type": "story",
       "story_id": "7344870",
-      "event_type": "session_start",
+      "event_type": "task_complete",
       "agent_name": "SCS ADO Setup Agent",
-      "framework": "csharp,dotnet-webapi",
-      "lines_added": 0,
-      "files": 0,
-      "duration_seconds": 0,
+      "framework": "ts,angular",
+      "lines_added": 95,
+      "files": 5,
+      "duration_seconds": 420,
       "regeneration_count": 0,
       "timestamp": "2026-07-09T09:51:00.130Z"
     }
