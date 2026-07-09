@@ -203,12 +203,12 @@
       "session_id": "eac5f53d-ffa6-49ca-97af-bff986a40c21",
       "session_type": "general",
       "story_id": null,
-      "event_type": "session_start",
+      "event_type": "task_complete",
       "agent_name": "SCS Documentation Agent",
       "framework": "java,spring-boot",
-      "lines_added": 0,
-      "files": 0,
-      "duration_seconds": 0,
+      "lines_added": 650,
+      "files": 3,
+      "duration_seconds": 420,
       "regeneration_count": 0,
       "timestamp": "2026-07-09T09:33:23.537Z"
     }
