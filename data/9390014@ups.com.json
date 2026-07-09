@@ -709,12 +709,12 @@
       "session_id": "dbc7d852-1bb6-4759-9f87-19b49728fbe5",
       "session_type": "general",
       "story_id": null,
-      "event_type": "session_start",
+      "event_type": "task_complete",
       "agent_name": "Default Chat",
       "framework": "js,node",
-      "lines_added": 0,
-      "files": 0,
-      "duration_seconds": 0,
+      "lines_added": 170,
+      "files": 7,
+      "duration_seconds": 1080,
       "regeneration_count": 0,
       "timestamp": "2026-07-09T15:48:25.864Z"
     }
