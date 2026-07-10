@@ -801,12 +801,12 @@
       "session_id": "eb8267b3-f90e-46f3-b6e4-ea7f39494ebd",
       "session_type": "general",
       "story_id": null,
-      "event_type": "session_start",
+      "event_type": "task_complete",
       "agent_name": "SCS Frontend Builder Agent",
       "framework": "ts,angular",
-      "lines_added": 0,
-      "files": 0,
-      "duration_seconds": 0,
+      "lines_added": 750,
+      "files": 4,
+      "duration_seconds": 420,
       "regeneration_count": 0,
       "timestamp": "2026-07-10T07:09:26.140Z"
     }
