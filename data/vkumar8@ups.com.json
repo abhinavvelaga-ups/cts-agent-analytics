@@ -957,12 +957,12 @@
       "session_id": "8f01bfbc-b9cc-4042-829e-b24af1588e1a",
       "session_type": "general",
       "story_id": null,
-      "event_type": "session_start",
+      "event_type": "task_complete",
       "agent_name": "SCS Frontend Builder Agent",
       "framework": "ts,angular",
-      "lines_added": 0,
-      "files": 0,
-      "duration_seconds": 0,
+      "lines_added": 920,
+      "files": 4,
+      "duration_seconds": 1800,
       "regeneration_count": 0,
       "timestamp": "2026-07-10T13:33:53.900Z"
     }
