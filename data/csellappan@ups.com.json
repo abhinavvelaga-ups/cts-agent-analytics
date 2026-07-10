@@ -211,6 +211,19 @@
       "duration_seconds": 420,
       "regeneration_count": 0,
       "timestamp": "2026-07-09T09:33:23.537Z"
+    },
+    {
+      "session_id": "c4830497-243c-4d81-afae-19b6689997ad",
+      "session_type": "general",
+      "story_id": null,
+      "event_type": "session_start",
+      "agent_name": "SCS DevOps Config Agent",
+      "framework": "java",
+      "lines_added": 0,
+      "files": 0,
+      "duration_seconds": 0,
+      "regeneration_count": 0,
+      "timestamp": "2026-07-10T10:01:17.688Z"
     }
   ]
 }
