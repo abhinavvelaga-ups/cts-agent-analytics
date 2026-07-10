@@ -167,10 +167,10 @@
       "event_type": "task_complete",
       "agent_name": "CTS Frontend Builder Agent",
       "framework": "ts,angular",
-      "lines_added": 0,
+      "lines_added": 1,
       "files": 1,
-      "duration_seconds": 90,
-      "regeneration_count": 1,
+      "duration_seconds": 180,
+      "regeneration_count": 2,
       "timestamp": "2026-07-10T02:59:23.450Z"
     }
   ]
