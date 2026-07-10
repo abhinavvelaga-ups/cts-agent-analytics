@@ -151,13 +151,13 @@
       "session_id": "dbde4e89-aca4-44cb-ba25-c6b1bc3c5c91",
       "session_type": "story",
       "story_id": "DFCT-442",
-      "event_type": "session_start",
+      "event_type": "task_complete",
       "agent_name": "CTS Frontend Builder Agent",
       "framework": "ts,angular",
-      "lines_added": 0,
-      "files": 0,
-      "duration_seconds": 0,
-      "regeneration_count": 0,
+      "lines_added": 17,
+      "files": 2,
+      "duration_seconds": 420,
+      "regeneration_count": 1,
       "timestamp": "2026-07-10T02:18:47.157Z"
     }
   ]
