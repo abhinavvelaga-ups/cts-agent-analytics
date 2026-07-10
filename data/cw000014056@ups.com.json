@@ -125,12 +125,12 @@
       "session_id": "6ae5d3a7-0fd4-422f-9cb1-cae41f89f983",
       "session_type": "story",
       "story_id": "DFCT-442",
-      "event_type": "session_start",
+      "event_type": "task_complete",
       "agent_name": "CTS Frontend Builder Agent",
       "framework": "ts,angular",
-      "lines_added": 0,
-      "files": 0,
-      "duration_seconds": 0,
+      "lines_added": 12,
+      "files": 1,
+      "duration_seconds": 120,
       "regeneration_count": 0,
       "timestamp": "2026-07-10T02:07:38.805Z"
     }
