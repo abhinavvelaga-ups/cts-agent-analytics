@@ -8,12 +8,12 @@
       "session_id": "dfd90cab-32b3-465d-b133-0fa69c13ff0f",
       "session_type": "general",
       "story_id": null,
-      "event_type": "session_start",
+      "event_type": "task_complete",
       "agent_name": "Default Chat",
       "framework": "unknown",
       "lines_added": 0,
       "files": 0,
-      "duration_seconds": 0,
+      "duration_seconds": 63,
       "regeneration_count": 0,
       "timestamp": "2026-07-08T04:55:21.935Z"
     }
