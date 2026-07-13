@@ -1,0 +1,21 @@
+{
+  "developer_id": "nkesri@ups.com",
+  "developer_name": "Neha Kesri",
+  "pod_name": "other Team",
+  "dev_role": "Dev",
+  "sessions": [
+    {
+      "session_id": "01add61b-82eb-4fc4-93be-bff314aa37e6",
+      "session_type": "general",
+      "story_id": null,
+      "event_type": "session_start",
+      "agent_name": "Default Chat",
+      "framework": "ts,angular",
+      "lines_added": 0,
+      "files": 0,
+      "duration_seconds": 0,
+      "regeneration_count": 0,
+      "timestamp": "2026-07-13T10:31:23.371Z"
+    }
+  ]
+}
