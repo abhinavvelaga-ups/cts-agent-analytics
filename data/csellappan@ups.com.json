@@ -268,12 +268,12 @@
       "session_id": "470923b4-9551-4ade-b2c5-efb5bf737b52",
       "session_type": "story",
       "story_id": "SonarQube-Integration-Steps",
-      "event_type": "session_start",
+      "event_type": "task_complete",
       "agent_name": "SCS Backend CodeGen Agent",
       "framework": "java,spring-boot",
-      "lines_added": 0,
-      "files": 0,
-      "duration_seconds": 0,
+      "lines_added": 17,
+      "files": 2,
+      "duration_seconds": 90,
       "regeneration_count": 0,
       "timestamp": "2026-07-13T09:43:09.024Z"
     }
