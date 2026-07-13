@@ -289,6 +289,19 @@
       "duration_seconds": 60,
       "regeneration_count": 0,
       "timestamp": "2026-07-13T10:27:29.066Z"
+    },
+    {
+      "session_id": "447009f5-ada7-40a5-ad46-259166d9104b",
+      "session_type": "story",
+      "story_id": "fix-commons-io-missing-version",
+      "event_type": "session_start",
+      "agent_name": "SCS Backend CodeGen Agent",
+      "framework": "java,spring-boot",
+      "lines_added": 0,
+      "files": 0,
+      "duration_seconds": 0,
+      "regeneration_count": 0,
+      "timestamp": "2026-07-13T10:30:04.807Z"
     }
   ]
 }
