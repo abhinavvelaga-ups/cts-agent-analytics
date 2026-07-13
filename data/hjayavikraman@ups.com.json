@@ -151,12 +151,12 @@
       "session_id": "8377e261-7efb-492d-a1bc-ef2fafed7d74",
       "session_type": "general",
       "story_id": null,
-      "event_type": "session_start",
+      "event_type": "task_complete",
       "agent_name": "Default Chat",
       "framework": "java,sql",
       "lines_added": 0,
       "files": 0,
-      "duration_seconds": 0,
+      "duration_seconds": 25,
       "regeneration_count": 0,
       "timestamp": "2026-07-13T11:55:46.385Z"
     }
