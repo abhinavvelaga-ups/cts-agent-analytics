@@ -242,12 +242,12 @@
       "session_id": "c4a08cc4-0a8f-4443-9158-a9085fca3d55",
       "session_type": "story",
       "story_id": "7134262",
-      "event_type": "session_start",
+      "event_type": "task_complete",
       "agent_name": "SCS Backend CodeGen Agent",
       "framework": "java,oracle-plsql",
       "lines_added": 0,
       "files": 0,
-      "duration_seconds": 0,
+      "duration_seconds": 60,
       "regeneration_count": 0,
       "timestamp": "2026-07-10T12:07:37.325Z"
     }
