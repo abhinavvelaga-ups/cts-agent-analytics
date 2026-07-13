@@ -328,6 +328,19 @@
       "duration_seconds": 45,
       "regeneration_count": 0,
       "timestamp": "2026-07-13T10:34:47.784Z"
+    },
+    {
+      "session_id": "c442d68a-67a7-40af-bd61-a3a943e5bc75",
+      "session_type": "story",
+      "story_id": "fix-artifactory-403-dependencymanagement-pins",
+      "event_type": "session_start",
+      "agent_name": "SCS Backend CodeGen Agent",
+      "framework": "java,spring-boot",
+      "lines_added": 0,
+      "files": 0,
+      "duration_seconds": 0,
+      "regeneration_count": 0,
+      "timestamp": "2026-07-13T10:36:35.830Z"
     }
   ]
 }
