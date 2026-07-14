@@ -310,9 +310,9 @@
       "event_type": "task_complete",
       "agent_name": "Default Chat",
       "framework": "ts,angular",
-      "lines_added": -35,
-      "files": 1,
-      "duration_seconds": 45,
+      "lines_added": 20,
+      "files": 3,
+      "duration_seconds": 150,
       "regeneration_count": 0,
       "timestamp": "2026-07-14T14:45:58.256Z"
     }
