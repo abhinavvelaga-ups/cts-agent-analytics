@@ -177,12 +177,12 @@
       "session_id": "d36d5433-f095-4235-ac0a-c8613aff2c81",
       "session_type": "general",
       "story_id": null,
-      "event_type": "session_start",
+      "event_type": "task_complete",
       "agent_name": "Default Chat",
       "framework": "ts,angular",
-      "lines_added": 0,
-      "files": 0,
-      "duration_seconds": 0,
+      "lines_added": 15,
+      "files": 1,
+      "duration_seconds": 30,
       "regeneration_count": 0,
       "timestamp": "2026-07-14T13:47:49.160Z"
     }
