@@ -198,6 +198,19 @@
       "duration_seconds": 0,
       "regeneration_count": 0,
       "timestamp": "2026-07-14T07:32:30.116Z"
+    },
+    {
+      "session_id": "1b9b2d6b-fac5-4a9b-83bf-b77dbb40e86c",
+      "session_type": "general",
+      "story_id": null,
+      "event_type": "session_start",
+      "agent_name": "Default Chat",
+      "framework": "java,spring-boot",
+      "lines_added": 0,
+      "files": 0,
+      "duration_seconds": 0,
+      "regeneration_count": 0,
+      "timestamp": "2026-07-14T11:16:49.130Z"
     }
   ]
 }
