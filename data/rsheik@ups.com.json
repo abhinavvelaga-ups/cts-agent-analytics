@@ -632,12 +632,12 @@
       "session_id": "58d28216-12d5-442b-8c7d-af135d469849",
       "session_type": "general",
       "story_id": null,
-      "event_type": "session_start",
+      "event_type": "task_complete",
       "agent_name": "Default Chat",
       "framework": "csharp,dotnet-webapi",
-      "lines_added": 0,
-      "files": 0,
-      "duration_seconds": 0,
+      "lines_added": 75,
+      "files": 2,
+      "duration_seconds": 180,
       "regeneration_count": 0,
       "timestamp": "2026-07-14T06:25:27.530Z"
     }
