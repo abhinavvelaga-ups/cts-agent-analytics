@@ -138,12 +138,12 @@
       "session_id": "f9723184-d1e0-4907-a11e-dcc553d3855e",
       "session_type": "story",
       "story_id": "7317795",
-      "event_type": "session_start",
+      "event_type": "task_complete",
       "agent_name": "SCS Backend CodeGen Agent",
       "framework": "ts,angular",
       "lines_added": 0,
       "files": 0,
-      "duration_seconds": 0,
+      "duration_seconds": 90,
       "regeneration_count": 0,
       "timestamp": "2026-07-14T12:34:51.913Z"
     }
