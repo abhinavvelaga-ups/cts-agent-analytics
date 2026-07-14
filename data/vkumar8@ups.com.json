@@ -1841,12 +1841,12 @@
       "session_id": "6f663d57-73eb-479e-8a3b-3f91678690aa",
       "session_type": "general",
       "story_id": null,
-      "event_type": "session_start",
+      "event_type": "task_complete",
       "agent_name": "SCS Backend CodeGen Agent",
       "framework": "java,ts,angular",
       "lines_added": 0,
       "files": 0,
-      "duration_seconds": 0,
+      "duration_seconds": 8,
       "regeneration_count": 0,
       "timestamp": "2026-07-14T08:06:44.998Z"
     }
