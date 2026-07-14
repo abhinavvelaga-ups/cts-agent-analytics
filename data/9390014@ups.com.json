@@ -837,12 +837,12 @@
       "session_id": "8de04945-ebfd-4c24-8843-76a4846bbdac",
       "session_type": "general",
       "story_id": null,
-      "event_type": "session_start",
+      "event_type": "task_complete",
       "agent_name": "Default Chat",
       "framework": "unknown",
       "lines_added": 0,
-      "files": 0,
-      "duration_seconds": 0,
+      "files": 2,
+      "duration_seconds": 240,
       "regeneration_count": 0,
       "timestamp": "2026-07-14T13:07:43.467Z"
     }
