@@ -229,12 +229,12 @@
       "session_id": "e4b89644-a0c5-4df5-81a3-cc21c5db3cab",
       "session_type": "general",
       "story_id": null,
-      "event_type": "session_start",
+      "event_type": "task_complete",
       "agent_name": "SCS Backend CodeGen Agent",
       "framework": "java,spring-boot",
-      "lines_added": 0,
-      "files": 0,
-      "duration_seconds": 0,
+      "lines_added": 2,
+      "files": 1,
+      "duration_seconds": 360,
       "regeneration_count": 0,
       "timestamp": "2026-07-14T22:21:34.934Z"
     }
