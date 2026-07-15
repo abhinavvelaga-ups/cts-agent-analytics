@@ -619,12 +619,12 @@
       "session_id": "9983f8ed-2cab-4791-95c6-614ecb822826",
       "session_type": "story",
       "story_id": "7156664",
-      "event_type": "session_start",
+      "event_type": "task_complete",
       "agent_name": "CTS ADO Setup Agent",
-      "framework": "csharp",
+      "framework": "unknown",
       "lines_added": 0,
       "files": 0,
-      "duration_seconds": 0,
+      "duration_seconds": 180,
       "regeneration_count": 0,
       "timestamp": "2026-07-15T11:05:39.767Z"
     }
