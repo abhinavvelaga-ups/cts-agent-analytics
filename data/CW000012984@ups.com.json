@@ -476,12 +476,12 @@
       "session_id": "1b66eed7-ad50-4dc0-a6f1-73cdcff0cdad",
       "session_type": "general",
       "story_id": null,
-      "event_type": "session_start",
+      "event_type": "task_complete",
       "agent_name": "Default Chat",
       "framework": "ts,angular",
-      "lines_added": 0,
-      "files": 0,
-      "duration_seconds": 0,
+      "lines_added": 4,
+      "files": 1,
+      "duration_seconds": 60,
       "regeneration_count": 0,
       "timestamp": "2026-07-15T11:01:39.560Z"
     }
