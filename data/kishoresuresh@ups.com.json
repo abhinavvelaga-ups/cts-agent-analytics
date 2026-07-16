@@ -333,12 +333,12 @@
       "session_id": "98989ab8-5f01-483f-bc4a-1e1baad34308",
       "session_type": "general",
       "story_id": null,
-      "event_type": "session_start",
+      "event_type": "task_complete",
       "agent_name": "Default Chat",
       "framework": "ts,angular",
       "lines_added": 0,
-      "files": 0,
-      "duration_seconds": 0,
+      "files": 2,
+      "duration_seconds": 25,
       "regeneration_count": 0,
       "timestamp": "2026-07-16T13:54:50.605Z"
     }
