@@ -501,13 +501,13 @@
     {
       "session_id": "56d25155-f272-44fe-8a23-401080359fb6",
       "session_type": "story",
-      "story_id": null,
-      "event_type": "session_start",
+      "story_id": "7423485",
+      "event_type": "task_complete",
       "agent_name": "SCS Requirements Agent",
       "framework": "java,spring-boot",
       "lines_added": 0,
       "files": 0,
-      "duration_seconds": 0,
+      "duration_seconds": 27,
       "regeneration_count": 0,
       "timestamp": "2026-07-16T12:46:38.899Z"
     }
