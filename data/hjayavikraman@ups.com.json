@@ -320,12 +320,12 @@
       "session_id": "f355dc1f-9e7c-4f74-8812-0561d9e5f055",
       "session_type": "general",
       "story_id": null,
-      "event_type": "session_start",
+      "event_type": "task_complete",
       "agent_name": "Default Chat",
       "framework": "java,spring-boot",
       "lines_added": 0,
-      "files": 0,
-      "duration_seconds": 0,
+      "files": 1,
+      "duration_seconds": 540,
       "regeneration_count": 0,
       "timestamp": "2026-07-16T11:48:44.747Z"
     }
