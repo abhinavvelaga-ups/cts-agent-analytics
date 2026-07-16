@@ -232,10 +232,10 @@
       "event_type": "task_complete",
       "agent_name": "Default Chat",
       "framework": "ts,angular",
-      "lines_added": 10,
-      "files": 2,
-      "duration_seconds": 300,
-      "regeneration_count": 0,
+      "lines_added": 18,
+      "files": 1,
+      "duration_seconds": 420,
+      "regeneration_count": 1,
       "timestamp": "2026-07-09T13:04:51.967Z"
     },
     {
