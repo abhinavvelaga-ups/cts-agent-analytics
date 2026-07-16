@@ -401,9 +401,9 @@
       "event_type": "task_complete",
       "agent_name": "Default Chat",
       "framework": "ts,angular,csharp",
-      "lines_added": 610,
-      "files": 5,
-      "duration_seconds": 45,
+      "lines_added": 2,
+      "files": 1,
+      "duration_seconds": 5,
       "regeneration_count": 0,
       "timestamp": "2026-07-16T16:33:28.792Z"
     }
