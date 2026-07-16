@@ -422,14 +422,14 @@
     },
     {
       "session_id": "11586534-3c3d-48d0-81cc-502b3c4b032c",
-      "session_type": "general",
-      "story_id": null,
-      "event_type": "session_start",
+      "session_type": "story",
+      "story_id": "7423198",
+      "event_type": "task_complete",
       "agent_name": "SCS Requirements Agent",
       "framework": "java,spring-boot",
       "lines_added": 0,
       "files": 0,
-      "duration_seconds": 0,
+      "duration_seconds": 180,
       "regeneration_count": 0,
       "timestamp": "2026-07-16T12:17:37.477Z"
     }
