@@ -372,12 +372,12 @@
       "session_id": "4d745345-af4c-4c97-8c34-b30e8d4cc67f",
       "session_type": "story",
       "story_id": "7117173",
-      "event_type": "session_start",
+      "event_type": "task_complete",
       "agent_name": "SCS ADO Setup Agent",
       "framework": "java,ts,angular",
-      "lines_added": 0,
-      "files": 0,
-      "duration_seconds": 0,
+      "lines_added": 74,
+      "files": 5,
+      "duration_seconds": 180,
       "regeneration_count": 0,
       "timestamp": "2026-07-16T14:49:52.336Z"
     }
