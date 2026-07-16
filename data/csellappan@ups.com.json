@@ -432,6 +432,19 @@
       "duration_seconds": 180,
       "regeneration_count": 0,
       "timestamp": "2026-07-16T12:17:37.477Z"
+    },
+    {
+      "session_id": "5e19ed43-0c2f-49b3-a266-4af4e520f7b8",
+      "session_type": "general",
+      "story_id": null,
+      "event_type": "session_start",
+      "agent_name": "SCS Requirements Agent",
+      "framework": "java,spring-boot",
+      "lines_added": 0,
+      "files": 0,
+      "duration_seconds": 0,
+      "regeneration_count": 0,
+      "timestamp": "2026-07-16T12:27:23.927Z"
     }
   ]
 }
