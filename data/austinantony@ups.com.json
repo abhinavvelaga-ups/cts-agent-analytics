@@ -461,8 +461,8 @@
     },
     {
       "session_id": "a391c81b-bcd8-4a1d-9496-a74de1556b07",
-      "session_type": "general",
-      "story_id": null,
+      "session_type": "story",
+      "story_id": "7099582",
       "event_type": "session_start",
       "agent_name": "SCS Architecture Agent",
       "framework": "java,spring-boot",
