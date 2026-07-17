@@ -640,6 +640,19 @@
       "duration_seconds": 0,
       "regeneration_count": 0,
       "timestamp": "2026-07-17T05:24:04.398Z"
+    },
+    {
+      "session_id": "cfee7206-b09f-4b8a-afc1-92cc4974508c",
+      "session_type": "story",
+      "story_id": "coverage-improvement-session-2",
+      "event_type": "session_start",
+      "agent_name": "SCS Backend CodeGen Agent",
+      "framework": "java",
+      "lines_added": 0,
+      "files": 0,
+      "duration_seconds": 0,
+      "regeneration_count": 0,
+      "timestamp": "2026-07-17T05:29:05.770Z"
     }
   ]
 }
