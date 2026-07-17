@@ -471,6 +471,19 @@
       "duration_seconds": 0,
       "regeneration_count": 0,
       "timestamp": "2026-07-17T04:13:15.381Z"
+    },
+    {
+      "session_id": "4c9eb8f5-6aac-4b7e-a803-f7c5bc2e3122",
+      "session_type": "story",
+      "story_id": "7099582",
+      "event_type": "session_start",
+      "agent_name": "SCS Architecture Agent",
+      "framework": "java,spring-boot,ts,angular",
+      "lines_added": 0,
+      "files": 0,
+      "duration_seconds": 0,
+      "regeneration_count": 0,
+      "timestamp": "2026-07-17T04:15:28.276Z"
     }
   ]
 }
