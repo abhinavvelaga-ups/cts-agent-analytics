@@ -619,12 +619,12 @@
       "session_id": "24fe1553-c636-4130-af00-e81c8652e757",
       "session_type": "general",
       "story_id": null,
-      "event_type": "session_start",
+      "event_type": "task_complete",
       "agent_name": "Default Chat",
       "framework": "playwright,js",
-      "lines_added": 0,
-      "files": 0,
-      "duration_seconds": 0,
+      "lines_added": 200,
+      "files": 1,
+      "duration_seconds": 720,
       "regeneration_count": 0,
       "timestamp": "2026-07-17T10:02:29.142Z"
     }
