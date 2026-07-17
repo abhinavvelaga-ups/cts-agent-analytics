@@ -487,9 +487,9 @@
     },
     {
       "session_id": "7df44d30-155e-4507-ae98-1cd25ef7ad53",
-      "session_type": "general",
-      "story_id": null,
-      "event_type": "session_start",
+      "session_type": "story",
+      "story_id": "7099582",
+      "event_type": "task_failed",
       "agent_name": "Default Chat",
       "framework": "unknown",
       "lines_added": 0,
