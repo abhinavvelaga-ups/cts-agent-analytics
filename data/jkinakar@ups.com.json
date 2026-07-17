@@ -775,7 +775,7 @@
       "session_id": "910212f7-66da-43db-ab55-5e5060acad1b",
       "session_type": "story",
       "story_id": "7284157",
-      "event_type": "session_start",
+      "event_type": "task_failed",
       "agent_name": "SCS Backend CodeGen Agent",
       "framework": "java,spring-boot",
       "lines_added": 0,
