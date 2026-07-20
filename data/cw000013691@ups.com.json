@@ -320,12 +320,12 @@
       "session_id": "2e52e3b0-5f03-434b-b03b-cd224e72abbe",
       "session_type": "general",
       "story_id": null,
-      "event_type": "session_start",
+      "event_type": "task_complete",
       "agent_name": "Default Chat",
       "framework": "terraform",
       "lines_added": 0,
       "files": 0,
-      "duration_seconds": 0,
+      "duration_seconds": 30,
       "regeneration_count": 0,
       "timestamp": "2026-07-20T12:18:34.488Z"
     }
