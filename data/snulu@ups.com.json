@@ -671,12 +671,12 @@
       "session_id": "9564126d-30a8-4d80-94dc-b471800f8508",
       "session_type": "general",
       "story_id": null,
-      "event_type": "task_complete",
+      "event_type": "session_start",
       "agent_name": "Default Chat",
       "framework": "ts,playwright",
-      "lines_added": 85,
-      "files": 12,
-      "duration_seconds": 180,
+      "lines_added": 0,
+      "files": 0,
+      "duration_seconds": 0,
       "regeneration_count": 0,
       "timestamp": "2026-07-20T12:27:30.143Z"
     }
