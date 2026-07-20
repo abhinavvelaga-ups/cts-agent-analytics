@@ -489,12 +489,12 @@
       "session_id": "90089f8e-28e7-40ef-bfd2-442358801748",
       "session_type": "story",
       "story_id": "Symphony CM051 Fluke Missing Data",
-      "event_type": "session_start",
+      "event_type": "task_complete",
       "agent_name": "CTS Backend CodeGen Agent",
       "framework": "java",
       "lines_added": 0,
       "files": 0,
-      "duration_seconds": 0,
+      "duration_seconds": 90,
       "regeneration_count": 0,
       "timestamp": "2026-07-20T04:17:39.918Z"
     }
