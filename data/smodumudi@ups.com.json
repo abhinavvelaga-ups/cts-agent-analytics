@@ -393,6 +393,19 @@
       "duration_seconds": 0,
       "regeneration_count": 0,
       "timestamp": "2026-07-21T11:10:59.133Z"
+    },
+    {
+      "session_id": "e6f70c3b-62d7-4db7-baf1-c7d6873eb4e4",
+      "session_type": "story",
+      "story_id": "https://dev.azure.com/UPSProd4/P4AG_Global_Brokerage/_workitems/edit/5166505",
+      "event_type": "session_start",
+      "agent_name": "SCS Backend CodeGen Agent",
+      "framework": "java",
+      "lines_added": 0,
+      "files": 0,
+      "duration_seconds": 0,
+      "regeneration_count": 0,
+      "timestamp": "2026-07-21T13:56:56.548Z"
     }
   ]
 }
