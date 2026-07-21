@@ -567,12 +567,12 @@
       "session_id": "42a96cf0-b4c4-4afc-89b3-806adafacca5",
       "session_type": "general",
       "story_id": null,
-      "event_type": "session_start",
+      "event_type": "task_complete",
       "agent_name": "CTS Backend CodeGen Agent",
       "framework": "java",
       "lines_added": 0,
       "files": 0,
-      "duration_seconds": 0,
+      "duration_seconds": 25,
       "regeneration_count": 0,
       "timestamp": "2026-07-21T14:22:28.754Z"
     }
