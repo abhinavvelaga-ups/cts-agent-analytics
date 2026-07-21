@@ -358,8 +358,8 @@
     {
       "session_id": "d56f266d-ad0e-457d-b5f7-32d8d1382047",
       "session_type": "story",
-      "story_id": null,
-      "event_type": "session_start",
+      "story_id": "5166505",
+      "event_type": "task_failed",
       "agent_name": "Default Chat",
       "framework": "java,ts,angular",
       "lines_added": 0,
