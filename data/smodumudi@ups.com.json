@@ -307,12 +307,12 @@
       "session_id": "1a614585-6a38-4a67-a955-e8c8876ff8a2",
       "session_type": "story",
       "story_id": "5166505",
-      "event_type": "session_start",
+      "event_type": "task_complete",
       "agent_name": "Default Chat",
       "framework": "unknown",
       "lines_added": 0,
       "files": 0,
-      "duration_seconds": 0,
+      "duration_seconds": 15,
       "regeneration_count": 0,
       "timestamp": "2026-07-21T11:02:21.572Z"
     }
