@@ -857,8 +857,8 @@
       "agent_name": "SCS ADO Setup Agent",
       "framework": "ts,angular",
       "lines_added": 0,
-      "files": 1,
-      "duration_seconds": 30,
+      "files": 0,
+      "duration_seconds": 10,
       "regeneration_count": 0,
       "timestamp": "2026-07-21T11:54:26.002Z"
     },
