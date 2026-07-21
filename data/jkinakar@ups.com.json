@@ -900,6 +900,19 @@
       "duration_seconds": 420,
       "regeneration_count": 0,
       "timestamp": "2026-07-21T12:31:10.703Z"
+    },
+    {
+      "session_id": "5adb42da-1b09-4136-8e0a-5432940ce430",
+      "session_type": "story",
+      "story_id": "5166505",
+      "event_type": "session_start",
+      "agent_name": "SCS ADO Setup Agent",
+      "framework": "java,spring-boot",
+      "lines_added": 0,
+      "files": 0,
+      "duration_seconds": 0,
+      "regeneration_count": 0,
+      "timestamp": "2026-07-21T13:00:36.894Z"
     }
   ]
 }
