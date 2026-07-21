@@ -34,12 +34,12 @@
       "session_id": "2a034ac3-dbba-46bb-8c65-13906d543fe8",
       "session_type": "story",
       "story_id": "7359854",
-      "event_type": "session_start",
+      "event_type": "task_complete",
       "agent_name": "SCS Requirements Agent",
       "framework": "sql",
       "lines_added": 0,
       "files": 0,
-      "duration_seconds": 0,
+      "duration_seconds": 15,
       "regeneration_count": 0,
       "timestamp": "2026-07-21T11:59:00.643Z"
     }
