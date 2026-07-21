@@ -710,12 +710,12 @@
       "session_id": "4d6396be-87b5-4bdb-beca-5c8eeb366bbb",
       "session_type": "general",
       "story_id": null,
-      "event_type": "session_start",
+      "event_type": "task_complete",
       "agent_name": "Default Chat",
       "framework": "playwright",
       "lines_added": 0,
       "files": 0,
-      "duration_seconds": 0,
+      "duration_seconds": 30,
       "regeneration_count": 0,
       "timestamp": "2026-07-21T06:54:03.312Z"
     }
