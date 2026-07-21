@@ -723,7 +723,7 @@
       "session_id": "f80aff5d-1bde-4a84-b67c-37f82ff6e465",
       "session_type": "general",
       "story_id": null,
-      "event_type": "session_start",
+      "event_type": "task_complete",
       "agent_name": "Default Chat",
       "framework": "playwright",
       "lines_added": 0,
