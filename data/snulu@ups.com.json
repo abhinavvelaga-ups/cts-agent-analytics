@@ -713,9 +713,9 @@
       "event_type": "task_complete",
       "agent_name": "Default Chat",
       "framework": "playwright",
-      "lines_added": 45,
+      "lines_added": 15,
       "files": 1,
-      "duration_seconds": 120,
+      "duration_seconds": 30,
       "regeneration_count": 0,
       "timestamp": "2026-07-21T06:54:03.312Z"
     }
