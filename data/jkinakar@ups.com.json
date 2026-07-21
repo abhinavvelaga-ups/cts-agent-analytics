@@ -931,12 +931,12 @@
       "session_id": "a1b46f2f-0953-4f15-a92b-26124f48e4ab",
       "session_type": "story",
       "story_id": "Netsparker-Issue-15",
-      "event_type": "session_start",
+      "event_type": "task_complete",
       "agent_name": "SCS Backend CodeGen Agent",
       "framework": "java",
-      "lines_added": 0,
-      "files": 0,
-      "duration_seconds": 0,
+      "lines_added": 4,
+      "files": 1,
+      "duration_seconds": 60,
       "regeneration_count": 0,
       "timestamp": "2026-07-21T14:06:53.581Z"
     }
