@@ -11,10 +11,10 @@
       "event_type": "task_complete",
       "agent_name": "Default Chat",
       "framework": "ts,angular",
-      "lines_added": 40,
+      "lines_added": 33,
       "files": 1,
-      "duration_seconds": 300,
-      "regeneration_count": 1,
+      "duration_seconds": 420,
+      "regeneration_count": 2,
       "timestamp": "2026-07-22T10:10:19.457Z"
     }
   ]
