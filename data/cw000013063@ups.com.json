@@ -159,6 +159,19 @@
       "duration_seconds": 40,
       "regeneration_count": 0,
       "timestamp": "2026-07-22T13:05:58.047Z"
+    },
+    {
+      "session_id": "490d229d-1e21-4841-ba62-56db91abcdcd",
+      "session_type": "general",
+      "story_id": null,
+      "event_type": "session_start",
+      "agent_name": "SCS Architecture Agent",
+      "framework": "ts,angular,csharp",
+      "lines_added": 0,
+      "files": 0,
+      "duration_seconds": 0,
+      "regeneration_count": 0,
+      "timestamp": "2026-07-22T13:10:24.532Z"
     }
   ]
 }
