@@ -671,12 +671,12 @@
       "session_id": "1bdf4a39-baca-49b7-8b4f-6610171177f3",
       "session_type": "story",
       "story_id": "4443635",
-      "event_type": "session_start",
+      "event_type": "task_complete",
       "agent_name": "SCS ADO Setup Agent",
       "framework": "java",
       "lines_added": 0,
       "files": 0,
-      "duration_seconds": 0,
+      "duration_seconds": 10,
       "regeneration_count": 0,
       "timestamp": "2026-07-22T12:46:13.798Z"
     }
