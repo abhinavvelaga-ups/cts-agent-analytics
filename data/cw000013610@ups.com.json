@@ -10,11 +10,11 @@
       "story_id": null,
       "event_type": "task_complete",
       "agent_name": "Default Chat",
-      "framework": "ts,angular",
-      "lines_added": 33,
+      "framework": "csharp,ts,angular",
+      "lines_added": 28,
       "files": 1,
-      "duration_seconds": 420,
-      "regeneration_count": 2,
+      "duration_seconds": 360,
+      "regeneration_count": 3,
       "timestamp": "2026-07-22T10:10:19.457Z"
     }
   ]
