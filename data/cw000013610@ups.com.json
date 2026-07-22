@@ -8,12 +8,12 @@
       "session_id": "54221e5e-bc4a-43e4-a7e8-57cca803aad4",
       "session_type": "general",
       "story_id": null,
-      "event_type": "session_start",
+      "event_type": "task_complete",
       "agent_name": "Default Chat",
-      "framework": "unknown",
-      "lines_added": 0,
-      "files": 0,
-      "duration_seconds": 0,
+      "framework": "ts,angular",
+      "lines_added": 22,
+      "files": 1,
+      "duration_seconds": 420,
       "regeneration_count": 0,
       "timestamp": "2026-07-22T10:10:19.457Z"
     }
