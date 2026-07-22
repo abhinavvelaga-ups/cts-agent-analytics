@@ -619,12 +619,12 @@
       "session_id": "e6081d46-8e97-438b-8609-697933f72df9",
       "session_type": "story",
       "story_id": "4443635",
-      "event_type": "session_start",
+      "event_type": "task_complete",
       "agent_name": "SCS ADO Setup Agent",
       "framework": "java",
       "lines_added": 0,
       "files": 0,
-      "duration_seconds": 0,
+      "duration_seconds": 8,
       "regeneration_count": 0,
       "timestamp": "2026-07-22T11:16:16.152Z"
     }
