@@ -333,12 +333,12 @@
       "session_id": "0f426898-01f5-4db5-87fd-76f705030b03",
       "session_type": "general",
       "story_id": null,
-      "event_type": "task_complete",
+      "event_type": "session_start",
       "agent_name": "Default Chat",
       "framework": "yaml,kubernetes,docker",
       "lines_added": 0,
       "files": 0,
-      "duration_seconds": 20,
+      "duration_seconds": 0,
       "regeneration_count": 0,
       "timestamp": "2026-07-22T09:54:55.811Z"
     }
