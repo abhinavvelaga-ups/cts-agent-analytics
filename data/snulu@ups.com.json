@@ -744,6 +744,19 @@
       "duration_seconds": 0,
       "regeneration_count": 0,
       "timestamp": "2026-07-21T10:02:00.092Z"
+    },
+    {
+      "session_id": "2a736e67-d3e8-4bfe-a2f8-d36694f0c791",
+      "session_type": "general",
+      "story_id": null,
+      "event_type": "session_start",
+      "agent_name": "Default Chat",
+      "framework": "js,playwright",
+      "lines_added": 0,
+      "files": 0,
+      "duration_seconds": 0,
+      "regeneration_count": 0,
+      "timestamp": "2026-07-22T08:03:48.546Z"
     }
   ]
 }
