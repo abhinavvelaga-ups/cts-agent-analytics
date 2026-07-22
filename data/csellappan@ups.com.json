@@ -801,12 +801,12 @@
       "session_id": "81ac94d5-1081-4c65-aae3-242e274aab23",
       "session_type": "general",
       "story_id": null,
-      "event_type": "session_start",
+      "event_type": "task_complete",
       "agent_name": "SCS Backend CodeGen Agent",
       "framework": "java",
-      "lines_added": 0,
-      "files": 0,
-      "duration_seconds": 0,
+      "lines_added": 85,
+      "files": 3,
+      "duration_seconds": 45,
       "regeneration_count": 0,
       "timestamp": "2026-07-22T08:43:03.191Z"
     }
