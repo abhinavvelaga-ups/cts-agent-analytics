@@ -94,6 +94,19 @@
       "duration_seconds": 70,
       "regeneration_count": 0,
       "timestamp": "2026-07-22T10:38:20.740Z"
+    },
+    {
+      "session_id": "e209dca9-4e1c-47df-9114-5058c30d158c",
+      "session_type": "general",
+      "story_id": null,
+      "event_type": "session_start",
+      "agent_name": "Default Chat",
+      "framework": "csharp, dotnet",
+      "lines_added": 0,
+      "files": 0,
+      "duration_seconds": 0,
+      "regeneration_count": 0,
+      "timestamp": "2026-07-22T13:25:43.813Z"
     }
   ]
 }
