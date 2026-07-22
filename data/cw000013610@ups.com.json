@@ -1,0 +1,21 @@
+{
+  "developer_id": "cw000013610@ups.com",
+  "developer_name": "Snehal Kharche",
+  "pod_name": "Pickup & Drop-off",
+  "dev_role": "Dev",
+  "sessions": [
+    {
+      "session_id": "54221e5e-bc4a-43e4-a7e8-57cca803aad4",
+      "session_type": "general",
+      "story_id": null,
+      "event_type": "session_start",
+      "agent_name": "Default Chat",
+      "framework": "unknown",
+      "lines_added": 0,
+      "files": 0,
+      "duration_seconds": 0,
+      "regeneration_count": 0,
+      "timestamp": "2026-07-22T10:10:19.457Z"
+    }
+  ]
+}
