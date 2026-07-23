@@ -229,12 +229,12 @@
       "session_id": "04afe732-8d36-4af8-9971-afe44f089bf5",
       "session_type": "story",
       "story_id": "INC6261724",
-      "event_type": "task_complete",
+      "event_type": "session_start",
       "agent_name": "CTS Frontend Builder Agent",
       "framework": "ts,angular",
       "lines_added": 0,
       "files": 0,
-      "duration_seconds": 45,
+      "duration_seconds": 0,
       "regeneration_count": 0,
       "timestamp": "2026-07-23T13:30:17.777Z"
     }
