@@ -493,9 +493,9 @@
       "agent_name": "Default Chat",
       "framework": "ts,angular",
       "lines_added": 0,
-      "files": 3,
-      "duration_seconds": 65,
-      "regeneration_count": 2,
+      "files": 0,
+      "duration_seconds": 42,
+      "regeneration_count": 3,
       "timestamp": "2026-07-23T14:30:50.554Z"
     }
   ]
