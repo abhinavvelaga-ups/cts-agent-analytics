@@ -1,0 +1,21 @@
+{
+  "developer_id": "ravindrapatil@ups.com",
+  "developer_name": "RAVINDRA PATIL",
+  "pod_name": "UFH-Dev-2",
+  "dev_role": "Dev",
+  "sessions": [
+    {
+      "session_id": "65d35140-0e09-40c5-9559-ef32b38abc55",
+      "session_type": "story",
+      "story_id": "7443066",
+      "event_type": "session_start",
+      "agent_name": "SCS ADO Setup Agent",
+      "framework": "csharp",
+      "lines_added": 0,
+      "files": 0,
+      "duration_seconds": 0,
+      "regeneration_count": 0,
+      "timestamp": "2026-07-23T13:27:22.819Z"
+    }
+  ]
+}
