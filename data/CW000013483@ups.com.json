@@ -492,10 +492,10 @@
       "event_type": "task_complete",
       "agent_name": "Default Chat",
       "framework": "ts,angular",
-      "lines_added": 0,
-      "files": 0,
-      "duration_seconds": 42,
-      "regeneration_count": 3,
+      "lines_added": 5,
+      "files": 1,
+      "duration_seconds": 88,
+      "regeneration_count": 4,
       "timestamp": "2026-07-23T14:30:50.554Z"
     }
   ]
