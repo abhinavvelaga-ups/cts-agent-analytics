@@ -1,0 +1,21 @@
+{
+  "developer_id": "CW000013225@ups.com",
+  "developer_name": "Judith Diana",
+  "pod_name": "GLS",
+  "dev_role": "Dev",
+  "sessions": [
+    {
+      "session_id": "5ed99a33-4ed6-46df-819d-f22eade5a5e4",
+      "session_type": "story",
+      "story_id": "6988305",
+      "event_type": "session_start",
+      "agent_name": "SCS Backend CodeGen Agent",
+      "framework": "java",
+      "lines_added": 0,
+      "files": 0,
+      "duration_seconds": 0,
+      "regeneration_count": 0,
+      "timestamp": "2026-07-23T12:52:23.051Z"
+    }
+  ]
+}
