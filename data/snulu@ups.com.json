@@ -801,12 +801,12 @@
       "session_id": "42beffc6-a7d2-45f1-a2ab-d87da99a4eb8",
       "session_type": "general",
       "story_id": null,
-      "event_type": "session_start",
+      "event_type": "task_complete",
       "agent_name": "Default Chat",
       "framework": "js,playwright",
-      "lines_added": 0,
-      "files": 0,
-      "duration_seconds": 0,
+      "lines_added": 573,
+      "files": 1,
+      "duration_seconds": 180,
       "regeneration_count": 0,
       "timestamp": "2026-07-24T09:25:39.263Z"
     }
