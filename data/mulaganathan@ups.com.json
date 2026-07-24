@@ -76,10 +76,10 @@
       "event_type": "task_complete",
       "agent_name": "Default Chat",
       "framework": "java,spring-boot",
-      "lines_added": 0,
-      "files": 0,
-      "duration_seconds": 140,
-      "regeneration_count": 0,
+      "lines_added": 10,
+      "files": 1,
+      "duration_seconds": 75,
+      "regeneration_count": 1,
       "timestamp": "2026-07-23T15:31:58.714Z"
     }
   ]
