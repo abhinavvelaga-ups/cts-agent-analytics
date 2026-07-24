@@ -1126,12 +1126,12 @@
       "session_id": "0c5c8ac4-81a8-417e-9b71-1dd3087e317b",
       "session_type": "story",
       "story_id": "jacoco-coverage-chat-3",
-      "event_type": "session_start",
+      "event_type": "task_complete",
       "agent_name": "SCS Backend CodeGen Agent",
       "framework": "java",
-      "lines_added": 0,
-      "files": 0,
-      "duration_seconds": 0,
+      "lines_added": 42,
+      "files": 1,
+      "duration_seconds": 1800,
       "regeneration_count": 0,
       "timestamp": "2026-07-24T20:53:11.489Z"
     }
