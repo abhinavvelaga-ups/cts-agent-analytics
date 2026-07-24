@@ -367,6 +367,19 @@
       "duration_seconds": 40,
       "regeneration_count": 2,
       "timestamp": "2026-07-23T14:11:24.499Z"
+    },
+    {
+      "session_id": "08310792-257e-4c28-bdc7-a7b76b340980",
+      "session_type": "general",
+      "story_id": null,
+      "event_type": "session_start",
+      "agent_name": "SCS Backend CodeGen Agent",
+      "framework": "java,spring-boot",
+      "lines_added": 0,
+      "files": 0,
+      "duration_seconds": 0,
+      "regeneration_count": 0,
+      "timestamp": "2026-07-24T11:48:46.497Z"
     }
   ]
 }
