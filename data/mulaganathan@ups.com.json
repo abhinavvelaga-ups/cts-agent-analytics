@@ -75,10 +75,10 @@
       "story_id": null,
       "event_type": "task_complete",
       "agent_name": "Default Chat",
-      "framework": "java,azure-pipelines",
+      "framework": "sql,oracle",
       "lines_added": 0,
       "files": 0,
-      "duration_seconds": 65,
+      "duration_seconds": 40,
       "regeneration_count": 2,
       "timestamp": "2026-07-23T15:31:58.714Z"
     }
