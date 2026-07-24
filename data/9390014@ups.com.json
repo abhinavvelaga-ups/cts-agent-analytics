@@ -954,12 +954,12 @@
       "session_id": "62998784-ab1f-49f3-ba3a-a5c6b1b93c45",
       "session_type": "general",
       "story_id": null,
-      "event_type": "session_start",
+      "event_type": "task_complete",
       "agent_name": "Default Chat",
-      "framework": "unknown",
-      "lines_added": 0,
-      "files": 0,
-      "duration_seconds": 0,
+      "framework": "powershell",
+      "lines_added": 45,
+      "files": 2,
+      "duration_seconds": 600,
       "regeneration_count": 0,
       "timestamp": "2026-07-24T11:21:59.091Z"
     }
