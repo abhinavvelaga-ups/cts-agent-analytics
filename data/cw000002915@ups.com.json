@@ -73,12 +73,12 @@
       "session_id": "28454f8b-c415-4776-bf0f-513caf44dd25",
       "session_type": "general",
       "story_id": null,
-      "event_type": "session_start",
+      "event_type": "task_complete",
       "agent_name": "SCS Orchestrator Agent",
       "framework": "csharp",
       "lines_added": 0,
       "files": 0,
-      "duration_seconds": 0,
+      "duration_seconds": 120,
       "regeneration_count": 0,
       "timestamp": "2026-07-24T12:34:08.181Z"
     }
