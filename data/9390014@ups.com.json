@@ -967,12 +967,12 @@
       "session_id": "c3c43da6-2721-4be3-b81b-4769517756bb",
       "session_type": "general",
       "story_id": null,
-      "event_type": "session_start",
+      "event_type": "task_complete",
       "agent_name": "SCS BRE Extraction Agent",
-      "framework": "unknown",
-      "lines_added": 0,
-      "files": 0,
-      "duration_seconds": 0,
+      "framework": "ts,angular",
+      "lines_added": 1200,
+      "files": 9,
+      "duration_seconds": 640,
       "regeneration_count": 0,
       "timestamp": "2026-07-24T12:11:08.927Z"
     }
