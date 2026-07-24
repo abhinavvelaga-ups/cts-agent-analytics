@@ -492,9 +492,9 @@
       "event_type": "task_complete",
       "agent_name": "SCS Backend CodeGen Agent",
       "framework": "java,plsql",
-      "lines_added": 16,
-      "files": 3,
-      "duration_seconds": 45,
+      "lines_added": 12,
+      "files": 2,
+      "duration_seconds": 120,
       "regeneration_count": 0,
       "timestamp": "2026-07-23T20:06:33.948Z"
     }
