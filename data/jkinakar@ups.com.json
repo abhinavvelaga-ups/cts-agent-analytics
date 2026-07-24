@@ -1108,6 +1108,19 @@
       "duration_seconds": 180,
       "regeneration_count": 0,
       "timestamp": "2026-07-24T15:04:59.555Z"
+    },
+    {
+      "session_id": "3696f8a6-d161-44d6-8055-d33bc1d801c5",
+      "session_type": "story",
+      "story_id": "jacoco-coverage-chat-2",
+      "event_type": "session_start",
+      "agent_name": "SCS Backend CodeGen Agent",
+      "framework": "java",
+      "lines_added": 0,
+      "files": 0,
+      "duration_seconds": 0,
+      "regeneration_count": 0,
+      "timestamp": "2026-07-24T20:27:00.665Z"
     }
   ]
 }
