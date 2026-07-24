@@ -593,13 +593,13 @@
       "session_id": "f3afe2e6-a45d-4b29-bf1e-f0d39e257535",
       "session_type": "general",
       "story_id": null,
-      "event_type": "task_complete",
+      "event_type": "session_start",
       "agent_name": "CTS Backend CodeGen Agent",
       "framework": "sql",
       "lines_added": 0,
-      "files": 1,
-      "duration_seconds": 60,
-      "regeneration_count": 1,
+      "files": 0,
+      "duration_seconds": 0,
+      "regeneration_count": 0,
       "timestamp": "2026-07-24T11:05:25.810Z"
     }
   ]
