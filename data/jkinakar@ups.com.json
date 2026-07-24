@@ -1069,6 +1069,19 @@
       "duration_seconds": 420,
       "regeneration_count": 0,
       "timestamp": "2026-07-23T13:17:56.077Z"
+    },
+    {
+      "session_id": "81c60f2d-c89b-44aa-b318-74fae9e8a178",
+      "session_type": "story",
+      "story_id": "https://dev.azure.com/UPSProd4/P4AG_Global_Brokerage/_boards/board/t/Cognizant-EuropeFnAEurCas/Stories?System.AssignedTo=CW000013828%40ups.com%2CCW000013652%40ups.com%2CCW000013651%40ups.com",
+      "event_type": "session_start",
+      "agent_name": "SCS Backend CodeGen Agent",
+      "framework": "java",
+      "lines_added": 0,
+      "files": 0,
+      "duration_seconds": 0,
+      "regeneration_count": 0,
+      "timestamp": "2026-07-24T14:02:48.587Z"
     }
   ]
 }
