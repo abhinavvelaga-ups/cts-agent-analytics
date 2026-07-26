@@ -106,9 +106,9 @@
       "story_id": null,
       "agent_name": "Default Chat",
       "framework": "csharp,dotnet-webapi,angular",
-      "lines_added": 730,
+      "lines_added": 230,
       "files": 1,
-      "duration_seconds": 720,
+      "duration_seconds": 360,
       "regeneration_count": 0,
       "timestamp": "2026-07-26T14:26:52.839Z"
     }
