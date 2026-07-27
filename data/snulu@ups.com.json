@@ -840,12 +840,12 @@
       "session_id": "72b3c0ff-0133-400f-be70-02d39ee64aab",
       "session_type": "general",
       "story_id": null,
-      "event_type": "session_start",
+      "event_type": "task_complete",
       "agent_name": "Default Chat",
-      "framework": "unknown",
+      "framework": "js,playwright",
       "lines_added": 0,
       "files": 0,
-      "duration_seconds": 0,
+      "duration_seconds": 240,
       "regeneration_count": 0,
       "timestamp": "2026-07-27T07:34:24.781Z"
     }
