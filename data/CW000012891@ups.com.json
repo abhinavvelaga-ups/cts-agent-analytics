@@ -440,10 +440,10 @@
       "event_type": "task_complete",
       "agent_name": "SCS ADO Setup Agent",
       "framework": "ts,angular",
-      "lines_added": 64,
+      "lines_added": 58,
       "files": 1,
-      "duration_seconds": 520,
-      "regeneration_count": 3,
+      "duration_seconds": 600,
+      "regeneration_count": 4,
       "timestamp": "2026-07-27T12:42:21.979Z"
     },
     {
