@@ -138,12 +138,12 @@
       "session_id": "b1ca16ab-dde0-4224-9bdf-0f34a29436c2",
       "session_type": "general",
       "story_id": null,
-      "event_type": "session_start",
+      "event_type": "task_complete",
       "agent_name": "SCS BRE Extraction Agent",
-      "framework": "unknown",
-      "lines_added": 0,
-      "files": 0,
-      "duration_seconds": 0,
+      "framework": "csharp,ts,angular",
+      "lines_added": 2847,
+      "files": 3,
+      "duration_seconds": 420,
       "regeneration_count": 0,
       "timestamp": "2026-07-27T13:48:56.386Z"
     }
