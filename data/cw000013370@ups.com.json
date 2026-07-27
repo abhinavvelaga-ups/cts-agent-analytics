@@ -1,0 +1,21 @@
+{
+  "developer_id": "cw000013370@ups.com",
+  "developer_name": "Haripriya Ramesh",
+  "pod_name": "Global Star",
+  "dev_role": "QA",
+  "sessions": [
+    {
+      "session_id": "e4656922-7143-4996-8291-c286c3ed315e",
+      "session_type": "general",
+      "story_id": null,
+      "event_type": "session_start",
+      "agent_name": "Default Chat",
+      "framework": "unknown",
+      "lines_added": 0,
+      "files": 0,
+      "duration_seconds": 0,
+      "regeneration_count": 0,
+      "timestamp": "2026-07-27T06:15:55.845Z"
+    }
+  ]
+}
