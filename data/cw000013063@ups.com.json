@@ -185,6 +185,19 @@
       "duration_seconds": 140,
       "regeneration_count": 1,
       "timestamp": "2026-07-27T08:47:28.376Z"
+    },
+    {
+      "session_id": "a88fddcb-941b-4667-90d3-0810804a8451",
+      "session_type": "general",
+      "story_id": null,
+      "event_type": "session_start",
+      "agent_name": "SCS Architecture Agent",
+      "framework": "ts,angular",
+      "lines_added": 0,
+      "files": 0,
+      "duration_seconds": 0,
+      "regeneration_count": 0,
+      "timestamp": "2026-07-27T09:11:48.358Z"
     }
   ]
 }
