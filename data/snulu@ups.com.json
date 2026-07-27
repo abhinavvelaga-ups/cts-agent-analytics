@@ -944,13 +944,13 @@
       "session_id": "99872664-f15b-404a-a9bd-0b8701f9f469",
       "session_type": "general",
       "story_id": null,
-      "event_type": "session_start",
+      "event_type": "task_complete",
       "agent_name": "Default Chat",
       "framework": "js,playwright",
-      "lines_added": 0,
-      "files": 0,
-      "duration_seconds": 0,
-      "regeneration_count": 0,
+      "lines_added": 10,
+      "files": 1,
+      "duration_seconds": 210,
+      "regeneration_count": 1,
       "timestamp": "2026-07-27T12:19:50.168Z"
     }
   ]
