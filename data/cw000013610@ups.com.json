@@ -29,6 +29,19 @@
       "duration_seconds": 420,
       "regeneration_count": 0,
       "timestamp": "2026-07-24T09:42:18.491Z"
+    },
+    {
+      "session_id": "97f4db30-9b0c-4b61-ab0b-3a7f46b97fda",
+      "session_type": "general",
+      "story_id": null,
+      "event_type": "task_complete",
+      "agent_name": "Default Chat",
+      "framework": "csharp,ts,angular",
+      "lines_added": 0,
+      "files": 0,
+      "duration_seconds": 220,
+      "regeneration_count": 0,
+      "timestamp": "2026-07-27T11:07:09.842Z"
     }
   ]
 }
