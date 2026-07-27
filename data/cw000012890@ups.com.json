@@ -1,0 +1,21 @@
+{
+  "developer_id": "cw000012890@ups.com",
+  "developer_name": "Bodapoori Perani",
+  "pod_name": "UFH-Dev-3",
+  "dev_role": "Dev",
+  "sessions": [
+    {
+      "session_id": "e7d1dcd4-d70d-4f75-990f-7290c4a4f7fc",
+      "session_type": "general",
+      "story_id": null,
+      "event_type": "session_start",
+      "agent_name": "SCS ADO Setup Agent",
+      "framework": "unknown",
+      "lines_added": 0,
+      "files": 0,
+      "duration_seconds": 0,
+      "regeneration_count": 0,
+      "timestamp": "2026-07-27T07:12:45.335Z"
+    }
+  ]
+}
