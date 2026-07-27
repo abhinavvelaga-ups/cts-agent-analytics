@@ -372,12 +372,12 @@
       "session_id": "af0f45f0-110a-4655-8617-36e0de0f4a52",
       "session_type": "general",
       "story_id": null,
-      "event_type": "session_start",
+      "event_type": "task_complete",
       "agent_name": "Default Chat",
       "framework": "auth0-actions",
-      "lines_added": 0,
-      "files": 0,
-      "duration_seconds": 0,
+      "lines_added": 28,
+      "files": 1,
+      "duration_seconds": 180,
       "regeneration_count": 0,
       "timestamp": "2026-07-27T07:50:10.395Z"
     }
