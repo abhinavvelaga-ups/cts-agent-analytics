@@ -541,12 +541,12 @@
       "session_id": "70d45e9d-ffa5-4ca3-8a56-186fb1d47df6",
       "session_type": "general",
       "story_id": null,
-      "event_type": "session_start",
+      "event_type": "task_complete",
       "agent_name": "SCS ADO Setup Agent",
       "framework": "java",
       "lines_added": 0,
       "files": 0,
-      "duration_seconds": 0,
+      "duration_seconds": 30,
       "regeneration_count": 0,
       "timestamp": "2026-07-27T12:35:18.825Z"
     }
