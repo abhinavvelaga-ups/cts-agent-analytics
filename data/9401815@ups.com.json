@@ -60,12 +60,12 @@
       "session_id": "69644223-bc77-4812-9c0e-6ad5d2990173",
       "session_type": "story",
       "story_id": "https://dev.azure.com/UPSProd4/P4AG_GFF_Digital/_workitems/edit/7446469",
-      "event_type": "session_start",
+      "event_type": "task_complete",
       "agent_name": "SCS ADO Setup Agent",
       "framework": "unknown",
       "lines_added": 0,
       "files": 0,
-      "duration_seconds": 0,
+      "duration_seconds": 70,
       "regeneration_count": 0,
       "timestamp": "2026-07-27T09:14:08.716Z"
     }
