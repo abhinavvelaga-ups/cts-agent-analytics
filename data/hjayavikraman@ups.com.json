@@ -385,12 +385,12 @@
       "session_id": "edc67623-2fbe-409b-92dc-09245536796d",
       "session_type": "story",
       "story_id": "7329066",
-      "event_type": "session_start",
+      "event_type": "task_complete",
       "agent_name": "Default Chat",
       "framework": "java,spring-boot",
       "lines_added": 0,
       "files": 0,
-      "duration_seconds": 0,
+      "duration_seconds": 120,
       "regeneration_count": 0,
       "timestamp": "2026-07-27T10:06:47.204Z"
     }
