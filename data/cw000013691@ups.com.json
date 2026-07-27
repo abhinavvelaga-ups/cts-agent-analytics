@@ -375,10 +375,10 @@
       "event_type": "task_complete",
       "agent_name": "Default Chat",
       "framework": "auth0-actions",
-      "lines_added": 0,
-      "files": 0,
-      "duration_seconds": 60,
-      "regeneration_count": 2,
+      "lines_added": 8,
+      "files": 1,
+      "duration_seconds": 120,
+      "regeneration_count": 3,
       "timestamp": "2026-07-27T07:50:10.395Z"
     }
   ]
