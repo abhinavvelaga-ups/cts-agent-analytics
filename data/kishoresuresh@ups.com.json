@@ -502,12 +502,12 @@
       "session_id": "3be958dd-8d8d-4372-aa95-da597a9b2595",
       "session_type": "general",
       "story_id": null,
-      "event_type": "session_start",
+      "event_type": "task_complete",
       "agent_name": "SCS Backend CodeGen Agent",
       "framework": "java,ts,angular",
       "lines_added": 0,
       "files": 0,
-      "duration_seconds": 0,
+      "duration_seconds": 300,
       "regeneration_count": 0,
       "timestamp": "2026-07-27T12:51:57.045Z"
     }
