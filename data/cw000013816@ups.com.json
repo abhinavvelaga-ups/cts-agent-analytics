@@ -1,0 +1,21 @@
+{
+  "developer_id": "cw000013816@ups.com",
+  "developer_name": "Aruna Shankar",
+  "pod_name": "Operations Visibility & Sortation-Operations Visibility-OFDP",
+  "dev_role": "Dev",
+  "sessions": [
+    {
+      "session_id": "7cf62cae-0da1-4ccd-9441-cca9af477313",
+      "session_type": "general",
+      "story_id": null,
+      "event_type": "session_start",
+      "agent_name": "Default Chat",
+      "framework": "java,maven",
+      "lines_added": 0,
+      "files": 0,
+      "duration_seconds": 0,
+      "regeneration_count": 0,
+      "timestamp": "2026-07-27T07:52:13.112Z"
+    }
+  ]
+}
