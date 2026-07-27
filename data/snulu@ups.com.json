@@ -817,9 +817,9 @@
       "event_type": "task_complete",
       "agent_name": "Default Chat",
       "framework": "playwright",
-      "lines_added": 625,
-      "files": 1,
-      "duration_seconds": 45,
+      "lines_added": 75,
+      "files": 3,
+      "duration_seconds": 120,
       "regeneration_count": 0,
       "timestamp": "2026-07-27T06:59:41.915Z"
     }
