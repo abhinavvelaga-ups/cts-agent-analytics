@@ -68,6 +68,19 @@
       "duration_seconds": 70,
       "regeneration_count": 0,
       "timestamp": "2026-07-27T09:14:08.716Z"
+    },
+    {
+      "session_id": "a4d8fe58-83f8-4d4f-8372-713932d63fe4",
+      "session_type": "story",
+      "story_id": "https://dev.azure.com/UPSProd4/P4AG_GFF_Digital/_workitems/edit/7446469",
+      "event_type": "session_start",
+      "agent_name": "SCS ADO Setup Agent",
+      "framework": "unknown",
+      "lines_added": 0,
+      "files": 0,
+      "duration_seconds": 0,
+      "regeneration_count": 0,
+      "timestamp": "2026-07-27T10:13:05.094Z"
     }
   ]
 }
