@@ -335,10 +335,10 @@
       "story_id": null,
       "event_type": "task_complete",
       "agent_name": "Default Chat",
-      "framework": "oidc,auth0,entra",
+      "framework": "auth0,oidc,entra",
       "lines_added": 0,
-      "files": 1,
-      "duration_seconds": 240,
+      "files": 0,
+      "duration_seconds": 45,
       "regeneration_count": 0,
       "timestamp": "2026-07-22T09:54:55.811Z"
     },
