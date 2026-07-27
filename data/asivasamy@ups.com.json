@@ -593,7 +593,7 @@
       "session_id": "7185f422-704a-4ea9-bb53-0d5923c9bceb",
       "session_type": "story",
       "story_id": "https://dev.azure.com/UPSProd4/P4AG_Global_Brokerage/_boards/directory",
-      "event_type": "session_start",
+      "event_type": "task_failed",
       "agent_name": "SCS Backend CodeGen Agent",
       "framework": "java",
       "lines_added": 0,
