@@ -177,13 +177,13 @@
       "session_id": "26799a43-34e0-4697-b710-6cba63a900f3",
       "session_type": "general",
       "story_id": null,
-      "event_type": "session_start",
+      "event_type": "task_complete",
       "agent_name": "SCS Architecture Agent",
       "framework": "ts,angular,csharp",
-      "lines_added": 0,
-      "files": 0,
-      "duration_seconds": 0,
-      "regeneration_count": 0,
+      "lines_added": 13,
+      "files": 2,
+      "duration_seconds": 140,
+      "regeneration_count": 1,
       "timestamp": "2026-07-27T08:47:28.376Z"
     }
   ]
