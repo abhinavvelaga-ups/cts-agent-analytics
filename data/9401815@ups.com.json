@@ -125,7 +125,7 @@
       "session_id": "a4c1c77a-5537-4904-b047-e80712497405",
       "session_type": "story",
       "story_id": "https://dev.azure.com/UPSProd4/P4AG_GFF_Digital/_workitems/edit/7452509/",
-      "event_type": "session_start",
+      "event_type": "task_failed",
       "agent_name": "SCS ADO Setup Agent",
       "framework": "unknown",
       "lines_added": 0,
