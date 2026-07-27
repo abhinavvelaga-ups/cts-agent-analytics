@@ -622,9 +622,9 @@
       "event_type": "task_complete",
       "agent_name": "CTS Backend CodeGen Agent",
       "framework": "java",
-      "lines_added": 30,
-      "files": 1,
-      "duration_seconds": 300,
+      "lines_added": 330,
+      "files": 5,
+      "duration_seconds": 600,
       "regeneration_count": 0,
       "timestamp": "2026-07-27T10:56:18.066Z"
     }
