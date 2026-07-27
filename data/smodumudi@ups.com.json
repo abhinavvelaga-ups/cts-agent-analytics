@@ -814,12 +814,12 @@
       "session_id": "b8c8f626-4562-4aa1-be2c-2799aaefeea2",
       "session_type": "general",
       "story_id": null,
-      "event_type": "session_start",
+      "event_type": "task_complete",
       "agent_name": "SCS Backend CodeGen Agent",
       "framework": "java",
       "lines_added": 0,
       "files": 0,
-      "duration_seconds": 0,
+      "duration_seconds": 20,
       "regeneration_count": 0,
       "timestamp": "2026-07-27T08:55:18.591Z"
     }
