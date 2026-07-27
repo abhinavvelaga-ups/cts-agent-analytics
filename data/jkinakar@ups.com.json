@@ -1191,12 +1191,12 @@
       "session_id": "2208af23-a947-4631-9972-01f229fcf89f",
       "session_type": "general",
       "story_id": null,
-      "event_type": "session_start",
+      "event_type": "task_complete",
       "agent_name": "Default Chat",
-      "framework": "unknown",
-      "lines_added": 0,
-      "files": 0,
-      "duration_seconds": 0,
+      "framework": "java",
+      "lines_added": 129,
+      "files": 3,
+      "duration_seconds": 780,
       "regeneration_count": 0,
       "timestamp": "2026-07-27T13:59:19.996Z"
     }
