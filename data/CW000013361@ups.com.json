@@ -68,6 +68,19 @@
       "duration_seconds": 0,
       "regeneration_count": 0,
       "timestamp": "2026-07-28T08:04:21.099Z"
+    },
+    {
+      "session_id": "099e43db-d37e-4966-a8fc-a20cea1cf004",
+      "session_type": "story",
+      "story_id": "ADO MCP Setup",
+      "event_type": "session_start",
+      "agent_name": "SCS ADO Setup Agent",
+      "framework": "csharp",
+      "lines_added": 0,
+      "files": 0,
+      "duration_seconds": 0,
+      "regeneration_count": 0,
+      "timestamp": "2026-07-28T08:05:39.997Z"
     }
   ]
 }
