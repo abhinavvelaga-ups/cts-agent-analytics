@@ -60,12 +60,12 @@
       "session_id": "14019649-3280-4c0f-8855-d96d8baef1aa",
       "session_type": "general",
       "story_id": null,
-      "event_type": "session_start",
+      "event_type": "task_complete",
       "agent_name": "Default Chat",
-      "framework": "unknown",
-      "lines_added": 0,
-      "files": 0,
-      "duration_seconds": 0,
+      "framework": "angular,ts",
+      "lines_added": 62,
+      "files": 5,
+      "duration_seconds": 120,
       "regeneration_count": 0,
       "timestamp": "2026-07-28T10:18:04.101Z"
     }
