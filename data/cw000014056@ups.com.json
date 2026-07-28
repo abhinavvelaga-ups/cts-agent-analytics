@@ -250,6 +250,19 @@
       "duration_seconds": 120,
       "regeneration_count": 0,
       "timestamp": "2026-07-28T06:51:15.212Z"
+    },
+    {
+      "session_id": "3cd97263-5f73-4ab5-a3b1-3a3870618492",
+      "session_type": "story",
+      "story_id": "7341812",
+      "event_type": "session_start",
+      "agent_name": "CTS Frontend Builder Agent",
+      "framework": "ts,angular",
+      "lines_added": 0,
+      "files": 0,
+      "duration_seconds": 0,
+      "regeneration_count": 0,
+      "timestamp": "2026-07-28T07:47:03.904Z"
     }
   ]
 }
