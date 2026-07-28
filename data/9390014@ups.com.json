@@ -1022,9 +1022,9 @@
       "event_type": "task_complete",
       "agent_name": "Default Chat",
       "framework": "js,bicep",
-      "lines_added": 40,
-      "files": 3,
-      "duration_seconds": 480,
+      "lines_added": 380,
+      "files": 2,
+      "duration_seconds": 420,
       "regeneration_count": 0,
       "timestamp": "2026-07-28T21:33:21.819Z"
     }
