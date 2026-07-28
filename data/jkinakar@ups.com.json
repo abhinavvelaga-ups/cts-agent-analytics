@@ -1268,13 +1268,13 @@
     {
       "session_id": "1c30b108-52c3-4438-9e4a-c941a3f02435",
       "session_type": "story",
-      "story_id": null,
-      "event_type": "session_start",
+      "story_id": "4165584",
+      "event_type": "task_complete",
       "agent_name": "SCS Backend CodeGen Agent",
       "framework": "sql,java",
-      "lines_added": 0,
-      "files": 0,
-      "duration_seconds": 0,
+      "lines_added": 12,
+      "files": 2,
+      "duration_seconds": 120,
       "regeneration_count": 0,
       "timestamp": "2026-07-28T15:15:52.522Z"
     }
