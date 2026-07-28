@@ -1241,14 +1241,14 @@
     },
     {
       "session_id": "1c30b108-52c3-4438-9e4a-c941a3f02435",
-      "session_type": "general",
-      "story_id": null,
-      "event_type": "session_start",
+      "session_type": "story",
+      "story_id": "7284157",
+      "event_type": "task_complete",
       "agent_name": "SCS Backend CodeGen Agent",
       "framework": "sql,java",
-      "lines_added": 0,
-      "files": 0,
-      "duration_seconds": 0,
+      "lines_added": 15,
+      "files": 1,
+      "duration_seconds": 90,
       "regeneration_count": 0,
       "timestamp": "2026-07-28T15:01:04.537Z"
     }
