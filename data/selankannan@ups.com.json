@@ -674,10 +674,10 @@
       "event_type": "task_complete",
       "agent_name": "CTS Backend CodeGen Agent",
       "framework": "java,struts,ant",
-      "lines_added": 0,
-      "files": 0,
-      "duration_seconds": 180,
-      "regeneration_count": 0,
+      "lines_added": 14,
+      "files": 1,
+      "duration_seconds": 240,
+      "regeneration_count": 1,
       "timestamp": "2026-07-28T07:02:35.798Z"
     }
   ]
