@@ -125,7 +125,7 @@
       "session_id": "39e83f4c-e2df-4f97-beef-877bbeac8985",
       "session_type": "story",
       "story_id": "7448945",
-      "event_type": "session_start",
+      "event_type": "task_failed",
       "agent_name": "SCS Orchestrator Agent",
       "framework": "sql",
       "lines_added": 0,
