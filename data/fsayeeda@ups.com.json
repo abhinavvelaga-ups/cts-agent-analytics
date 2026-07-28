@@ -120,6 +120,19 @@
       "duration_seconds": 126,
       "regeneration_count": 1,
       "timestamp": "2026-07-28T07:56:36.241Z"
+    },
+    {
+      "session_id": "39e83f4c-e2df-4f97-beef-877bbeac8985",
+      "session_type": "story",
+      "story_id": "7448945",
+      "event_type": "session_start",
+      "agent_name": "SCS Orchestrator Agent",
+      "framework": "sql",
+      "lines_added": 0,
+      "files": 0,
+      "duration_seconds": 0,
+      "regeneration_count": 0,
+      "timestamp": "2026-07-28T11:56:29.750Z"
     }
   ]
 }
