@@ -1308,12 +1308,12 @@
       "session_id": "4a5ea8cc-d4f7-4c74-b7d3-6a0cc58c0265",
       "session_type": "story",
       "story_id": "IPPA-DC-AC-Integration",
-      "event_type": "session_start",
+      "event_type": "task_complete",
       "agent_name": "SCS Backend CodeGen Agent",
       "framework": "java,spring-boot",
-      "lines_added": 0,
-      "files": 0,
-      "duration_seconds": 0,
+      "lines_added": 2,
+      "files": 1,
+      "duration_seconds": 180,
       "regeneration_count": 0,
       "timestamp": "2026-07-28T18:58:54.254Z"
     }
