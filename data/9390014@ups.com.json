@@ -1019,12 +1019,12 @@
       "session_id": "5a9962ed-635f-4b38-9750-a6421ba74d9f",
       "session_type": "general",
       "story_id": null,
-      "event_type": "session_start",
+      "event_type": "task_complete",
       "agent_name": "Default Chat",
-      "framework": "unknown",
-      "lines_added": 0,
-      "files": 0,
-      "duration_seconds": 0,
+      "framework": "js,bicep",
+      "lines_added": 420,
+      "files": 6,
+      "duration_seconds": 2100,
       "regeneration_count": 0,
       "timestamp": "2026-07-28T21:33:21.819Z"
     }
