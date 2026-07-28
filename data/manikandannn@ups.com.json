@@ -86,7 +86,7 @@
       "session_id": "67b1ee7e-b414-493d-8c4f-0030389b233a",
       "session_type": "story",
       "story_id": "7308974",
-      "event_type": "session_start",
+      "event_type": "task_failed",
       "agent_name": "SCS Orchestrator Agent",
       "framework": "csharp",
       "lines_added": 0,
