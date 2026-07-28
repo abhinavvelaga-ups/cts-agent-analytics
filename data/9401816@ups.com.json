@@ -12,8 +12,8 @@
       "agent_name": "Default Chat",
       "framework": "ts,angular",
       "lines_added": 0,
-      "files": 0,
-      "duration_seconds": 40,
+      "files": 1,
+      "duration_seconds": 90,
       "regeneration_count": 0,
       "timestamp": "2026-07-28T11:11:06.741Z"
     }
