@@ -549,6 +549,19 @@
       "duration_seconds": 45,
       "regeneration_count": 0,
       "timestamp": "2026-07-27T14:27:23.374Z"
+    },
+    {
+      "session_id": "d0b8593d-4a9a-4faa-8f58-633e6dacd86f",
+      "session_type": "general",
+      "story_id": null,
+      "event_type": "session_start",
+      "agent_name": "SCS BRE Extraction Agent",
+      "framework": "csharp,dotnet-webapi,ts,angular",
+      "lines_added": 0,
+      "files": 0,
+      "duration_seconds": 0,
+      "regeneration_count": 0,
+      "timestamp": "2026-07-28T09:39:33.714Z"
     }
   ]
 }
