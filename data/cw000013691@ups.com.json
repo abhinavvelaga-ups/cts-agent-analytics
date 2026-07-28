@@ -398,12 +398,12 @@
       "session_id": "f140ff1b-3ce3-46e7-b687-c35ff06476d3",
       "session_type": "general",
       "story_id": null,
-      "event_type": "session_start",
+      "event_type": "task_complete",
       "agent_name": "Default Chat",
       "framework": "javascript",
       "lines_added": 0,
       "files": 0,
-      "duration_seconds": 0,
+      "duration_seconds": 15,
       "regeneration_count": 0,
       "timestamp": "2026-07-28T06:48:04.513Z"
     }
