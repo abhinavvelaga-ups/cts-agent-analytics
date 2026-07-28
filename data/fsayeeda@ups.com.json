@@ -73,7 +73,7 @@
       "session_id": "79aefd6c-bb27-4c08-81b5-20a85da56fbf",
       "session_type": "story",
       "story_id": "7448952",
-      "event_type": "session_start",
+      "event_type": "task_failed",
       "agent_name": "Default Chat",
       "framework": "unknown",
       "lines_added": 0,
