@@ -1021,11 +1021,11 @@
       "story_id": null,
       "event_type": "task_complete",
       "agent_name": "Default Chat",
-      "framework": "js,bicep",
-      "lines_added": 380,
+      "framework": "js,bicep,python",
+      "lines_added": 120,
       "files": 2,
-      "duration_seconds": 420,
-      "regeneration_count": 0,
+      "duration_seconds": 1500,
+      "regeneration_count": 2,
       "timestamp": "2026-07-28T21:33:21.819Z"
     }
   ]
