@@ -151,7 +151,7 @@
       "session_id": "fb13dad9-b534-4e4e-bdf9-422485e5e464",
       "session_type": "story",
       "story_id": "https://dev.azure.com/UPSProd4/P4AG_GFF_Digital/_sprints/backlog/Cognizant%20-%20UFH-2/P4AG_GFF_Digital/IHS/PI13/PI13.3",
-      "event_type": "session_start",
+      "event_type": "task_failed",
       "agent_name": "SCS ADO Setup Agent",
       "framework": "unknown",
       "lines_added": 0,
