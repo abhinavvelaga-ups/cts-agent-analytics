@@ -8,12 +8,12 @@
       "session_id": "f722e3df-31c9-436c-8206-44f4fd84327d",
       "session_type": "general",
       "story_id": null,
-      "event_type": "session_start",
+      "event_type": "task_complete",
       "agent_name": "SCS Codebase Audit Agent",
       "framework": "csharp",
-      "lines_added": 0,
-      "files": 0,
-      "duration_seconds": 0,
+      "lines_added": 190,
+      "files": 1,
+      "duration_seconds": 180,
       "regeneration_count": 0,
       "timestamp": "2026-07-28T17:18:38.724Z"
     }
