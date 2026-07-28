@@ -73,12 +73,12 @@
       "session_id": "621995ae-5434-4179-9f2d-116468513e49",
       "session_type": "story",
       "story_id": "https://dev.azure.com/UPSProd4/P18AGit_GAC_SDS/_git/Fis.Web.default",
-      "event_type": "session_start",
+      "event_type": "task_complete",
       "agent_name": "SCS ADO Setup Agent",
       "framework": "csharp",
       "lines_added": 0,
       "files": 0,
-      "duration_seconds": 0,
+      "duration_seconds": 118,
       "regeneration_count": 0,
       "timestamp": "2026-07-28T07:23:57.108Z"
     }
