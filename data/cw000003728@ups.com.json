@@ -21,12 +21,12 @@
       "session_id": "d063c650-ae3b-4109-92ea-bf39b3539040",
       "session_type": "story",
       "story_id": "7450350",
-      "event_type": "session_start",
+      "event_type": "task_failed",
       "agent_name": "SCS ADO Setup Agent",
       "framework": "ts",
       "lines_added": 0,
       "files": 0,
-      "duration_seconds": 0,
+      "duration_seconds": 12,
       "regeneration_count": 0,
       "timestamp": "2026-07-28T06:06:08.287Z"
     }
