@@ -1,0 +1,21 @@
+{
+  "developer_id": "cw000013547@ups.com",
+  "developer_name": "sivagurunathan",
+  "pod_name": "GAC SDS",
+  "dev_role": "Dev",
+  "sessions": [
+    {
+      "session_id": "f05fd77c-68ec-47c7-be94-10fe2f0c0feb",
+      "session_type": "general",
+      "story_id": null,
+      "event_type": "session_start",
+      "agent_name": "SCS ADO Setup Agent",
+      "framework": "csharp,dotnet-webapi",
+      "lines_added": 0,
+      "files": 0,
+      "duration_seconds": 0,
+      "regeneration_count": 0,
+      "timestamp": "2026-07-28T08:27:01.344Z"
+    }
+  ]
+}
