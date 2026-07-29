@@ -34,12 +34,12 @@
       "session_id": "ef24acaf-e136-4f44-8de0-aa09f9f411c5",
       "session_type": "general",
       "story_id": null,
-      "event_type": "session_start",
+      "event_type": "task_complete",
       "agent_name": "Default Chat",
       "framework": "ts,angular",
       "lines_added": 0,
       "files": 0,
-      "duration_seconds": 0,
+      "duration_seconds": 45,
       "regeneration_count": 0,
       "timestamp": "2026-07-29T07:25:53.809Z"
     }
