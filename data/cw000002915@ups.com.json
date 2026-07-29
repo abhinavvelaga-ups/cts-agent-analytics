@@ -86,7 +86,7 @@
       "session_id": "8ad3a655-dc46-4bf1-9c46-a791ed5b86d6",
       "session_type": "story",
       "story_id": "7359854",
-      "event_type": "session_start",
+      "event_type": "task_failed",
       "agent_name": "SCS Backend CodeGen Agent",
       "framework": "unknown",
       "lines_added": 0,
