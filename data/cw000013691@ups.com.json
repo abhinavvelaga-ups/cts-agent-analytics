@@ -411,12 +411,12 @@
       "session_id": "fac0f584-f2b1-4074-8321-0c72a54ec5a4",
       "session_type": "general",
       "story_id": null,
-      "event_type": "session_start",
+      "event_type": "task_complete",
       "agent_name": "Default Chat",
-      "framework": "unknown",
-      "lines_added": 0,
-      "files": 0,
-      "duration_seconds": 0,
+      "framework": "js,html,css",
+      "lines_added": 560,
+      "files": 5,
+      "duration_seconds": 120,
       "regeneration_count": 0,
       "timestamp": "2026-07-29T05:52:33.891Z"
     }
