@@ -310,10 +310,10 @@
       "event_type": "task_complete",
       "agent_name": "SCS Backend CodeGen Agent",
       "framework": "java",
-      "lines_added": 33,
-      "files": 3,
-      "duration_seconds": 443,
-      "regeneration_count": 0,
+      "lines_added": 384,
+      "files": 17,
+      "duration_seconds": 1000,
+      "regeneration_count": 1,
       "timestamp": "2026-07-29T19:28:34.022Z"
     }
   ]
