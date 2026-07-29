@@ -86,12 +86,12 @@
       "session_id": "2cf152b3-76a1-4472-ad17-06459a6d24b0",
       "session_type": "general",
       "story_id": null,
-      "event_type": "session_start",
+      "event_type": "task_complete",
       "agent_name": "Default Chat",
-      "framework": "python",
-      "lines_added": 0,
-      "files": 0,
-      "duration_seconds": 0,
+      "framework": "python,flask",
+      "lines_added": 400,
+      "files": 13,
+      "duration_seconds": 300,
       "regeneration_count": 0,
       "timestamp": "2026-07-29T06:39:28.213Z"
     }
