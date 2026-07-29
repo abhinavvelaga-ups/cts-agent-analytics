@@ -34,12 +34,12 @@
       "session_id": "6e56c0e6-802f-4405-bda9-e0a7765183bc",
       "session_type": "general",
       "story_id": null,
-      "event_type": "session_start",
+      "event_type": "task_complete",
       "agent_name": "SCS QA Test Case Agent",
       "framework": "unknown",
-      "lines_added": 0,
-      "files": 0,
-      "duration_seconds": 0,
+      "lines_added": 750,
+      "files": 2,
+      "duration_seconds": 120,
       "regeneration_count": 0,
       "timestamp": "2026-07-29T09:19:04.615Z"
     }
