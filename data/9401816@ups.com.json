@@ -47,7 +47,7 @@
       "session_id": "1b427938-2602-442b-bd9c-c6e6400f16c4",
       "session_type": "general",
       "story_id": null,
-      "event_type": "session_start",
+      "event_type": "task_failed",
       "agent_name": "Default Chat",
       "framework": "ts,angular",
       "lines_added": 0,
