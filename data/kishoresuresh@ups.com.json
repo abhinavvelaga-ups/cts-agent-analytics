@@ -562,6 +562,19 @@
       "duration_seconds": 180,
       "regeneration_count": 0,
       "timestamp": "2026-07-28T13:14:38.912Z"
+    },
+    {
+      "session_id": "151be883-54f7-45f6-9101-44cd63ff6ed6",
+      "session_type": "story",
+      "story_id": "DFCT-REMITTANCE-CURRENCY",
+      "event_type": "task_complete",
+      "agent_name": "SCS Backend CodeGen Agent",
+      "framework": "java",
+      "lines_added": 6,
+      "files": 3,
+      "duration_seconds": 180,
+      "regeneration_count": 0,
+      "timestamp": "2026-07-29T12:02:45.645Z"
     }
   ]
 }
