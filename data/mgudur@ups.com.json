@@ -94,6 +94,19 @@
       "duration_seconds": 300,
       "regeneration_count": 0,
       "timestamp": "2026-07-28T10:13:42.140Z"
+    },
+    {
+      "session_id": "4f012012-b811-4a4a-905f-51c7d4452441",
+      "session_type": "story",
+      "story_id": "BATCH-SHIPMENT-TIMING",
+      "event_type": "task_complete",
+      "agent_name": "SCS Frontend Builder Agent",
+      "framework": "angular",
+      "lines_added": 0,
+      "files": 0,
+      "duration_seconds": 600,
+      "regeneration_count": 0,
+      "timestamp": "2026-07-29T05:17:33.157Z"
     }
   ]
 }
