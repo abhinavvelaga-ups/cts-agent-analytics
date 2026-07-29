@@ -346,12 +346,12 @@
       "session_id": "9b5d0fb4-3ac9-4906-b0f8-961852c8c15e",
       "session_type": "story",
       "story_id": "UnitTestCoverage-genesis-Outbound_Service",
-      "event_type": "session_start",
+      "event_type": "task_complete",
       "agent_name": "SCS Backend CodeGen Agent",
       "framework": "java",
-      "lines_added": 0,
-      "files": 0,
-      "duration_seconds": 0,
+      "lines_added": 364,
+      "files": 7,
+      "duration_seconds": 494,
       "regeneration_count": 0,
       "timestamp": "2026-07-29T20:41:36.310Z"
     }
