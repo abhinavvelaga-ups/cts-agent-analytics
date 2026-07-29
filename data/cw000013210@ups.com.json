@@ -99,7 +99,7 @@
       "session_id": "0284d999-412f-4863-a1b5-9999ae3cd0f0",
       "session_type": "general",
       "story_id": null,
-      "event_type": "session_start",
+      "event_type": "task_complete",
       "agent_name": "Default Chat",
       "framework": "unknown",
       "lines_added": 0,
