@@ -413,11 +413,11 @@
       "story_id": null,
       "event_type": "task_complete",
       "agent_name": "Default Chat",
-      "framework": "js,html,css",
-      "lines_added": 560,
-      "files": 5,
-      "duration_seconds": 120,
-      "regeneration_count": 0,
+      "framework": "js,react,nextjs",
+      "lines_added": 700,
+      "files": 12,
+      "duration_seconds": 600,
+      "regeneration_count": 1,
       "timestamp": "2026-07-29T05:52:33.891Z"
     }
   ]
