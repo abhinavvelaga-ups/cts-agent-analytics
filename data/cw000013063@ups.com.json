@@ -294,12 +294,12 @@
       "session_id": "2b2020bc-3370-4109-bf19-ea2c75656aa2",
       "session_type": "general",
       "story_id": null,
-      "event_type": "session_start",
+      "event_type": "task_complete",
       "agent_name": "Default Chat",
       "framework": "ts,angular",
       "lines_added": 0,
-      "files": 0,
-      "duration_seconds": 0,
+      "files": 2,
+      "duration_seconds": 165,
       "regeneration_count": 0,
       "timestamp": "2026-07-29T10:42:46.968Z"
     }
