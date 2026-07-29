@@ -715,8 +715,8 @@
       "framework": "java,spring-boot,oracle-sql",
       "lines_added": 0,
       "files": 0,
-      "duration_seconds": 180,
-      "regeneration_count": 2,
+      "duration_seconds": 90,
+      "regeneration_count": 3,
       "timestamp": "2026-07-29T06:00:24.328Z"
     }
   ]
