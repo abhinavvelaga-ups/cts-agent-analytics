@@ -1074,12 +1074,12 @@
       "session_id": "a6d8960c-14ba-4714-8489-44dcf24222bb",
       "session_type": "general",
       "story_id": null,
-      "event_type": "session_start",
+      "event_type": "task_complete",
       "agent_name": "Default Chat",
-      "framework": "unknown",
+      "framework": "js,playwright",
       "lines_added": 0,
       "files": 0,
-      "duration_seconds": 0,
+      "duration_seconds": 95,
       "regeneration_count": 0,
       "timestamp": "2026-07-29T07:45:06.961Z"
     }
