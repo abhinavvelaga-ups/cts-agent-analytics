@@ -102,9 +102,9 @@
       "event_type": "task_complete",
       "agent_name": "Default Chat",
       "framework": "unknown",
-      "lines_added": 1,
+      "lines_added": 25,
       "files": 1,
-      "duration_seconds": 90,
+      "duration_seconds": 240,
       "regeneration_count": 0,
       "timestamp": "2026-07-29T17:38:35.985Z"
     }
