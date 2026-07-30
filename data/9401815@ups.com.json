@@ -177,12 +177,12 @@
       "session_id": "0db086a7-c2f8-4f6d-82d1-fa340255d560",
       "session_type": "story",
       "story_id": "gff-ufh-ui-rateType-UI-update",
-      "event_type": "session_start",
+      "event_type": "task_complete",
       "agent_name": "SCS ADO Setup Agent",
       "framework": "ts,angular",
-      "lines_added": 0,
-      "files": 0,
-      "duration_seconds": 0,
+      "lines_added": 18,
+      "files": 1,
+      "duration_seconds": 420,
       "regeneration_count": 0,
       "timestamp": "2026-07-30T13:54:31.532Z"
     }
