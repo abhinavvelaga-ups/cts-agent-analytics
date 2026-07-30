@@ -388,10 +388,10 @@
       "event_type": "task_complete",
       "agent_name": "SCS Backend CodeGen Agent",
       "framework": "java,spring-boot",
-      "lines_added": 320,
-      "files": 2,
-      "duration_seconds": 1700,
-      "regeneration_count": 0,
+      "lines_added": 780,
+      "files": 5,
+      "duration_seconds": 2600,
+      "regeneration_count": 1,
       "timestamp": "2026-07-30T13:05:48.512Z"
     }
   ]
