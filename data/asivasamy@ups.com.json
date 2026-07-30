@@ -762,12 +762,12 @@
       "session_id": "65f8c9a6-9291-4165-8868-9d36c9e1a605",
       "session_type": "general",
       "story_id": null,
-      "event_type": "session_start",
+      "event_type": "task_complete",
       "agent_name": "SCS ADO Setup Agent",
       "framework": "java",
       "lines_added": 0,
       "files": 0,
-      "duration_seconds": 0,
+      "duration_seconds": 5,
       "regeneration_count": 0,
       "timestamp": "2026-07-30T08:47:53.483Z"
     }
