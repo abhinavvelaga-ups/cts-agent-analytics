@@ -1,0 +1,21 @@
+{
+  "developer_id": "rsellam@ups.com",
+  "developer_name": "Rameshkumar",
+  "pod_name": "other Team",
+  "dev_role": "Dev",
+  "sessions": [
+    {
+      "session_id": "01d2f260-a2f5-476b-bbde-7ec52fe99f52",
+      "session_type": "general",
+      "story_id": null,
+      "event_type": "session_start",
+      "agent_name": "CTS ADO Setup Agent",
+      "framework": "ts,angular",
+      "lines_added": 0,
+      "files": 0,
+      "duration_seconds": 0,
+      "regeneration_count": 0,
+      "timestamp": "2026-07-30T12:16:18.883Z"
+    }
+  ]
+}
