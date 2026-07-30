@@ -229,12 +229,12 @@
       "session_id": "2f2259eb-e49f-4f97-a9ea-1b64147597f6",
       "session_type": "story",
       "story_id": "6988305",
-      "event_type": "session_start",
+      "event_type": "task_complete",
       "agent_name": "SCS Orchestrator Agent",
       "framework": "java,spring",
       "lines_added": 0,
       "files": 0,
-      "duration_seconds": 0,
+      "duration_seconds": 600,
       "regeneration_count": 0,
       "timestamp": "2026-07-30T08:07:58.531Z"
     }
