@@ -21,11 +21,11 @@
       "session_id": "79a2cbdf-9b54-477c-9d27-7722f3ba94aa",
       "session_type": "general",
       "story_id": null,
-      "event_type": "session_start",
+      "event_type": "task_complete",
       "agent_name": "Frontend Dev Agent",
       "framework": "unknown",
       "lines_added": 0,
-      "files": 0,
+      "files": 14,
       "duration_seconds": 0,
       "regeneration_count": 0,
       "timestamp": "2026-07-30T14:32:16.063Z"
