@@ -34,7 +34,7 @@
       "session_id": "6a9c8945-637c-4c2c-93f6-b8c3a9c73196",
       "session_type": "story",
       "story_id": "7063739",
-      "event_type": "session_start",
+      "event_type": "task_failed",
       "agent_name": "SCS ADO Setup Agent",
       "framework": "csharp",
       "lines_added": 0,
