@@ -385,12 +385,12 @@
       "session_id": "d3b7438d-0820-40d5-b600-a654c5191fe5",
       "session_type": "general",
       "story_id": null,
-      "event_type": "session_start",
+      "event_type": "task_complete",
       "agent_name": "Default Chat",
       "framework": "ts,angular",
       "lines_added": 0,
       "files": 0,
-      "duration_seconds": 0,
+      "duration_seconds": 220,
       "regeneration_count": 0,
       "timestamp": "2026-07-30T17:39:15.658Z"
     }
