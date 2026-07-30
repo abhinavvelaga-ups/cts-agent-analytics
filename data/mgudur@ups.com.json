@@ -172,6 +172,19 @@
       "duration_seconds": 0,
       "regeneration_count": 0,
       "timestamp": "2026-07-30T11:17:14.665Z"
+    },
+    {
+      "session_id": "1996d245-9df4-4b99-a5a6-bdd5528247b4",
+      "session_type": "story",
+      "story_id": "Timing fields batch shipment persistence",
+      "event_type": "session_start",
+      "agent_name": "SCS Frontend Builder Agent",
+      "framework": "ts,angular",
+      "lines_added": 0,
+      "files": 0,
+      "duration_seconds": 0,
+      "regeneration_count": 0,
+      "timestamp": "2026-07-30T16:39:33.610Z"
     }
   ]
 }
