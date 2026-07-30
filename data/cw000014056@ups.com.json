@@ -302,6 +302,19 @@
       "duration_seconds": 0,
       "regeneration_count": 0,
       "timestamp": "2026-07-30T15:51:44.402Z"
+    },
+    {
+      "session_id": "3a8258ee-5c8f-4e1b-a93e-ff177fa1e941",
+      "session_type": "story",
+      "story_id": "7472519",
+      "event_type": "task_complete",
+      "agent_name": "CTS QA Test Case Agent",
+      "framework": "ts,angular,csharp",
+      "lines_added": 92,
+      "files": 6,
+      "duration_seconds": 300,
+      "regeneration_count": 0,
+      "timestamp": "2026-07-30T15:54:44.873Z"
     }
   ]
 }
