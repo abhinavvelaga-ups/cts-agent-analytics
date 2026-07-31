@@ -21,13 +21,13 @@
       "session_id": "a36e707b-d1b8-455e-97d8-ad92c39c674c",
       "session_type": "general",
       "story_id": null,
-      "event_type": "session_start",
+      "event_type": "task_complete",
       "agent_name": "SCS ADO Setup Agent",
       "framework": "ts,angular,csharp",
-      "lines_added": 0,
-      "files": 0,
-      "duration_seconds": 0,
-      "regeneration_count": 0,
+      "lines_added": 5,
+      "files": 2,
+      "duration_seconds": 420,
+      "regeneration_count": 1,
       "timestamp": "2026-07-31T14:49:49.849Z"
     }
   ]
