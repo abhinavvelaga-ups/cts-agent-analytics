@@ -128,10 +128,10 @@
       "event_type": "task_complete",
       "agent_name": "Default Chat",
       "framework": "csharp,dotnet-webapi,angular",
-      "lines_added": 64,
-      "files": 5,
-      "duration_seconds": 1180,
-      "regeneration_count": 1,
+      "lines_added": 16,
+      "files": 3,
+      "duration_seconds": 360,
+      "regeneration_count": 2,
       "timestamp": "2026-07-31T10:55:17.694Z"
     }
   ]
