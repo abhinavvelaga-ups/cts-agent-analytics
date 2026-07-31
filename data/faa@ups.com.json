@@ -1,0 +1,21 @@
+{
+  "developer_id": "faa@ups.com",
+  "developer_name": "fathima Aa",
+  "pod_name": "Temporary POD Name 2",
+  "dev_role": "Dev",
+  "sessions": [
+    {
+      "session_id": "f436a2c7-ab1b-488e-b9ea-b8f67dee37eb",
+      "session_type": "general",
+      "story_id": null,
+      "event_type": "session_start",
+      "agent_name": "SCS ADO Setup Agent",
+      "framework": "java",
+      "lines_added": 0,
+      "files": 0,
+      "duration_seconds": 0,
+      "regeneration_count": 0,
+      "timestamp": "2026-07-31T11:12:14.268Z"
+    }
+  ]
+}
