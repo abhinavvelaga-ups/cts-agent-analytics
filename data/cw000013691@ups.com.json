@@ -480,8 +480,8 @@
       "agent_name": "Default Chat",
       "framework": "javascript,terraform",
       "lines_added": 0,
-      "files": 2,
-      "duration_seconds": 420,
+      "files": 0,
+      "duration_seconds": 90,
       "regeneration_count": 0,
       "timestamp": "2026-07-31T07:39:55.779Z"
     }
