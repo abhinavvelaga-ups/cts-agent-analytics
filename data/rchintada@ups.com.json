@@ -614,6 +614,19 @@
       "duration_seconds": 900,
       "regeneration_count": 0,
       "timestamp": "2026-07-31T13:34:37.844Z"
+    },
+    {
+      "session_id": "21382b7f-c3fa-4c41-b62b-7302f56c043e",
+      "session_type": "story",
+      "story_id": "COV-CLOSECVIS-012",
+      "event_type": "task_complete",
+      "agent_name": "Default Chat",
+      "framework": "java,spring-boot,maven,junit5",
+      "lines_added": 48,
+      "files": 1,
+      "duration_seconds": 1200,
+      "regeneration_count": 0,
+      "timestamp": "2026-07-31T13:43:30.499Z"
     }
   ]
 }
