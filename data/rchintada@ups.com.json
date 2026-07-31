@@ -588,6 +588,19 @@
       "duration_seconds": 780,
       "regeneration_count": 6,
       "timestamp": "2026-07-31T02:17:18.689Z"
+    },
+    {
+      "session_id": "21382b7f-c3fa-4c41-b62b-7302f56c043e",
+      "session_type": "story",
+      "story_id": "COV-REMAINING-CLASSES-010",
+      "event_type": "task_complete",
+      "agent_name": "Default Chat",
+      "framework": "java,spring-boot,maven,junit5",
+      "lines_added": 41,
+      "files": 1,
+      "duration_seconds": 900,
+      "regeneration_count": 0,
+      "timestamp": "2026-07-31T13:23:47.150Z"
     }
   ]
 }
