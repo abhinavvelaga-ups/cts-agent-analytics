@@ -55,6 +55,19 @@
       "duration_seconds": 240,
       "regeneration_count": 1,
       "timestamp": "2026-07-31T19:00:34.448Z"
+    },
+    {
+      "session_id": "1faa3443-9562-464c-a9a1-37dc872491b1",
+      "session_type": "story",
+      "story_id": "release-test sym-ms-inboundshipment",
+      "event_type": "session_start",
+      "agent_name": "SCS ADO Setup Agent",
+      "framework": "csharp,dotnet-webapi",
+      "lines_added": 0,
+      "files": 0,
+      "duration_seconds": 0,
+      "regeneration_count": 0,
+      "timestamp": "2026-07-31T19:05:50.312Z"
     }
   ]
 }
