@@ -21,12 +21,12 @@
       "session_id": "19f21080-8582-4565-863a-184b39b1cccf",
       "session_type": "general",
       "story_id": null,
-      "event_type": "session_start",
+      "event_type": "task_complete",
       "agent_name": "TPIH-TPAS Jenkins to ADO Migration Agent",
       "framework": "python",
-      "lines_added": 0,
-      "files": 0,
-      "duration_seconds": 0,
+      "lines_added": 1700,
+      "files": 20,
+      "duration_seconds": 2700,
       "regeneration_count": 0,
       "timestamp": "2026-07-31T07:27:07.590Z"
     }
