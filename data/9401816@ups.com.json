@@ -102,10 +102,10 @@
       "event_type": "task_complete",
       "agent_name": "Default Chat",
       "framework": "angular",
-      "lines_added": 35,
+      "lines_added": 0,
       "files": 1,
-      "duration_seconds": 220,
-      "regeneration_count": 3,
+      "duration_seconds": 180,
+      "regeneration_count": 4,
       "timestamp": "2026-07-31T12:14:40.966Z"
     }
   ]
