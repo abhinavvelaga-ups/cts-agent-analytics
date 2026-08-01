@@ -151,12 +151,12 @@
       "session_id": "e13404d7-8995-4b2c-811a-4488c528d471",
       "session_type": "story",
       "story_id": "sym-ms-report-security-fix",
-      "event_type": "session_start",
+      "event_type": "task_complete",
       "agent_name": "SCS DevOps Config Agent",
       "framework": "csharp,dotnet-webapi",
-      "lines_added": 0,
-      "files": 0,
-      "duration_seconds": 0,
+      "lines_added": 45,
+      "files": 7,
+      "duration_seconds": 420,
       "regeneration_count": 0,
       "timestamp": "2026-08-01T11:52:31.640Z"
     }
