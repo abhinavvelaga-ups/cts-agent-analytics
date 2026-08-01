@@ -796,6 +796,19 @@
       "duration_seconds": 0,
       "regeneration_count": 0,
       "timestamp": "2026-08-01T13:00:09.985Z"
+    },
+    {
+      "session_id": "21382b7f-c3fa-4c41-b62b-7302f56c043e",
+      "session_type": "story",
+      "story_id": "coverage-expansion-90percent",
+      "event_type": "task_complete",
+      "agent_name": "Default Chat",
+      "framework": "java,spring-boot",
+      "lines_added": 576,
+      "files": 5,
+      "duration_seconds": 600,
+      "regeneration_count": 0,
+      "timestamp": "2026-08-01T13:09:01.107Z"
     }
   ]
 }
