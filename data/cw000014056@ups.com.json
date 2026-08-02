@@ -335,11 +335,11 @@
       "story_id": "7484807",
       "event_type": "task_complete",
       "agent_name": "CTS Backend CodeGen Agent",
-      "framework": "unknown",
+      "framework": "csharp,dotnet",
       "lines_added": 0,
       "files": 0,
-      "duration_seconds": 12,
-      "regeneration_count": 0,
+      "duration_seconds": 147,
+      "regeneration_count": 1,
       "timestamp": "2026-08-02T17:41:27.691Z"
     }
   ]
