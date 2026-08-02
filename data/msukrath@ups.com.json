@@ -29,6 +29,19 @@
       "duration_seconds": 300,
       "regeneration_count": 0,
       "timestamp": "2026-08-02T14:15:08.499Z"
+    },
+    {
+      "session_id": "e956dfb2-0c58-4f27-8d8b-fc09c23d6a42",
+      "session_type": "story",
+      "story_id": "aes-pldrawdataprocessor-audit",
+      "event_type": "session_start",
+      "agent_name": "SCS Codebase Audit Agent",
+      "framework": "csharp",
+      "lines_added": 0,
+      "files": 0,
+      "duration_seconds": 0,
+      "regeneration_count": 0,
+      "timestamp": "2026-08-02T20:25:54.393Z"
     }
   ]
 }
