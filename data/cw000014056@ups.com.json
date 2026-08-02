@@ -359,12 +359,12 @@
       "session_id": "1f4c4e4e-3820-4edd-a246-02e7cff6a778",
       "session_type": "story",
       "story_id": "7484807",
-      "event_type": "session_start",
+      "event_type": "task_complete",
       "agent_name": "CTS Backend CodeGen Agent",
       "framework": "csharp",
-      "lines_added": 0,
-      "files": 0,
-      "duration_seconds": 0,
+      "lines_added": 18,
+      "files": 3,
+      "duration_seconds": 120,
       "regeneration_count": 0,
       "timestamp": "2026-08-02T18:41:35.562Z"
     }
