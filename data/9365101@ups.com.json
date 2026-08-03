@@ -289,6 +289,19 @@
       "duration_seconds": 240,
       "regeneration_count": 0,
       "timestamp": "2026-07-24T09:05:11.559Z"
+    },
+    {
+      "session_id": "b8748a57-901a-4cd3-9a08-5ff1a414a9cb",
+      "session_type": "general",
+      "story_id": null,
+      "event_type": "session_start",
+      "agent_name": "Default Chat",
+      "framework": "terraform,js",
+      "lines_added": 0,
+      "files": 0,
+      "duration_seconds": 0,
+      "regeneration_count": 0,
+      "timestamp": "2026-08-03T09:03:04.183Z"
     }
   ]
 }
