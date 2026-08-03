@@ -63,9 +63,9 @@
       "event_type": "task_complete",
       "agent_name": "SCS ADO Setup Agent",
       "framework": "java",
-      "lines_added": 1850,
-      "files": 12,
-      "duration_seconds": 900,
+      "lines_added": 0,
+      "files": 0,
+      "duration_seconds": 120,
       "regeneration_count": 0,
       "timestamp": "2026-08-03T17:50:58.970Z"
     }
