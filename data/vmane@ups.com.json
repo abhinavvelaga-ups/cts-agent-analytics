@@ -268,12 +268,12 @@
       "session_id": "1a418609-abca-4222-b8ef-c92d503efc2f",
       "session_type": "story",
       "story_id": "release-test sym-ms-inboundshipment",
-      "event_type": "session_start",
+      "event_type": "task_complete",
       "agent_name": "SCS Backend CodeGen Agent",
       "framework": "csharp,dotnet-webapi",
-      "lines_added": 0,
-      "files": 0,
-      "duration_seconds": 0,
+      "lines_added": 23,
+      "files": 1,
+      "duration_seconds": 600,
       "regeneration_count": 0,
       "timestamp": "2026-08-03T11:34:15.202Z"
     }
