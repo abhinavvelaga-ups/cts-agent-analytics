@@ -8,7 +8,7 @@
       "session_id": "5b7316b7-632e-4840-b2b2-228d00bb52ff",
       "session_type": "general",
       "story_id": null,
-      "event_type": "session_start",
+      "event_type": "task_complete",
       "agent_name": "GitHub Copilot",
       "framework": "unknown",
       "lines_added": 0,
