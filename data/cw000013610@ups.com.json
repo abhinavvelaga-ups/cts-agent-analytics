@@ -180,9 +180,9 @@
       "event_type": "task_complete",
       "agent_name": "Default Chat",
       "framework": "ts,angular,dotnet",
-      "lines_added": 48,
-      "files": 2,
-      "duration_seconds": 120,
+      "lines_added": 70,
+      "files": 3,
+      "duration_seconds": 180,
       "regeneration_count": 0,
       "timestamp": "2026-08-03T13:04:57.548Z"
     }
