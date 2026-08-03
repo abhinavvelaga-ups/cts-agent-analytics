@@ -1529,12 +1529,12 @@
       "session_id": "bf963729-d110-4017-9bb1-671dddf0ec1f",
       "session_type": "general",
       "story_id": null,
-      "event_type": "session_start",
+      "event_type": "task_complete",
       "agent_name": "SCS Backend CodeGen Agent",
       "framework": "java",
-      "lines_added": 0,
-      "files": 0,
-      "duration_seconds": 0,
+      "lines_added": 35,
+      "files": 1,
+      "duration_seconds": 180,
       "regeneration_count": 0,
       "timestamp": "2026-08-03T17:57:27.265Z"
     }
