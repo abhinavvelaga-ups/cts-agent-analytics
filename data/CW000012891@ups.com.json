@@ -619,12 +619,12 @@
       "session_id": "8e559d5f-866e-4e17-af96-1e7f79d6496b",
       "session_type": "story",
       "story_id": "7438134",
-      "event_type": "session_start",
+      "event_type": "task_complete",
       "agent_name": "SCS ADO Setup Agent",
-      "framework": "unknown",
-      "lines_added": 0,
-      "files": 0,
-      "duration_seconds": 0,
+      "framework": "ts,angular",
+      "lines_added": 14,
+      "files": 2,
+      "duration_seconds": 300,
       "regeneration_count": 0,
       "timestamp": "2026-08-03T13:09:14.323Z"
     }
