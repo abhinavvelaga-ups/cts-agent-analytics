@@ -632,12 +632,12 @@
       "session_id": "7366767b-31a5-4e38-8613-17fe451fdaa3",
       "session_type": "general",
       "story_id": null,
-      "event_type": "session_start",
+      "event_type": "task_complete",
       "agent_name": "Default Chat",
       "framework": "java",
       "lines_added": 0,
       "files": 0,
-      "duration_seconds": 0,
+      "duration_seconds": 65,
       "regeneration_count": 0,
       "timestamp": "2026-08-03T08:07:40.167Z"
     }
