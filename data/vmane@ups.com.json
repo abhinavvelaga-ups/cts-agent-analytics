@@ -276,6 +276,19 @@
       "duration_seconds": 600,
       "regeneration_count": 0,
       "timestamp": "2026-08-03T11:34:15.202Z"
+    },
+    {
+      "session_id": "0662998b-5e23-496f-a11b-6b4c2a67cc0b",
+      "session_type": "story",
+      "story_id": "release-test sym-ms-inboundshipment",
+      "event_type": "session_start",
+      "agent_name": "SCS DevOps Config Agent",
+      "framework": "csharp,dotnet-webapi",
+      "lines_added": 0,
+      "files": 0,
+      "duration_seconds": 0,
+      "regeneration_count": 0,
+      "timestamp": "2026-08-03T11:53:29.403Z"
     }
   ]
 }
