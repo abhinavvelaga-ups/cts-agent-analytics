@@ -1412,12 +1412,12 @@
       "session_id": "b6eb6ab5-ebc1-412f-8590-8214cc0cfa3c",
       "session_type": "story",
       "story_id": "6415101",
-      "event_type": "session_start",
+      "event_type": "task_complete",
       "agent_name": "Default Chat",
-      "framework": "unknown",
+      "framework": "java,spring-boot",
       "lines_added": 0,
-      "files": 0,
-      "duration_seconds": 0,
+      "files": 9,
+      "duration_seconds": 900,
       "regeneration_count": 0,
       "timestamp": "2026-08-03T07:07:33.060Z"
     }
