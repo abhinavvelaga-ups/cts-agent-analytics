@@ -983,12 +983,12 @@
       "session_id": "2f2075f5-ff41-44f0-ba6e-44ffa7d340c9",
       "session_type": "story",
       "story_id": "4443635",
-      "event_type": "session_start",
+      "event_type": "task_complete",
       "agent_name": "SCS Backend CodeGen Agent",
-      "framework": "java",
-      "lines_added": 0,
-      "files": 0,
-      "duration_seconds": 0,
+      "framework": "java,sql",
+      "lines_added": 385,
+      "files": 4,
+      "duration_seconds": 4200,
       "regeneration_count": 0,
       "timestamp": "2026-08-03T10:44:04.118Z"
     }
