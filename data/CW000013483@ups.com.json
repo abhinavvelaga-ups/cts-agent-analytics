@@ -666,6 +666,19 @@
       "duration_seconds": 60,
       "regeneration_count": 0,
       "timestamp": "2026-08-03T07:38:15.721Z"
+    },
+    {
+      "session_id": "b2df9b78-8b6b-4639-8034-fdfbb8fe60ed",
+      "session_type": "story",
+      "story_id": "7459252",
+      "event_type": "session_start",
+      "agent_name": "SCS Orchestrator Agent",
+      "framework": "ts,angular",
+      "lines_added": 0,
+      "files": 0,
+      "duration_seconds": 0,
+      "regeneration_count": 0,
+      "timestamp": "2026-08-03T11:25:35.443Z"
     }
   ]
 }
