@@ -1612,8 +1612,8 @@
       "framework": "java,sql",
       "lines_added": 0,
       "files": 0,
-      "duration_seconds": 120,
-      "regeneration_count": 1,
+      "duration_seconds": 90,
+      "regeneration_count": 2,
       "timestamp": "2026-08-03T20:40:36.727Z"
     }
   ]
