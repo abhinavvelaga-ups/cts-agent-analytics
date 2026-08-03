@@ -1477,7 +1477,7 @@
       "session_id": "4430bdbe-0571-425d-958c-f1d30a39b3b9",
       "session_type": "general",
       "story_id": null,
-      "event_type": "session_start",
+      "event_type": "task_failed",
       "agent_name": "SCS Backend CodeGen Agent",
       "framework": "java,ts,angular",
       "lines_added": 0,
