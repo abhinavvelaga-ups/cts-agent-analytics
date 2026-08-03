@@ -76,9 +76,9 @@
       "event_type": "task_complete",
       "agent_name": "SCS DevOps Config Agent",
       "framework": "csharp,dotnet-webapi",
-      "lines_added": 19,
+      "lines_added": 24,
       "files": 1,
-      "duration_seconds": 360,
+      "duration_seconds": 300,
       "regeneration_count": 2,
       "timestamp": "2026-07-31T19:18:10.763Z"
     },
