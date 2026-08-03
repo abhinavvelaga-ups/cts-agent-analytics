@@ -29,6 +29,19 @@
       "duration_seconds": 0,
       "regeneration_count": 0,
       "timestamp": "2026-08-03T09:23:43.095Z"
+    },
+    {
+      "session_id": "8ed08a79-5b23-42d2-b516-445a46834efd",
+      "session_type": "story",
+      "story_id": "https://dev.azure.com/UPSProd4/P4AG_GFF_Digital/_sprints/backlog/Cognizant%20-%20Apollo-1/P4AG_GFF_Digital/IHS/PI13/PI13.3",
+      "event_type": "session_start",
+      "agent_name": "SCS ADO Setup Agent",
+      "framework": "csharp",
+      "lines_added": 0,
+      "files": 0,
+      "duration_seconds": 0,
+      "regeneration_count": 0,
+      "timestamp": "2026-08-03T12:24:01.423Z"
     }
   ]
 }
