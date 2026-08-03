@@ -671,7 +671,7 @@
       "session_id": "b2df9b78-8b6b-4639-8034-fdfbb8fe60ed",
       "session_type": "story",
       "story_id": "7459252",
-      "event_type": "session_start",
+      "event_type": "task_failed",
       "agent_name": "SCS Orchestrator Agent",
       "framework": "ts,angular",
       "lines_added": 0,
