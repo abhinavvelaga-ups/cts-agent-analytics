@@ -640,6 +640,19 @@
       "duration_seconds": 65,
       "regeneration_count": 0,
       "timestamp": "2026-08-03T08:07:40.167Z"
+    },
+    {
+      "session_id": "5c9a5ad4-8a22-4226-bc70-f1e4de7a0765",
+      "session_type": "story",
+      "story_id": "HVAC-DowntimePOC",
+      "event_type": "session_start",
+      "agent_name": "SCS Backend CodeGen Agent",
+      "framework": "java,sql",
+      "lines_added": 0,
+      "files": 0,
+      "duration_seconds": 0,
+      "regeneration_count": 0,
+      "timestamp": "2026-08-03T13:18:48.744Z"
     }
   ]
 }
