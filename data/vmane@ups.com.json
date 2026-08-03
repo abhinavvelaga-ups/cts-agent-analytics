@@ -263,6 +263,19 @@
       "duration_seconds": 780,
       "regeneration_count": 0,
       "timestamp": "2026-08-03T10:52:47.704Z"
+    },
+    {
+      "session_id": "1a418609-abca-4222-b8ef-c92d503efc2f",
+      "session_type": "story",
+      "story_id": "release-test sym-ms-inboundshipment",
+      "event_type": "session_start",
+      "agent_name": "SCS Backend CodeGen Agent",
+      "framework": "csharp,dotnet-webapi",
+      "lines_added": 0,
+      "files": 0,
+      "duration_seconds": 0,
+      "regeneration_count": 0,
+      "timestamp": "2026-08-03T11:34:15.202Z"
     }
   ]
 }
