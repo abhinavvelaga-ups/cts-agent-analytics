@@ -216,12 +216,12 @@
       "session_id": "b571ebcd-11cd-4e4a-9bfb-6ba6257dfc9f",
       "session_type": "general",
       "story_id": null,
-      "event_type": "session_start",
+      "event_type": "task_complete",
       "agent_name": "Default Chat",
-      "framework": "unknown",
-      "lines_added": 0,
-      "files": 0,
-      "duration_seconds": 0,
+      "framework": "csharp,dotnet-webapi,yaml",
+      "lines_added": 3,
+      "files": 2,
+      "duration_seconds": 420,
       "regeneration_count": 0,
       "timestamp": "2026-08-03T06:41:09.252Z"
     }
