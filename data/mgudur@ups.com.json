@@ -206,10 +206,10 @@
       "event_type": "task_complete",
       "agent_name": "SCS Frontend Builder Agent",
       "framework": "ts,angular",
-      "lines_added": 0,
-      "files": 0,
-      "duration_seconds": 1,
-      "regeneration_count": 1,
+      "lines_added": 79,
+      "files": 1,
+      "duration_seconds": 191,
+      "regeneration_count": 2,
       "timestamp": "2026-08-01T12:34:40.217Z"
     }
   ]
