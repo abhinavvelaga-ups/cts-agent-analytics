@@ -814,12 +814,12 @@
       "session_id": "d96def7c-c760-4e45-9ac4-d44f7d1ccbd7",
       "session_type": "general",
       "story_id": null,
-      "event_type": "session_start",
+      "event_type": "task_complete",
       "agent_name": "Default Chat",
-      "framework": "unknown",
+      "framework": "java,spring-boot,sql",
       "lines_added": 0,
       "files": 0,
-      "duration_seconds": 0,
+      "duration_seconds": 260,
       "regeneration_count": 0,
       "timestamp": "2026-08-04T05:53:10.421Z"
     }
