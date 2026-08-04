@@ -1971,12 +1971,12 @@
       "session_id": "92129875-90f0-4e86-bb32-03ba877984b7",
       "session_type": "story",
       "story_id": "7460193",
-      "event_type": "session_start",
+      "event_type": "task_complete",
       "agent_name": "SCS ADO Setup Agent",
       "framework": "java,ts,angular",
-      "lines_added": 0,
-      "files": 0,
-      "duration_seconds": 0,
+      "lines_added": 41,
+      "files": 4,
+      "duration_seconds": 520,
       "regeneration_count": 0,
       "timestamp": "2026-08-04T05:59:45.770Z"
     }
