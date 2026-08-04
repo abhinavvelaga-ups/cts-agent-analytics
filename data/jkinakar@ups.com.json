@@ -1622,11 +1622,11 @@
       "story_id": null,
       "event_type": "task_complete",
       "agent_name": "SCS Backend CodeGen Agent",
-      "framework": "java,angular,sql",
-      "lines_added": 151,
-      "files": 3,
-      "duration_seconds": 780,
-      "regeneration_count": 1,
+      "framework": "java",
+      "lines_added": 1,
+      "files": 1,
+      "duration_seconds": 180,
+      "regeneration_count": 2,
       "timestamp": "2026-08-04T09:45:07.621Z"
     },
     {
