@@ -1633,12 +1633,12 @@
       "session_id": "edd2e0cd-b833-44f8-ac3b-819b7467b6c1",
       "session_type": "story",
       "story_id": "7284157",
-      "event_type": "session_start",
+      "event_type": "task_complete",
       "agent_name": "Default Chat",
-      "framework": "unknown",
+      "framework": "java,spring-boot,ts,angular",
       "lines_added": 0,
       "files": 0,
-      "duration_seconds": 0,
+      "duration_seconds": 360,
       "regeneration_count": 0,
       "timestamp": "2026-08-04T10:13:14.206Z"
     }
