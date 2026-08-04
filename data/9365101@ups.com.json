@@ -305,14 +305,14 @@
     },
     {
       "session_id": "43305da7-8849-47a5-85e5-ccc027203dd6",
-      "session_type": "general",
-      "story_id": null,
-      "event_type": "session_start",
+      "session_type": "story",
+      "story_id": "7467668",
+      "event_type": "task_complete",
       "agent_name": "Default Chat",
       "framework": "terraform,js",
       "lines_added": 0,
       "files": 0,
-      "duration_seconds": 0,
+      "duration_seconds": 180,
       "regeneration_count": 0,
       "timestamp": "2026-08-04T07:16:21.438Z"
     }
