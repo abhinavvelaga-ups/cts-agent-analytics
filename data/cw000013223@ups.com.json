@@ -99,13 +99,13 @@
       "session_id": "bda53f2e-78ba-4c5d-8a4c-8be1025af721",
       "session_type": "general",
       "story_id": null,
-      "event_type": "session_start",
+      "event_type": "task_complete",
       "agent_name": "Default Chat",
       "framework": "ts,playwright",
       "lines_added": 0,
       "files": 0,
-      "duration_seconds": 0,
-      "regeneration_count": 0,
+      "duration_seconds": 180,
+      "regeneration_count": 2,
       "timestamp": "2026-08-04T10:34:32.100Z"
     }
   ]
