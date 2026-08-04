@@ -822,6 +822,19 @@
       "duration_seconds": 72,
       "regeneration_count": 1,
       "timestamp": "2026-08-04T05:53:10.421Z"
+    },
+    {
+      "session_id": "d96def7c-c760-4e45-9ac4-d44f7d1ccbd7",
+      "session_type": "story",
+      "story_id": "7037300",
+      "event_type": "task_complete",
+      "agent_name": "Default Chat",
+      "framework": "java,spring-boot,sql",
+      "lines_added": 20,
+      "files": 3,
+      "duration_seconds": 510,
+      "regeneration_count": 2,
+      "timestamp": "2026-08-04T07:01:22.518Z"
     }
   ]
 }
