@@ -180,9 +180,9 @@
       "event_type": "task_complete",
       "agent_name": "SCS ADO Setup Agent",
       "framework": "ts,angular",
-      "lines_added": 0,
+      "lines_added": 4,
       "files": 1,
-      "duration_seconds": 180,
+      "duration_seconds": 240,
       "regeneration_count": 1,
       "timestamp": "2026-07-30T13:54:31.532Z"
     }
