@@ -104,8 +104,8 @@
       "framework": "ts,playwright",
       "lines_added": 0,
       "files": 0,
-      "duration_seconds": 95,
-      "regeneration_count": 2,
+      "duration_seconds": 35,
+      "regeneration_count": 3,
       "timestamp": "2026-08-04T10:34:32.100Z"
     }
   ]
