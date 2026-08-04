@@ -788,12 +788,12 @@
       "session_id": "f5b60f5a-9d3a-490d-b0ce-6563bcad4c2f",
       "session_type": "story",
       "story_id": "DFCT-e2k-reference-slash",
-      "event_type": "task_complete",
+      "event_type": "session_start",
       "agent_name": "CTS Backend CodeGen Agent",
       "framework": "java",
-      "lines_added": 40,
-      "files": 1,
-      "duration_seconds": 600,
+      "lines_added": 0,
+      "files": 0,
+      "duration_seconds": 0,
       "regeneration_count": 0,
       "timestamp": "2026-08-04T13:09:23.268Z"
     }
