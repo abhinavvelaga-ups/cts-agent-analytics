@@ -819,8 +819,8 @@
       "framework": "java,spring-boot,sql",
       "lines_added": 0,
       "files": 0,
-      "duration_seconds": 95,
-      "regeneration_count": 0,
+      "duration_seconds": 72,
+      "regeneration_count": 1,
       "timestamp": "2026-08-04T05:53:10.421Z"
     }
   ]
