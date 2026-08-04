@@ -1048,12 +1048,12 @@
       "session_id": "bfd522de-cc4c-4226-ad91-6a730c3c47e4",
       "session_type": "story",
       "story_id": "7369455",
-      "event_type": "session_start",
+      "event_type": "task_complete",
       "agent_name": "SCS Backend CodeGen Agent",
       "framework": "java,spring-boot",
-      "lines_added": 0,
-      "files": 0,
-      "duration_seconds": 0,
+      "lines_added": 30,
+      "files": 3,
+      "duration_seconds": 600,
       "regeneration_count": 0,
       "timestamp": "2026-08-04T11:22:01.265Z"
     }
