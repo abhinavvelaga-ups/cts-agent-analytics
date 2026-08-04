@@ -991,6 +991,19 @@
       "duration_seconds": 120,
       "regeneration_count": 0,
       "timestamp": "2026-08-04T09:05:40.621Z"
+    },
+    {
+      "session_id": "fd582e31-e1f0-4bf7-94f3-4d5e2c53ed6c",
+      "session_type": "story",
+      "story_id": "genesis-GSL_PDWS SonarQube Integration",
+      "event_type": "session_start",
+      "agent_name": "SCS Backend CodeGen Agent",
+      "framework": "java,spring-boot",
+      "lines_added": 0,
+      "files": 0,
+      "duration_seconds": 0,
+      "regeneration_count": 0,
+      "timestamp": "2026-08-04T09:55:18.386Z"
     }
   ]
 }
