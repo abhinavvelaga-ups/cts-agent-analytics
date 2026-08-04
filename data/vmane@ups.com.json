@@ -372,12 +372,12 @@
       "session_id": "1b6d35e3-20fe-4651-b57e-41410f4e95c9",
       "session_type": "general",
       "story_id": null,
-      "event_type": "session_start",
+      "event_type": "task_complete",
       "agent_name": "SCS DevOps Config Agent",
       "framework": "csharp,dotnet",
-      "lines_added": 0,
-      "files": 0,
-      "duration_seconds": 0,
+      "lines_added": 13,
+      "files": 2,
+      "duration_seconds": 240,
       "regeneration_count": 0,
       "timestamp": "2026-08-04T14:39:02.841Z"
     }
