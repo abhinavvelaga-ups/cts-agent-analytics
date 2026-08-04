@@ -263,6 +263,19 @@
       "duration_seconds": 0,
       "regeneration_count": 1,
       "timestamp": "2026-08-03T19:19:01.227Z"
+    },
+    {
+      "session_id": "2d9e07d1-9fdc-476d-8914-006bb4d66086",
+      "session_type": "story",
+      "story_id": "https://dev.azure.com/UPSProd4/P4AG_GeNeSIS/_wiki/wikis/P04AGit_GeNeSIS.wiki/27078/SonarQube-Integration-Steps",
+      "event_type": "session_start",
+      "agent_name": "SCS Backend CodeGen Agent",
+      "framework": "java,spring-boot",
+      "lines_added": 0,
+      "files": 0,
+      "duration_seconds": 0,
+      "regeneration_count": 0,
+      "timestamp": "2026-08-04T20:49:54.242Z"
     }
   ]
 }
