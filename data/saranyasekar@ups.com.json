@@ -268,7 +268,7 @@
       "session_id": "2d9e07d1-9fdc-476d-8914-006bb4d66086",
       "session_type": "story",
       "story_id": "https://dev.azure.com/UPSProd4/P4AG_GeNeSIS/_wiki/wikis/P04AGit_GeNeSIS.wiki/27078/SonarQube-Integration-Steps",
-      "event_type": "session_start",
+      "event_type": "task_failed",
       "agent_name": "SCS Backend CodeGen Agent",
       "framework": "java,spring-boot",
       "lines_added": 0,
