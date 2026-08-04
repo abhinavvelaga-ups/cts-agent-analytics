@@ -777,7 +777,7 @@
       "story_id": null,
       "event_type": "session_start",
       "agent_name": "CTS Backend CodeGen Agent",
-      "framework": "java,struts,j2ee",
+      "framework": "java,struts,j2ee,plsql",
       "lines_added": 0,
       "files": 0,
       "duration_seconds": 0,
