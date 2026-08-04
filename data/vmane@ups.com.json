@@ -180,10 +180,10 @@
       "event_type": "task_complete",
       "agent_name": "Default Chat",
       "framework": "csharp,dotnet",
-      "lines_added": 6,
-      "files": 1,
-      "duration_seconds": 170,
-      "regeneration_count": 1,
+      "lines_added": 4,
+      "files": 2,
+      "duration_seconds": 210,
+      "regeneration_count": 2,
       "timestamp": "2026-08-03T06:20:02.458Z"
     },
     {
