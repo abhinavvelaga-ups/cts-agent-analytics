@@ -367,6 +367,19 @@
       "duration_seconds": 0,
       "regeneration_count": 0,
       "timestamp": "2026-08-04T13:12:44.682Z"
+    },
+    {
+      "session_id": "1b6d35e3-20fe-4651-b57e-41410f4e95c9",
+      "session_type": "general",
+      "story_id": null,
+      "event_type": "session_start",
+      "agent_name": "SCS DevOps Config Agent",
+      "framework": "csharp,dotnet",
+      "lines_added": 0,
+      "files": 0,
+      "duration_seconds": 0,
+      "regeneration_count": 0,
+      "timestamp": "2026-08-04T14:39:02.841Z"
     }
   ]
 }
