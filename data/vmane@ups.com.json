@@ -167,9 +167,9 @@
       "event_type": "task_complete",
       "agent_name": "Default Chat",
       "framework": "csharp,dotnet-webapi",
-      "lines_added": 0,
-      "files": 0,
-      "duration_seconds": 520,
+      "lines_added": 13,
+      "files": 3,
+      "duration_seconds": 640,
       "regeneration_count": 0,
       "timestamp": "2026-08-03T06:18:41.953Z"
     },
