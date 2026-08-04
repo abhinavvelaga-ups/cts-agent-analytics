@@ -1636,10 +1636,10 @@
       "event_type": "task_complete",
       "agent_name": "Default Chat",
       "framework": "java,spring-boot,ts,angular",
-      "lines_added": 96,
-      "files": 3,
-      "duration_seconds": 540,
-      "regeneration_count": 1,
+      "lines_added": 8,
+      "files": 1,
+      "duration_seconds": 120,
+      "regeneration_count": 2,
       "timestamp": "2026-08-04T10:13:14.206Z"
     }
   ]
