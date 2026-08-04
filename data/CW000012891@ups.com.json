@@ -645,12 +645,12 @@
       "session_id": "7cf3404e-22d7-4089-9910-00471362f5fa",
       "session_type": "story",
       "story_id": "7438134",
-      "event_type": "session_start",
+      "event_type": "task_complete",
       "agent_name": "SCS ADO Setup Agent",
-      "framework": "unknown",
+      "framework": "csharp,angular",
       "lines_added": 0,
       "files": 0,
-      "duration_seconds": 0,
+      "duration_seconds": 540,
       "regeneration_count": 0,
       "timestamp": "2026-08-04T02:02:38.277Z"
     }
