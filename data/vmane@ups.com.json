@@ -167,10 +167,10 @@
       "event_type": "task_complete",
       "agent_name": "Default Chat",
       "framework": "csharp,dotnet-webapi",
-      "lines_added": 22,
-      "files": 8,
-      "duration_seconds": 260,
-      "regeneration_count": 5,
+      "lines_added": 4,
+      "files": 2,
+      "duration_seconds": 170,
+      "regeneration_count": 6,
       "timestamp": "2026-08-03T06:18:41.953Z"
     },
     {
