@@ -736,12 +736,12 @@
       "session_id": "3a70bdc4-9ef9-427e-a194-01a90f367ccc",
       "session_type": "general",
       "story_id": null,
-      "event_type": "session_start",
+      "event_type": "task_complete",
       "agent_name": "Default Chat",
       "framework": "unknown",
       "lines_added": 0,
       "files": 0,
-      "duration_seconds": 0,
+      "duration_seconds": 90,
       "regeneration_count": 0,
       "timestamp": "2026-08-05T13:04:40.452Z"
     }
