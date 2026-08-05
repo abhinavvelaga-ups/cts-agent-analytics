@@ -939,6 +939,19 @@
       "duration_seconds": 48,
       "regeneration_count": 3,
       "timestamp": "2026-08-04T09:00:05.502Z"
+    },
+    {
+      "session_id": "2aaac9ec-a84e-45b8-af3a-0f50fcd67932",
+      "session_type": "story",
+      "story_id": "netsparker-samesite-cookie-4165584",
+      "event_type": "session_start",
+      "agent_name": "Default Chat",
+      "framework": "angular,java,weblogic",
+      "lines_added": 0,
+      "files": 0,
+      "duration_seconds": 0,
+      "regeneration_count": 0,
+      "timestamp": "2026-08-05T07:02:41.513Z"
     }
   ]
 }
