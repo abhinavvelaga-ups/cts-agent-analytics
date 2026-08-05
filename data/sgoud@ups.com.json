@@ -73,12 +73,12 @@
       "session_id": "96ac95db-f94e-4cef-aba1-3b0c9e51c110",
       "session_type": "general",
       "story_id": null,
-      "event_type": "session_start",
+      "event_type": "task_complete",
       "agent_name": "Default Chat",
       "framework": "unknown",
       "lines_added": 0,
       "files": 0,
-      "duration_seconds": 0,
+      "duration_seconds": 35,
       "regeneration_count": 0,
       "timestamp": "2026-08-05T09:54:46.602Z"
     }
