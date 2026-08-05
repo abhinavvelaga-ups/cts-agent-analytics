@@ -112,12 +112,12 @@
       "session_id": "8c03121b-b7d2-4fb6-8122-01148e357f12",
       "session_type": "general",
       "story_id": null,
-      "event_type": "session_start",
+      "event_type": "task_complete",
       "agent_name": "Default Chat",
       "framework": "ts,playwright",
       "lines_added": 0,
       "files": 0,
-      "duration_seconds": 0,
+      "duration_seconds": 652,
       "regeneration_count": 0,
       "timestamp": "2026-08-05T05:15:32.439Z"
     }
