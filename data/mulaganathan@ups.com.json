@@ -159,6 +159,19 @@
       "duration_seconds": 120,
       "regeneration_count": 1,
       "timestamp": "2026-08-05T12:19:25.335Z"
+    },
+    {
+      "session_id": "6bd8bfb7-9b3c-4b3c-9438-6be37d00eb7b",
+      "session_type": "general",
+      "story_id": null,
+      "event_type": "session_start",
+      "agent_name": "Default Chat",
+      "framework": "java,spring-boot",
+      "lines_added": 0,
+      "files": 0,
+      "duration_seconds": 0,
+      "regeneration_count": 0,
+      "timestamp": "2026-08-05T12:51:30.561Z"
     }
   ]
 }
