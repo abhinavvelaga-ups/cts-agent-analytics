@@ -414,10 +414,10 @@
       "event_type": "task_complete",
       "agent_name": "SCS ADO Setup Agent",
       "framework": "csharp,dotnet-webapi",
-      "lines_added": 2,
+      "lines_added": 0,
       "files": 1,
-      "duration_seconds": 170,
-      "regeneration_count": 2,
+      "duration_seconds": 180,
+      "regeneration_count": 3,
       "timestamp": "2026-08-05T12:05:41.805Z"
     }
   ]
