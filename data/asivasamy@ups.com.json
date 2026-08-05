@@ -1011,10 +1011,10 @@
       "story_id": null,
       "event_type": "task_complete",
       "agent_name": "Default Chat",
-      "framework": "unknown",
+      "framework": "java",
       "lines_added": 0,
       "files": 0,
-      "duration_seconds": 95,
+      "duration_seconds": 48,
       "regeneration_count": 0,
       "timestamp": "2026-08-05T13:42:38.673Z"
     }
