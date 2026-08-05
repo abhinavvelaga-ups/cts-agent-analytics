@@ -401,10 +401,10 @@
       "event_type": "task_complete",
       "agent_name": "Default Chat",
       "framework": "csharp,dotnet-webapi",
-      "lines_added": 51,
-      "files": 3,
-      "duration_seconds": 360,
-      "regeneration_count": 13,
+      "lines_added": 21282,
+      "files": 35,
+      "duration_seconds": 660,
+      "regeneration_count": 14,
       "timestamp": "2026-08-05T08:05:13.574Z"
     }
   ]
