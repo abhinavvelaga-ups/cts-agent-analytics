@@ -42,6 +42,19 @@
       "duration_seconds": 22,
       "regeneration_count": 0,
       "timestamp": "2026-08-03T12:24:01.423Z"
+    },
+    {
+      "session_id": "904d4ef1-58b0-41d5-b8cf-203b91d4d1a0",
+      "session_type": "general",
+      "story_id": null,
+      "event_type": "session_start",
+      "agent_name": "SCS ADO Setup Agent",
+      "framework": "csharp",
+      "lines_added": 0,
+      "files": 0,
+      "duration_seconds": 0,
+      "regeneration_count": 0,
+      "timestamp": "2026-08-05T15:34:49.596Z"
     }
   ]
 }
