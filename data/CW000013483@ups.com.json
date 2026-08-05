@@ -749,7 +749,7 @@
       "session_id": "d04d8747-a0a5-47ce-bcfb-a326a74fb1a2",
       "session_type": "general",
       "story_id": null,
-      "event_type": "session_start",
+      "event_type": "task_complete",
       "agent_name": "Default Chat",
       "framework": "ts,angular,csharp",
       "lines_added": 0,
