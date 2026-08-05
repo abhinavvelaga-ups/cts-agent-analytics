@@ -115,10 +115,10 @@
       "event_type": "task_complete",
       "agent_name": "Default Chat",
       "framework": "ts,playwright",
-      "lines_added": 44,
-      "files": 2,
-      "duration_seconds": 302,
-      "regeneration_count": 0,
+      "lines_added": 8,
+      "files": 1,
+      "duration_seconds": 173,
+      "regeneration_count": 2,
       "timestamp": "2026-08-05T05:15:32.439Z"
     }
   ]
