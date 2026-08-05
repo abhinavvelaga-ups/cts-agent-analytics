@@ -333,12 +333,12 @@
       "session_id": "94b6dbae-05ae-4a51-9c4b-d095ea20b64e",
       "session_type": "story",
       "story_id": "7467668",
-      "event_type": "session_start",
+      "event_type": "task_complete",
       "agent_name": "Default Chat",
       "framework": "terraform,js",
       "lines_added": 0,
       "files": 0,
-      "duration_seconds": 0,
+      "duration_seconds": 60,
       "regeneration_count": 0,
       "timestamp": "2026-08-05T05:58:18.047Z"
     }
