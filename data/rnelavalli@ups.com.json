@@ -60,11 +60,11 @@
       "session_id": "4b31fcd0-ae20-42f2-a6c7-688f0151c197",
       "session_type": "general",
       "story_id": null,
-      "event_type": "session_start",
+      "event_type": "task_complete",
       "agent_name": "GitHub Copilot",
       "framework": "unknown",
       "lines_added": 0,
-      "files": 0,
+      "files": 1,
       "duration_seconds": 0,
       "regeneration_count": 0,
       "timestamp": "2026-08-05T15:36:19.404Z"
