@@ -29,6 +29,19 @@
       "duration_seconds": 2700,
       "regeneration_count": 0,
       "timestamp": "2026-07-31T07:27:07.590Z"
+    },
+    {
+      "session_id": "274c3646-550c-4b13-9dd4-78ddadee4760",
+      "session_type": "general",
+      "story_id": null,
+      "event_type": "session_start",
+      "agent_name": "tpih-tpas-jenkins-to-ado",
+      "framework": "python",
+      "lines_added": 0,
+      "files": 0,
+      "duration_seconds": 0,
+      "regeneration_count": 0,
+      "timestamp": "2026-08-05T06:02:24.626Z"
     }
   ]
 }
