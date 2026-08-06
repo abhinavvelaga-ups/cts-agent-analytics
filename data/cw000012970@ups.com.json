@@ -8,12 +8,12 @@
       "session_id": "12c084e7-0de5-4664-9656-fbc79b40daf6",
       "session_type": "general",
       "story_id": null,
-      "event_type": "task_failed",
+      "event_type": "task_complete",
       "agent_name": "SCS Backend CodeGen Agent",
       "framework": "csharp",
       "lines_added": 0,
       "files": 0,
-      "duration_seconds": 6,
+      "duration_seconds": 120,
       "regeneration_count": 1,
       "timestamp": "2026-08-06T11:20:17.499Z"
     }
