@@ -60,12 +60,12 @@
       "session_id": "c00217ca-6b65-4af8-9ab1-b8b748c68db2",
       "session_type": "story",
       "story_id": "bcs-addrcorrectionprocessor",
-      "event_type": "session_start",
+      "event_type": "task_complete",
       "agent_name": "SCS Codebase Audit Agent",
       "framework": "csharp",
-      "lines_added": 0,
-      "files": 0,
-      "duration_seconds": 0,
+      "lines_added": 430,
+      "files": 6,
+      "duration_seconds": 180,
       "regeneration_count": 0,
       "timestamp": "2026-08-06T18:43:42.702Z"
     }
