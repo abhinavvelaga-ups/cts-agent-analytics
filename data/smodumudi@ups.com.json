@@ -1022,12 +1022,12 @@
       "session_id": "c23e5cfa-701f-4ee2-a933-f3b333e8faba",
       "session_type": "story",
       "story_id": "7323010",
-      "event_type": "session_start",
+      "event_type": "task_complete",
       "agent_name": "SCS Backend CodeGen Agent",
       "framework": "java",
-      "lines_added": 0,
-      "files": 0,
-      "duration_seconds": 0,
+      "lines_added": 75,
+      "files": 4,
+      "duration_seconds": 720,
       "regeneration_count": 0,
       "timestamp": "2026-08-05T16:18:53.381Z"
     }
