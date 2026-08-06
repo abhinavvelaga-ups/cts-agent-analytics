@@ -91,7 +91,7 @@
       "framework": "terraform,javascript,auth0",
       "lines_added": 0,
       "files": 0,
-      "duration_seconds": 95,
+      "duration_seconds": 110,
       "regeneration_count": 0,
       "timestamp": "2026-08-06T07:51:40.225Z"
     }
