@@ -1737,12 +1737,12 @@
       "session_id": "cbbd0dfb-1580-4143-8fd8-1a24a6963836",
       "session_type": "general",
       "story_id": null,
-      "event_type": "session_start",
+      "event_type": "task_complete",
       "agent_name": "Default Chat",
       "framework": "java",
-      "lines_added": 0,
-      "files": 0,
-      "duration_seconds": 0,
+      "lines_added": 65,
+      "files": 1,
+      "duration_seconds": 2900,
       "regeneration_count": 0,
       "timestamp": "2026-08-06T13:13:33.890Z"
     }
