@@ -86,12 +86,12 @@
       "session_id": "54ebcca5-529a-4e00-b7e7-aedc8b649d5e",
       "session_type": "general",
       "story_id": null,
-      "event_type": "session_start",
+      "event_type": "task_complete",
       "agent_name": "Default Chat",
       "framework": "terraform,javascript,auth0",
       "lines_added": 0,
       "files": 0,
-      "duration_seconds": 0,
+      "duration_seconds": 75,
       "regeneration_count": 0,
       "timestamp": "2026-08-06T07:51:40.225Z"
     }
