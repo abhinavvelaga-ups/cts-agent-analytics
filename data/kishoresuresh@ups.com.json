@@ -671,12 +671,12 @@
       "session_id": "aa664757-a263-4a4a-9dce-be2bb3646a21",
       "session_type": "story",
       "story_id": "Oracle Trigger Fix - type !=1 to 1 INSERT logic",
-      "event_type": "session_start",
+      "event_type": "task_complete",
       "agent_name": "SCS Backend CodeGen Agent",
       "framework": "java,sql",
-      "lines_added": 0,
-      "files": 0,
-      "duration_seconds": 0,
+      "lines_added": 189,
+      "files": 5,
+      "duration_seconds": 300,
       "regeneration_count": 0,
       "timestamp": "2026-08-06T05:17:25.775Z"
     }
