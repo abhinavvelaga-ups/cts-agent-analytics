@@ -1727,10 +1727,10 @@
       "event_type": "task_complete",
       "agent_name": "SCS Backend CodeGen Agent",
       "framework": "java",
-      "lines_added": 43,
+      "lines_added": 1,
       "files": 1,
-      "duration_seconds": 180,
-      "regeneration_count": 1,
+      "duration_seconds": 120,
+      "regeneration_count": 2,
       "timestamp": "2026-08-06T08:59:47.067Z"
     }
   ]
