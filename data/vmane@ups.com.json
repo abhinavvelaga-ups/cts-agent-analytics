@@ -458,6 +458,19 @@
       "duration_seconds": 35,
       "regeneration_count": 0,
       "timestamp": "2026-08-06T07:37:28.979Z"
+    },
+    {
+      "session_id": "ae090edd-7944-49cc-8345-258576186ff3",
+      "session_type": "story",
+      "story_id": "3349511",
+      "event_type": "task_complete",
+      "agent_name": "SCS DevOps Config Agent",
+      "framework": "csharp,dotnet-webapi",
+      "lines_added": 5274,
+      "files": 95,
+      "duration_seconds": 430,
+      "regeneration_count": 2,
+      "timestamp": "2026-08-06T07:50:16.451Z"
     }
   ]
 }
