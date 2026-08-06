@@ -1711,12 +1711,12 @@
       "session_id": "f94bc1bf-6c68-433d-aac6-f8e6afd70af7",
       "session_type": "general",
       "story_id": null,
-      "event_type": "session_start",
+      "event_type": "task_complete",
       "agent_name": "SCS Backend CodeGen Agent",
       "framework": "java,ts,angular",
       "lines_added": 0,
-      "files": 0,
-      "duration_seconds": 0,
+      "files": 1,
+      "duration_seconds": 85,
       "regeneration_count": 0,
       "timestamp": "2026-08-05T19:20:24.785Z"
     }
