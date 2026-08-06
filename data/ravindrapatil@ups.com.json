@@ -125,12 +125,12 @@
       "session_id": "53e57a71-b44b-4ddd-af5c-ad8217405e2a",
       "session_type": "story",
       "story_id": "DFCT-E2KIntegrationNullRef",
-      "event_type": "session_start",
+      "event_type": "task_complete",
       "agent_name": "SCS Backend CodeGen Agent",
-      "framework": "csharp",
-      "lines_added": 0,
-      "files": 0,
-      "duration_seconds": 0,
+      "framework": "unknown",
+      "lines_added": 3,
+      "files": 2,
+      "duration_seconds": 180,
       "regeneration_count": 0,
       "timestamp": "2026-08-06T11:48:33.898Z"
     }
