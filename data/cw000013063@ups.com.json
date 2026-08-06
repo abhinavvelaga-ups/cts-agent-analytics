@@ -596,10 +596,10 @@
       "event_type": "task_complete",
       "agent_name": "Default Chat",
       "framework": "angular",
-      "lines_added": 10,
+      "lines_added": 1,
       "files": 1,
-      "duration_seconds": 15,
-      "regeneration_count": 0,
+      "duration_seconds": 62,
+      "regeneration_count": 1,
       "timestamp": "2026-08-06T07:36:40.000Z"
     }
   ]
