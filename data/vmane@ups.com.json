@@ -479,10 +479,10 @@
       "event_type": "task_complete",
       "agent_name": "SCS Backend CodeGen Agent",
       "framework": "csharp,dotnet-webapi,yaml",
-      "lines_added": 2,
-      "files": 2,
-      "duration_seconds": 360,
-      "regeneration_count": 1,
+      "lines_added": 6245,
+      "files": 65,
+      "duration_seconds": 540,
+      "regeneration_count": 2,
       "timestamp": "2026-08-06T11:03:13.247Z"
     }
   ]
