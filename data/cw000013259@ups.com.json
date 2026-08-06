@@ -26,7 +26,7 @@
       "framework": "sql,bigquery,gcp",
       "lines_added": 0,
       "files": 0,
-      "duration_seconds": 150,
+      "duration_seconds": 95,
       "regeneration_count": 1,
       "timestamp": "2026-08-06T10:37:53.365Z"
     }
