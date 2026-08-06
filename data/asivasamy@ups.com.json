@@ -1022,12 +1022,12 @@
       "session_id": "78bde994-ac1a-48a1-84ba-02dd77fa33c8",
       "session_type": "general",
       "story_id": null,
-      "event_type": "session_start",
+      "event_type": "task_complete",
       "agent_name": "Default Chat",
-      "framework": "unknown",
+      "framework": "js,angular,java",
       "lines_added": 0,
       "files": 0,
-      "duration_seconds": 0,
+      "duration_seconds": 300,
       "regeneration_count": 0,
       "timestamp": "2026-08-06T10:30:44.454Z"
     }
