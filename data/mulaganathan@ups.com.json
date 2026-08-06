@@ -203,13 +203,13 @@
       "session_id": "9c965d03-e78e-448d-8e21-2c3db2f25bcf",
       "session_type": "general",
       "story_id": null,
-      "event_type": "session_start",
+      "event_type": "task_complete",
       "agent_name": "Default Chat",
       "framework": "java,spring-boot,maven",
-      "lines_added": 0,
-      "files": 0,
-      "duration_seconds": 0,
-      "regeneration_count": 0,
+      "lines_added": 125,
+      "files": 1,
+      "duration_seconds": 300,
+      "regeneration_count": 1,
       "timestamp": "2026-08-06T06:29:12.444Z"
     }
   ]
