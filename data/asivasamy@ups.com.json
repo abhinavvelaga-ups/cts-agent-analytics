@@ -987,8 +987,8 @@
       "agent_name": "Default Chat",
       "framework": "ts,angular",
       "lines_added": 0,
-      "files": 1,
-      "duration_seconds": 69,
+      "files": 2,
+      "duration_seconds": 95,
       "regeneration_count": 3,
       "timestamp": "2026-08-05T13:08:46.663Z"
     },
