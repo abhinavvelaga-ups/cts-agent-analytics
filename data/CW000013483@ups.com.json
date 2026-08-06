@@ -770,6 +770,19 @@
       "duration_seconds": 30,
       "regeneration_count": 0,
       "timestamp": "2026-08-05T14:00:21.104Z"
+    },
+    {
+      "session_id": "17b2ed12-a4d2-44cb-8819-1804b811a7fd",
+      "session_type": "general",
+      "story_id": null,
+      "event_type": "session_start",
+      "agent_name": "SCS QA Validation Agent",
+      "framework": "ts,angular",
+      "lines_added": 0,
+      "files": 0,
+      "duration_seconds": 0,
+      "regeneration_count": 0,
+      "timestamp": "2026-08-06T11:08:03.521Z"
     }
   ]
 }
