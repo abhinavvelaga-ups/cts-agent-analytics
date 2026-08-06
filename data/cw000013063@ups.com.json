@@ -557,10 +557,10 @@
       "event_type": "task_complete",
       "agent_name": "Default Chat",
       "framework": "ts,angular",
-      "lines_added": 12,
+      "lines_added": 14,
       "files": 1,
-      "duration_seconds": 130,
-      "regeneration_count": 1,
+      "duration_seconds": 210,
+      "regeneration_count": 2,
       "timestamp": "2026-08-05T17:10:26.927Z"
     },
     {
