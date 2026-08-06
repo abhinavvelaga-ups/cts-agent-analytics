@@ -65,8 +65,8 @@
       "framework": "csharp,dotnet-webapi,ts,angular",
       "lines_added": 1,
       "files": 1,
-      "duration_seconds": 118,
-      "regeneration_count": 5,
+      "duration_seconds": 193,
+      "regeneration_count": 6,
       "timestamp": "2026-08-06T03:17:36.657Z"
     }
   ]
