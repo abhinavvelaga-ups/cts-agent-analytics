@@ -1763,12 +1763,12 @@
       "session_id": "c5e10d42-3e66-4b72-b101-c963d4321532",
       "session_type": "general",
       "story_id": null,
-      "event_type": "session_start",
+      "event_type": "task_complete",
       "agent_name": "Default Chat",
-      "framework": "unknown",
-      "lines_added": 0,
-      "files": 0,
-      "duration_seconds": 0,
+      "framework": "java,spring-boot",
+      "lines_added": 14928,
+      "files": 106,
+      "duration_seconds": 1500,
       "regeneration_count": 0,
       "timestamp": "2026-08-06T14:33:32.114Z"
     }
