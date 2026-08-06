@@ -622,10 +622,10 @@
       "event_type": "task_complete",
       "agent_name": "Default Chat",
       "framework": "ts,angular",
-      "lines_added": 6,
-      "files": 2,
-      "duration_seconds": 180,
-      "regeneration_count": 2,
+      "lines_added": 4,
+      "files": 1,
+      "duration_seconds": 140,
+      "regeneration_count": 3,
       "timestamp": "2026-08-06T12:58:59.494Z"
     }
   ]
