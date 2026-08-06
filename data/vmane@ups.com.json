@@ -476,12 +476,12 @@
       "session_id": "c7d7d6e2-933a-4cbb-aca3-89b41f940820",
       "session_type": "general",
       "story_id": null,
-      "event_type": "session_start",
+      "event_type": "task_complete",
       "agent_name": "SCS Backend CodeGen Agent",
       "framework": "csharp,dotnet-webapi,yaml",
-      "lines_added": 0,
-      "files": 0,
-      "duration_seconds": 0,
+      "lines_added": 339,
+      "files": 6,
+      "duration_seconds": 720,
       "regeneration_count": 0,
       "timestamp": "2026-08-06T11:03:13.247Z"
     }
