@@ -442,8 +442,8 @@
       "framework": "csharp,dotnet-webapi",
       "lines_added": 2,
       "files": 1,
-      "duration_seconds": 260,
-      "regeneration_count": 5,
+      "duration_seconds": 230,
+      "regeneration_count": 6,
       "timestamp": "2026-08-06T06:33:09.768Z"
     },
     {
