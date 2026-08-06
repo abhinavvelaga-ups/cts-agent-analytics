@@ -1714,10 +1714,10 @@
       "event_type": "task_complete",
       "agent_name": "SCS Backend CodeGen Agent",
       "framework": "java,ts,angular",
-      "lines_added": 0,
-      "files": 0,
-      "duration_seconds": 30,
-      "regeneration_count": 2,
+      "lines_added": 2,
+      "files": 1,
+      "duration_seconds": 95,
+      "regeneration_count": 3,
       "timestamp": "2026-08-05T19:20:24.785Z"
     }
   ]
