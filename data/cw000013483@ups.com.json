@@ -34,7 +34,7 @@
       "session_id": "074f51dc-87de-4468-b355-fd38ca91314c",
       "session_type": "general",
       "story_id": null,
-      "event_type": "session_start",
+      "event_type": "task_failed",
       "agent_name": "CTS ADO Setup Agent",
       "framework": "csharp,ts,angular",
       "lines_added": 0,
