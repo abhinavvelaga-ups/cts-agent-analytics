@@ -164,11 +164,11 @@
       "session_id": "fcf23eb3-f5b7-4239-9019-d44db0e5490d",
       "session_type": "general",
       "story_id": null,
-      "event_type": "task_complete",
+      "event_type": "commit_accepted",
       "agent_name": ".NET Coding Agent",
       "framework": "unknown",
       "lines_added": 0,
-      "files": 1,
+      "files": 0,
       "duration_seconds": 0,
       "regeneration_count": 0,
       "timestamp": "2026-08-07T08:15:03.194Z"
