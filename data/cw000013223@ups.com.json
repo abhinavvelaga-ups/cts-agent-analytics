@@ -180,10 +180,10 @@
       "event_type": "task_complete",
       "agent_name": "Default Chat",
       "framework": "ts,playwright",
-      "lines_added": 0,
-      "files": 0,
-      "duration_seconds": 64,
-      "regeneration_count": 0,
+      "lines_added": 22,
+      "files": 1,
+      "duration_seconds": 162,
+      "regeneration_count": 2,
       "timestamp": "2026-08-07T07:03:22.138Z"
     }
   ]
