@@ -853,12 +853,12 @@
       "session_id": "30dbe506-f084-437d-a2c7-7b78522ac92c",
       "session_type": "story",
       "story_id": "DFCT-latency-tundra",
-      "event_type": "session_start",
+      "event_type": "task_complete",
       "agent_name": "SCS Backend CodeGen Agent",
-      "framework": "java,spring-boot,soap",
-      "lines_added": 0,
-      "files": 0,
-      "duration_seconds": 0,
+      "framework": "unknown",
+      "lines_added": 450,
+      "files": 8,
+      "duration_seconds": 480,
       "regeneration_count": 0,
       "timestamp": "2026-08-07T16:52:31.486Z"
     }
