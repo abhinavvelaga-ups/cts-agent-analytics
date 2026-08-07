@@ -237,6 +237,19 @@
       "duration_seconds": 420,
       "regeneration_count": 0,
       "timestamp": "2026-08-07T10:08:25.572Z"
+    },
+    {
+      "session_id": "f41537d6-d362-4e89-816b-c3042f29be89",
+      "session_type": "story",
+      "story_id": "TrackNum1Z.java test coverage",
+      "event_type": "task_complete",
+      "agent_name": "Default Chat",
+      "framework": "java",
+      "lines_added": 20,
+      "files": 2,
+      "duration_seconds": 130,
+      "regeneration_count": 0,
+      "timestamp": "2026-08-07T10:12:42.650Z"
     }
   ]
 }
