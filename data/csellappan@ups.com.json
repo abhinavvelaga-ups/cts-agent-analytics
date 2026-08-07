@@ -1095,6 +1095,19 @@
       "duration_seconds": 300,
       "regeneration_count": 0,
       "timestamp": "2026-08-07T09:22:49.987Z"
+    },
+    {
+      "session_id": "f338566d-750d-4cee-84a6-688da81ee078",
+      "session_type": "story",
+      "story_id": "https://dev.azure.com/UPSProd4/P4AG_GeNeSIS",
+      "event_type": "session_start",
+      "agent_name": "SCS Orchestrator Agent",
+      "framework": "java,spring-boot",
+      "lines_added": 0,
+      "files": 0,
+      "duration_seconds": 0,
+      "regeneration_count": 0,
+      "timestamp": "2026-08-07T12:08:03.966Z"
     }
   ]
 }
