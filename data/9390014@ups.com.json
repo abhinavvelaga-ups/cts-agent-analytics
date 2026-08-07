@@ -1021,10 +1021,10 @@
       "story_id": null,
       "event_type": "task_complete",
       "agent_name": "Default Chat",
-      "framework": "js,kubernetes,docker,powershell",
-      "lines_added": 330,
+      "framework": "docker,kubernetes,powershell,bash",
+      "lines_added": 160,
       "files": 5,
-      "duration_seconds": 1800,
+      "duration_seconds": 900,
       "regeneration_count": 2,
       "timestamp": "2026-07-28T21:33:21.819Z"
     },
