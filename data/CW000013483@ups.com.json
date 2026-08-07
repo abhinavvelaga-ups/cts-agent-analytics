@@ -892,12 +892,12 @@
       "session_id": "fed5ee6b-215a-402f-9bfd-f46a8dce86e2",
       "session_type": "general",
       "story_id": null,
-      "event_type": "session_start",
+      "event_type": "task_complete",
       "agent_name": "SCS Architecture Agent",
       "framework": "csharp,dotnet-webapi,ts,angular",
       "lines_added": 0,
       "files": 0,
-      "duration_seconds": 0,
+      "duration_seconds": 15,
       "regeneration_count": 0,
       "timestamp": "2026-08-07T16:21:19.816Z"
     }
