@@ -1048,12 +1048,12 @@
       "session_id": "1bb5945c-7589-4ebf-b1d9-37bc7e66f68b",
       "session_type": "general",
       "story_id": null,
-      "event_type": "session_start",
+      "event_type": "task_complete",
       "agent_name": "Default Chat",
       "framework": "java",
       "lines_added": 0,
       "files": 0,
-      "duration_seconds": 0,
+      "duration_seconds": 95,
       "regeneration_count": 0,
       "timestamp": "2026-08-07T11:45:20.694Z"
     }
