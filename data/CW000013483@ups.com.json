@@ -814,7 +814,7 @@
       "session_id": "feb0498d-ba54-4ca6-a232-ec91f25b5ee7",
       "session_type": "story",
       "story_id": "7463652",
-      "event_type": "session_start",
+      "event_type": "task_failed",
       "agent_name": "Default Chat",
       "framework": "csharp,ts,angular",
       "lines_added": 0,
