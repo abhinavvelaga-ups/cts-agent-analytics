@@ -1113,12 +1113,12 @@
       "session_id": "38a9073f-dd71-448c-b87c-0addf2e10198",
       "session_type": "story",
       "story_id": "https://dev.azure.com/UPSProd4/P4AG_GeNeSIS/_wiki/wikis/P04AGit_GeNeSIS.wiki/6612/GeNeSIS-MQ-Services",
-      "event_type": "session_start",
+      "event_type": "task_complete",
       "agent_name": "SCS Orchestrator Agent",
       "framework": "java,spring-boot,kafka",
       "lines_added": 0,
       "files": 0,
-      "duration_seconds": 0,
+      "duration_seconds": 60,
       "regeneration_count": 0,
       "timestamp": "2026-08-07T12:10:27.920Z"
     }
