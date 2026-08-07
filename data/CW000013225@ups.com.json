@@ -294,12 +294,12 @@
       "session_id": "7a7c3eca-18ce-43e9-80e6-09d857e8faee",
       "session_type": "story",
       "story_id": "6988305",
-      "event_type": "session_start",
+      "event_type": "task_complete",
       "agent_name": "SCS Backend CodeGen Agent",
       "framework": "java",
       "lines_added": 0,
       "files": 0,
-      "duration_seconds": 0,
+      "duration_seconds": 180,
       "regeneration_count": 0,
       "timestamp": "2026-08-07T12:36:27.023Z"
     }
