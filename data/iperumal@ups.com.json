@@ -62,11 +62,11 @@
       "story_id": null,
       "event_type": "task_complete",
       "agent_name": "Default Chat",
-      "framework": "java,testng",
-      "lines_added": 0,
-      "files": 0,
-      "duration_seconds": 150,
-      "regeneration_count": 0,
+      "framework": "js,playwright",
+      "lines_added": 258,
+      "files": 9,
+      "duration_seconds": 110,
+      "regeneration_count": 1,
       "timestamp": "2026-08-07T10:14:36.069Z"
     }
   ]
