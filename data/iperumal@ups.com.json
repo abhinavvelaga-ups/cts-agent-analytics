@@ -63,9 +63,9 @@
       "event_type": "task_complete",
       "agent_name": "Default Chat",
       "framework": "java,testng,playwright",
-      "lines_added": 217,
-      "files": 6,
-      "duration_seconds": 170,
+      "lines_added": 15,
+      "files": 1,
+      "duration_seconds": 85,
       "regeneration_count": 2,
       "timestamp": "2026-08-07T10:14:36.069Z"
     }
