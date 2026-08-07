@@ -1061,10 +1061,10 @@
       "event_type": "task_complete",
       "agent_name": "Default Chat",
       "framework": "python",
-      "lines_added": 140,
+      "lines_added": 45,
       "files": 3,
-      "duration_seconds": 180,
-      "regeneration_count": 2,
+      "duration_seconds": 150,
+      "regeneration_count": 3,
       "timestamp": "2026-08-07T03:16:54.306Z"
     }
   ]
