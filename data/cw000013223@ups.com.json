@@ -182,7 +182,7 @@
       "framework": "ts,playwright",
       "lines_added": 0,
       "files": 0,
-      "duration_seconds": 8,
+      "duration_seconds": 64,
       "regeneration_count": 0,
       "timestamp": "2026-08-07T07:03:22.138Z"
     }
