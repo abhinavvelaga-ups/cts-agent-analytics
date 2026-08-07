@@ -1100,7 +1100,7 @@
       "session_id": "f338566d-750d-4cee-84a6-688da81ee078",
       "session_type": "story",
       "story_id": "https://dev.azure.com/UPSProd4/P4AG_GeNeSIS",
-      "event_type": "session_start",
+      "event_type": "task_failed",
       "agent_name": "SCS Orchestrator Agent",
       "framework": "java,spring-boot",
       "lines_added": 0,
