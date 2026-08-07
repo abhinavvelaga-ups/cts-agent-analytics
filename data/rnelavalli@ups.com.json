@@ -112,7 +112,7 @@
       "session_id": "f1ba02ea-5841-4ef6-a874-4bcbfa0a6bff",
       "session_type": "general",
       "story_id": null,
-      "event_type": "session_start",
+      "event_type": "task_complete",
       "agent_name": "GitHub Copilot",
       "framework": "unknown",
       "lines_added": 0,
